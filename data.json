@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-07-13T15:31:28+01:00",
+  "updated": "2026-07-13T15:40:05+01:00",
   "period": {
     "day": "2026-07-13",
     "month": "2026-07"
@@ -27,8 +27,8 @@
       "id": "marlon-albohaithi",
       "leadsToday": 7,
       "leadsMonth": 40,
-      "callsToday": 60,
-      "callsMonth": 578
+      "callsToday": 61,
+      "callsMonth": 579
     },
     {
       "name": "Daniel Gee",
