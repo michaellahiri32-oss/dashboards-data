@@ -1,0 +1,66 @@
+{
+  "title": "UK Accident Management — Leads Tracker",
+  "updated": "2026-07-13T13:50:03+01:00",
+  "period": {
+    "day": "2026-07-13",
+    "month": "2026-07"
+  },
+  "agents": [
+    {
+      "name": "James Bridgwood",
+      "id": "james-bridgwood",
+      "leadsToday": 1,
+      "leadsMonth": 47,
+      "callsToday": 23,
+      "callsMonth": 525
+    },
+    {
+      "name": "Mel Abbott",
+      "id": "mel-abbott",
+      "leadsToday": 1,
+      "leadsMonth": 44,
+      "callsToday": 45,
+      "callsMonth": 533
+    },
+    {
+      "name": "Marlon Albohaithi",
+      "id": "marlon-albohaithi",
+      "leadsToday": 4,
+      "leadsMonth": 38,
+      "callsToday": 38,
+      "callsMonth": 556
+    },
+    {
+      "name": "Daniel Gee",
+      "id": "daniel-gee",
+      "leadsToday": 2,
+      "leadsMonth": 33,
+      "callsToday": 43,
+      "callsMonth": 451
+    },
+    {
+      "name": "Michael Lahiri",
+      "id": "michael-lahiri",
+      "leadsToday": 0,
+      "leadsMonth": 22,
+      "callsToday": 0,
+      "callsMonth": 310
+    },
+    {
+      "name": "Gemma Stone",
+      "id": "gemma-stone",
+      "leadsToday": 5,
+      "leadsMonth": 20,
+      "callsToday": 40,
+      "callsMonth": 298
+    },
+    {
+      "name": "Peter Brunker",
+      "id": "peter-brunker",
+      "leadsToday": 1,
+      "leadsMonth": 13,
+      "callsToday": 40,
+      "callsMonth": 144
+    }
+  ]
+}
