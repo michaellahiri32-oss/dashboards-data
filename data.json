@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-07-15T17:40:03+01:00",
+  "updated": "2026-07-15T17:50:03+01:00",
   "period": {
     "day": "2026-07-15",
     "month": "2026-07"
@@ -11,8 +11,8 @@
       "id": "mel-abbott",
       "leadsToday": 6,
       "leadsMonth": 58,
-      "callsToday": 63,
-      "callsMonth": 684
+      "callsToday": 65,
+      "callsMonth": 686
     },
     {
       "name": "Marlon Albohaithi",
@@ -35,16 +35,16 @@
       "id": "daniel-gee",
       "leadsToday": 4,
       "leadsMonth": 48,
-      "callsToday": 64,
-      "callsMonth": 626
+      "callsToday": 66,
+      "callsMonth": 628
     },
     {
       "name": "Gemma Stone",
       "id": "gemma-stone",
       "leadsToday": 6,
       "leadsMonth": 33,
-      "callsToday": 57,
-      "callsMonth": 444
+      "callsToday": 60,
+      "callsMonth": 447
     },
     {
       "name": "Peter Brunker",
