@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-07-16T19:30:04+01:00",
+  "updated": "2026-07-16T19:40:03+01:00",
   "period": {
     "day": "2026-07-16",
     "month": "2026-07"
@@ -35,8 +35,8 @@
       "id": "daniel-gee",
       "leadsToday": 2,
       "leadsMonth": 51,
-      "callsToday": 51,
-      "callsMonth": 679
+      "callsToday": 52,
+      "callsMonth": 680
     },
     {
       "name": "Gemma Stone",
