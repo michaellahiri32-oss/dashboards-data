@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-07-18T16:10:03+01:00",
+  "updated": "2026-07-18T16:20:03+01:00",
   "period": {
     "day": "2026-07-18",
     "month": "2026-07"
@@ -27,8 +27,8 @@
       "id": "james-bridgwood",
       "leadsToday": 0,
       "leadsMonth": 60,
-      "callsToday": 7,
-      "callsMonth": 741
+      "callsToday": 8,
+      "callsMonth": 742
     },
     {
       "name": "Daniel Gee",
