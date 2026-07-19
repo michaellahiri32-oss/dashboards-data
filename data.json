@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-07-19T11:00:03+01:00",
+  "updated": "2026-07-19T11:10:03+01:00",
   "period": {
     "day": "2026-07-19",
     "month": "2026-07"
@@ -9,10 +9,10 @@
     {
       "name": "Mel Abbott",
       "id": "mel-abbott",
-      "leadsToday": 1,
-      "leadsMonth": 67,
-      "callsToday": 20,
-      "callsMonth": 760
+      "leadsToday": 2,
+      "leadsMonth": 68,
+      "callsToday": 21,
+      "callsMonth": 761
     },
     {
       "name": "Marlon Albohaithi",
@@ -27,8 +27,8 @@
       "id": "james-bridgwood",
       "leadsToday": 1,
       "leadsMonth": 62,
-      "callsToday": 19,
-      "callsMonth": 774
+      "callsToday": 21,
+      "callsMonth": 776
     },
     {
       "name": "Daniel Gee",
