@@ -1,25 +1,25 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-07-19T15:50:03+01:00",
+  "updated": "2026-07-20T08:00:03+01:00",
   "period": {
-    "day": "2026-07-19",
+    "day": "2026-07-20",
     "month": "2026-07"
   },
   "agents": [
     {
       "name": "Mel Abbott",
       "id": "mel-abbott",
-      "leadsToday": 3,
+      "leadsToday": 0,
       "leadsMonth": 69,
-      "callsToday": 49,
+      "callsToday": 0,
       "callsMonth": 789
     },
     {
       "name": "James Bridgwood",
       "id": "james-bridgwood",
-      "leadsToday": 3,
+      "leadsToday": 0,
       "leadsMonth": 64,
-      "callsToday": 45,
+      "callsToday": 0,
       "callsMonth": 800
     },
     {
@@ -59,7 +59,7 @@
       "id": "michael-lahiri",
       "leadsToday": 0,
       "leadsMonth": 22,
-      "callsToday": 12,
+      "callsToday": 0,
       "callsMonth": 337
     }
   ]
