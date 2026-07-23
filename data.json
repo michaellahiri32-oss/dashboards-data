@@ -1,8 +1,8 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-07-22T19:40:03+01:00",
+  "updated": "2026-07-23T08:00:03+01:00",
   "period": {
-    "day": "2026-07-22",
+    "day": "2026-07-23",
     "month": "2026-07"
   },
   "months": [
@@ -13,9 +13,9 @@
     {
       "name": "Mel Abbott",
       "id": "mel-abbott",
-      "leadsToday": 1,
+      "leadsToday": 0,
       "leadsMonth": 70,
-      "callsToday": 6,
+      "callsToday": 0,
       "callsMonth": 795,
       "byMonth": {
         "2026-07": {
@@ -31,9 +31,9 @@
     {
       "name": "James Bridgwood",
       "id": "james-bridgwood",
-      "leadsToday": 1,
+      "leadsToday": 0,
       "leadsMonth": 65,
-      "callsToday": 11,
+      "callsToday": 0,
       "callsMonth": 811,
       "byMonth": {
         "2026-07": {
@@ -51,7 +51,7 @@
       "id": "marlon-albohaithi",
       "leadsToday": 0,
       "leadsMonth": 64,
-      "callsToday": 12,
+      "callsToday": 0,
       "callsMonth": 845,
       "byMonth": {
         "2026-07": {
@@ -69,7 +69,7 @@
       "id": "daniel-gee",
       "leadsToday": 0,
       "leadsMonth": 54,
-      "callsToday": 8,
+      "callsToday": 0,
       "callsMonth": 691,
       "byMonth": {
         "2026-07": {
@@ -85,9 +85,9 @@
     {
       "name": "Gemma Stone",
       "id": "gemma-stone",
-      "leadsToday": 3,
+      "leadsToday": 0,
       "leadsMonth": 40,
-      "callsToday": 7,
+      "callsToday": 0,
       "callsMonth": 500,
       "byMonth": {
         "2026-07": {
@@ -103,9 +103,9 @@
     {
       "name": "Peter Brunker",
       "id": "peter-brunker",
-      "leadsToday": 2,
+      "leadsToday": 0,
       "leadsMonth": 36,
-      "callsToday": 11,
+      "callsToday": 0,
       "callsMonth": 387,
       "byMonth": {
         "2026-07": {
