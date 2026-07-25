@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-07-25T18:00:03+01:00",
+  "updated": "2026-07-25T18:10:03+01:00",
   "period": {
     "day": "2026-07-25",
     "month": "2026-07"
@@ -33,12 +33,12 @@
       "id": "marlon-albohaithi",
       "leadsToday": 2,
       "leadsMonth": 70,
-      "callsToday": 8,
-      "callsMonth": 866,
+      "callsToday": 9,
+      "callsMonth": 867,
       "byMonth": {
         "2026-07": {
           "leads": 70,
-          "calls": 866
+          "calls": 867
         },
         "2026-06": {
           "leads": 38,
@@ -49,14 +49,14 @@
     {
       "name": "James Bridgwood",
       "id": "james-bridgwood",
-      "leadsToday": 2,
-      "leadsMonth": 68,
-      "callsToday": 7,
-      "callsMonth": 829,
+      "leadsToday": 3,
+      "leadsMonth": 69,
+      "callsToday": 8,
+      "callsMonth": 830,
       "byMonth": {
         "2026-07": {
-          "leads": 68,
-          "calls": 829
+          "leads": 69,
+          "calls": 830
         },
         "2026-06": {
           "leads": 3,
@@ -69,12 +69,12 @@
       "id": "daniel-gee",
       "leadsToday": 1,
       "leadsMonth": 57,
-      "callsToday": 7,
-      "callsMonth": 708,
+      "callsToday": 8,
+      "callsMonth": 709,
       "byMonth": {
         "2026-07": {
           "leads": 57,
-          "calls": 708
+          "calls": 709
         },
         "2026-06": {
           "leads": 23,
