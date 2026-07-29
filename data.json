@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-07-29T15:10:03+01:00",
+  "updated": "2026-07-29T15:20:03+01:00",
   "period": {
     "day": "2026-07-29",
     "month": "2026-07"
@@ -13,14 +13,14 @@
     {
       "name": "Mel Abbott",
       "id": "mel-abbott",
-      "leadsToday": 0,
-      "leadsMonth": 78,
-      "callsToday": 6,
-      "callsMonth": 841,
+      "leadsToday": 1,
+      "leadsMonth": 79,
+      "callsToday": 7,
+      "callsMonth": 842,
       "byMonth": {
         "2026-07": {
-          "leads": 78,
-          "calls": 841
+          "leads": 79,
+          "calls": 842
         },
         "2026-06": {
           "leads": 8,
@@ -33,12 +33,12 @@
       "id": "james-bridgwood",
       "leadsToday": 0,
       "leadsMonth": 72,
-      "callsToday": 5,
-      "callsMonth": 859,
+      "callsToday": 7,
+      "callsMonth": 861,
       "byMonth": {
         "2026-07": {
           "leads": 72,
-          "calls": 859
+          "calls": 861
         },
         "2026-06": {
           "leads": 3,
@@ -67,13 +67,13 @@
     {
       "name": "Daniel Gee",
       "id": "daniel-gee",
-      "leadsToday": 0,
-      "leadsMonth": 62,
+      "leadsToday": 1,
+      "leadsMonth": 63,
       "callsToday": 6,
       "callsMonth": 733,
       "byMonth": {
         "2026-07": {
-          "leads": 62,
+          "leads": 63,
           "calls": 733
         },
         "2026-06": {
@@ -87,12 +87,12 @@
       "id": "gemma-stone",
       "leadsToday": 1,
       "leadsMonth": 42,
-      "callsToday": 7,
-      "callsMonth": 520,
+      "callsToday": 9,
+      "callsMonth": 522,
       "byMonth": {
         "2026-07": {
           "leads": 42,
-          "calls": 520
+          "calls": 522
         },
         "2026-06": {
           "leads": 27,
@@ -105,12 +105,12 @@
       "id": "peter-brunker",
       "leadsToday": 0,
       "leadsMonth": 37,
-      "callsToday": 8,
-      "callsMonth": 406,
+      "callsToday": 11,
+      "callsMonth": 409,
       "byMonth": {
         "2026-07": {
           "leads": 37,
-          "calls": 406
+          "calls": 409
         }
       }
     },
