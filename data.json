@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-07-31T18:20:03+01:00",
+  "updated": "2026-07-31T18:30:03+01:00",
   "period": {
     "day": "2026-07-31",
     "month": "2026-07"
@@ -15,12 +15,12 @@
       "id": "mel-abbott",
       "leadsToday": 3,
       "leadsMonth": 90,
-      "callsToday": 37,
-      "callsMonth": 928,
+      "callsToday": 39,
+      "callsMonth": 930,
       "byMonth": {
         "2026-07": {
           "leads": 90,
-          "calls": 928
+          "calls": 930
         },
         "2026-06": {
           "leads": 8,
@@ -29,34 +29,16 @@
       }
     },
     {
-      "name": "James Bridgwood",
-      "id": "james-bridgwood",
-      "leadsToday": 3,
-      "leadsMonth": 79,
-      "callsToday": 32,
-      "callsMonth": 941,
-      "byMonth": {
-        "2026-07": {
-          "leads": 79,
-          "calls": 941
-        },
-        "2026-06": {
-          "leads": 3,
-          "calls": 102
-        }
-      }
-    },
-    {
       "name": "Marlon Albohaithi",
       "id": "marlon-albohaithi",
-      "leadsToday": 2,
-      "leadsMonth": 79,
-      "callsToday": 38,
-      "callsMonth": 957,
+      "leadsToday": 3,
+      "leadsMonth": 80,
+      "callsToday": 39,
+      "callsMonth": 958,
       "byMonth": {
         "2026-07": {
-          "leads": 79,
-          "calls": 957
+          "leads": 80,
+          "calls": 958
         },
         "2026-06": {
           "leads": 38,
@@ -65,20 +47,52 @@
       }
     },
     {
+      "name": "James Bridgwood",
+      "id": "james-bridgwood",
+      "leadsToday": 3,
+      "leadsMonth": 79,
+      "callsToday": 33,
+      "callsMonth": 942,
+      "byMonth": {
+        "2026-07": {
+          "leads": 79,
+          "calls": 942
+        },
+        "2026-06": {
+          "leads": 3,
+          "calls": 102
+        }
+      }
+    },
+    {
       "name": "Daniel Gee",
       "id": "daniel-gee",
       "leadsToday": 4,
       "leadsMonth": 75,
-      "callsToday": 36,
-      "callsMonth": 804,
+      "callsToday": 38,
+      "callsMonth": 806,
       "byMonth": {
         "2026-07": {
           "leads": 75,
-          "calls": 804
+          "calls": 806
         },
         "2026-06": {
           "leads": 23,
           "calls": 952
+        }
+      }
+    },
+    {
+      "name": "Peter Brunker",
+      "id": "peter-brunker",
+      "leadsToday": 4,
+      "leadsMonth": 51,
+      "callsToday": 42,
+      "callsMonth": 495,
+      "byMonth": {
+        "2026-07": {
+          "leads": 51,
+          "calls": 495
         }
       }
     },
@@ -88,29 +102,15 @@
       "leadsToday": 2,
       "leadsMonth": 50,
       "callsToday": 31,
-      "callsMonth": 602,
+      "callsMonth": 603,
       "byMonth": {
         "2026-07": {
           "leads": 50,
-          "calls": 602
+          "calls": 603
         },
         "2026-06": {
           "leads": 27,
           "calls": 869
-        }
-      }
-    },
-    {
-      "name": "Peter Brunker",
-      "id": "peter-brunker",
-      "leadsToday": 3,
-      "leadsMonth": 50,
-      "callsToday": 42,
-      "callsMonth": 495,
-      "byMonth": {
-        "2026-07": {
-          "leads": 50,
-          "calls": 495
         }
       }
     },
