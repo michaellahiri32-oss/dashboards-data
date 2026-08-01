@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-08-01T16:00:03+01:00",
+  "updated": "2026-08-01T16:10:03+01:00",
   "period": {
     "day": "2026-08-01",
     "month": "2026-08"
@@ -14,14 +14,14 @@
     {
       "name": "James Bridgwood",
       "id": "james-bridgwood",
-      "leadsToday": 2,
-      "leadsMonth": 2,
-      "callsToday": 5,
-      "callsMonth": 5,
+      "leadsToday": 3,
+      "leadsMonth": 3,
+      "callsToday": 7,
+      "callsMonth": 7,
       "byMonth": {
         "2026-08": {
-          "leads": 2,
-          "calls": 5
+          "leads": 3,
+          "calls": 7
         },
         "2026-07": {
           "leads": 81,
@@ -34,38 +34,16 @@
       }
     },
     {
-      "name": "Marlon Albohaithi",
-      "id": "marlon-albohaithi",
+      "name": "Daniel Gee",
+      "id": "daniel-gee",
       "leadsToday": 1,
       "leadsMonth": 1,
-      "callsToday": 9,
-      "callsMonth": 9,
+      "callsToday": 15,
+      "callsMonth": 15,
       "byMonth": {
         "2026-08": {
           "leads": 1,
-          "calls": 9
-        },
-        "2026-07": {
-          "leads": 80,
-          "calls": 963
-        },
-        "2026-06": {
-          "leads": 38,
-          "calls": 1039
-        }
-      }
-    },
-    {
-      "name": "Daniel Gee",
-      "id": "daniel-gee",
-      "leadsToday": 0,
-      "leadsMonth": 0,
-      "callsToday": 14,
-      "callsMonth": 14,
-      "byMonth": {
-        "2026-08": {
-          "leads": 0,
-          "calls": 14
+          "calls": 15
         },
         "2026-07": {
           "leads": 76,
@@ -74,6 +52,28 @@
         "2026-06": {
           "leads": 23,
           "calls": 952
+        }
+      }
+    },
+    {
+      "name": "Marlon Albohaithi",
+      "id": "marlon-albohaithi",
+      "leadsToday": 1,
+      "leadsMonth": 1,
+      "callsToday": 13,
+      "callsMonth": 13,
+      "byMonth": {
+        "2026-08": {
+          "leads": 1,
+          "calls": 13
+        },
+        "2026-07": {
+          "leads": 80,
+          "calls": 963
+        },
+        "2026-06": {
+          "leads": 38,
+          "calls": 1039
         }
       }
     },
@@ -100,12 +100,12 @@
       "id": "mel-abbott",
       "leadsToday": 0,
       "leadsMonth": 0,
-      "callsToday": 11,
-      "callsMonth": 11,
+      "callsToday": 12,
+      "callsMonth": 12,
       "byMonth": {
         "2026-08": {
           "leads": 0,
-          "calls": 11
+          "calls": 12
         },
         "2026-07": {
           "leads": 90,
@@ -122,12 +122,12 @@
       "id": "michael-lahiri",
       "leadsToday": 0,
       "leadsMonth": 0,
-      "callsToday": 1,
-      "callsMonth": 1,
+      "callsToday": 2,
+      "callsMonth": 2,
       "byMonth": {
         "2026-08": {
           "leads": 0,
-          "calls": 1
+          "calls": 2
         },
         "2026-07": {
           "leads": 22,
