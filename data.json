@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-08-01T16:50:03+01:00",
+  "updated": "2026-08-01T17:00:03+01:00",
   "period": {
     "day": "2026-08-01",
     "month": "2026-08"
@@ -16,12 +16,12 @@
       "id": "james-bridgwood",
       "leadsToday": 3,
       "leadsMonth": 3,
-      "callsToday": 10,
-      "callsMonth": 10,
+      "callsToday": 12,
+      "callsMonth": 12,
       "byMonth": {
         "2026-08": {
           "leads": 3,
-          "calls": 10
+          "calls": 12
         },
         "2026-07": {
           "leads": 81,
@@ -38,12 +38,12 @@
       "id": "daniel-gee",
       "leadsToday": 2,
       "leadsMonth": 2,
-      "callsToday": 18,
-      "callsMonth": 18,
+      "callsToday": 19,
+      "callsMonth": 19,
       "byMonth": {
         "2026-08": {
           "leads": 2,
-          "calls": 18
+          "calls": 19
         },
         "2026-07": {
           "leads": 76,
@@ -74,6 +74,28 @@
         "2026-06": {
           "leads": 38,
           "calls": 1039
+        }
+      }
+    },
+    {
+      "name": "Mel Abbott",
+      "id": "mel-abbott",
+      "leadsToday": 1,
+      "leadsMonth": 1,
+      "callsToday": 15,
+      "callsMonth": 15,
+      "byMonth": {
+        "2026-08": {
+          "leads": 1,
+          "calls": 15
+        },
+        "2026-07": {
+          "leads": 90,
+          "calls": 934
+        },
+        "2026-06": {
+          "leads": 8,
+          "calls": 62
         }
       }
     },
@@ -114,28 +136,6 @@
         "2026-06": {
           "leads": 27,
           "calls": 869
-        }
-      }
-    },
-    {
-      "name": "Mel Abbott",
-      "id": "mel-abbott",
-      "leadsToday": 0,
-      "leadsMonth": 0,
-      "callsToday": 13,
-      "callsMonth": 13,
-      "byMonth": {
-        "2026-08": {
-          "leads": 0,
-          "calls": 13
-        },
-        "2026-07": {
-          "leads": 90,
-          "calls": 934
-        },
-        "2026-06": {
-          "leads": 8,
-          "calls": 62
         }
       }
     },
