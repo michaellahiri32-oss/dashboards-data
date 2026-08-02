@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-08-02T12:40:03+01:00",
+  "updated": "2026-08-02T12:50:03+01:00",
   "period": {
     "day": "2026-08-02",
     "month": "2026-08"
@@ -16,12 +16,12 @@
       "id": "marlon-albohaithi",
       "leadsToday": 1,
       "leadsMonth": 5,
-      "callsToday": 10,
-      "callsMonth": 51,
+      "callsToday": 11,
+      "callsMonth": 52,
       "byMonth": {
         "2026-08": {
           "leads": 5,
-          "calls": 51
+          "calls": 52
         },
         "2026-07": {
           "leads": 80,
@@ -38,12 +38,12 @@
       "id": "james-bridgwood",
       "leadsToday": 0,
       "leadsMonth": 4,
-      "callsToday": 12,
-      "callsMonth": 35,
+      "callsToday": 15,
+      "callsMonth": 38,
       "byMonth": {
         "2026-08": {
           "leads": 4,
-          "calls": 35
+          "calls": 38
         },
         "2026-07": {
           "leads": 81,
@@ -82,12 +82,12 @@
       "id": "mel-abbott",
       "leadsToday": 0,
       "leadsMonth": 3,
-      "callsToday": 13,
-      "callsMonth": 49,
+      "callsToday": 15,
+      "callsMonth": 51,
       "byMonth": {
         "2026-08": {
           "leads": 3,
-          "calls": 49
+          "calls": 51
         },
         "2026-07": {
           "leads": 90,
@@ -104,12 +104,12 @@
       "id": "gemma-stone",
       "leadsToday": 1,
       "leadsMonth": 1,
-      "callsToday": 7,
-      "callsMonth": 7,
+      "callsToday": 10,
+      "callsMonth": 10,
       "byMonth": {
         "2026-08": {
           "leads": 1,
-          "calls": 7
+          "calls": 10
         },
         "2026-07": {
           "leads": 50,
