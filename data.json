@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-08-02T13:50:03+01:00",
+  "updated": "2026-08-02T14:00:03+01:00",
   "period": {
     "day": "2026-08-02",
     "month": "2026-08"
@@ -16,12 +16,12 @@
       "id": "marlon-albohaithi",
       "leadsToday": 2,
       "leadsMonth": 6,
-      "callsToday": 22,
-      "callsMonth": 63,
+      "callsToday": 23,
+      "callsMonth": 64,
       "byMonth": {
         "2026-08": {
           "leads": 6,
-          "calls": 63
+          "calls": 64
         },
         "2026-07": {
           "leads": 80,
@@ -56,38 +56,16 @@
       }
     },
     {
-      "name": "Daniel Gee",
-      "id": "daniel-gee",
-      "leadsToday": 1,
-      "leadsMonth": 4,
-      "callsToday": 21,
-      "callsMonth": 58,
-      "byMonth": {
-        "2026-08": {
-          "leads": 4,
-          "calls": 58
-        },
-        "2026-07": {
-          "leads": 76,
-          "calls": 811
-        },
-        "2026-06": {
-          "leads": 23,
-          "calls": 952
-        }
-      }
-    },
-    {
       "name": "Mel Abbott",
       "id": "mel-abbott",
-      "leadsToday": 1,
-      "leadsMonth": 4,
-      "callsToday": 26,
-      "callsMonth": 62,
+      "leadsToday": 2,
+      "leadsMonth": 5,
+      "callsToday": 27,
+      "callsMonth": 63,
       "byMonth": {
         "2026-08": {
-          "leads": 4,
-          "calls": 62
+          "leads": 5,
+          "calls": 63
         },
         "2026-07": {
           "leads": 90,
@@ -100,16 +78,38 @@
       }
     },
     {
+      "name": "Daniel Gee",
+      "id": "daniel-gee",
+      "leadsToday": 1,
+      "leadsMonth": 4,
+      "callsToday": 22,
+      "callsMonth": 59,
+      "byMonth": {
+        "2026-08": {
+          "leads": 4,
+          "calls": 59
+        },
+        "2026-07": {
+          "leads": 76,
+          "calls": 811
+        },
+        "2026-06": {
+          "leads": 23,
+          "calls": 952
+        }
+      }
+    },
+    {
       "name": "Gemma Stone",
       "id": "gemma-stone",
       "leadsToday": 2,
       "leadsMonth": 2,
-      "callsToday": 17,
-      "callsMonth": 17,
+      "callsToday": 18,
+      "callsMonth": 18,
       "byMonth": {
         "2026-08": {
           "leads": 2,
-          "calls": 17
+          "calls": 18
         },
         "2026-07": {
           "leads": 50,
