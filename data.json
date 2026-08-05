@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-08-05T17:00:03+01:00",
+  "updated": "2026-08-05T17:10:03+01:00",
   "period": {
     "day": "2026-08-05",
     "month": "2026-08"
@@ -16,12 +16,12 @@
       "id": "marlon-albohaithi",
       "leadsToday": 1,
       "leadsMonth": 10,
-      "callsToday": 14,
-      "callsMonth": 91,
+      "callsToday": 16,
+      "callsMonth": 93,
       "byMonth": {
         "2026-08": {
           "leads": 10,
-          "calls": 91
+          "calls": 93
         },
         "2026-07": {
           "leads": 80,
@@ -60,12 +60,12 @@
       "id": "daniel-gee",
       "leadsToday": 1,
       "leadsMonth": 7,
-      "callsToday": 13,
-      "callsMonth": 95,
+      "callsToday": 15,
+      "callsMonth": 97,
       "byMonth": {
         "2026-08": {
           "leads": 7,
-          "calls": 95
+          "calls": 97
         },
         "2026-07": {
           "leads": 76,
@@ -82,12 +82,12 @@
       "id": "james-bridgwood",
       "leadsToday": 1,
       "leadsMonth": 7,
-      "callsToday": 13,
-      "callsMonth": 71,
+      "callsToday": 14,
+      "callsMonth": 72,
       "byMonth": {
         "2026-08": {
           "leads": 7,
-          "calls": 71
+          "calls": 72
         },
         "2026-07": {
           "leads": 81,
@@ -104,12 +104,12 @@
       "id": "gemma-stone",
       "leadsToday": 2,
       "leadsMonth": 6,
-      "callsToday": 13,
-      "callsMonth": 43,
+      "callsToday": 14,
+      "callsMonth": 44,
       "byMonth": {
         "2026-08": {
           "leads": 6,
-          "calls": 43
+          "calls": 44
         },
         "2026-07": {
           "leads": 50,
@@ -148,12 +148,12 @@
       "id": "peter-brunker",
       "leadsToday": 0,
       "leadsMonth": 0,
-      "callsToday": 16,
-      "callsMonth": 16,
+      "callsToday": 17,
+      "callsMonth": 17,
       "byMonth": {
         "2026-08": {
           "leads": 0,
-          "calls": 16
+          "calls": 17
         },
         "2026-07": {
           "leads": 51,
