@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-08-05T15:30:03+01:00",
+  "updated": "2026-08-05T15:40:03+01:00",
   "period": {
     "day": "2026-08-05",
     "month": "2026-08"
@@ -16,12 +16,12 @@
       "id": "marlon-albohaithi",
       "leadsToday": 0,
       "leadsMonth": 9,
-      "callsToday": 8,
-      "callsMonth": 85,
+      "callsToday": 9,
+      "callsMonth": 86,
       "byMonth": {
         "2026-08": {
           "leads": 9,
-          "calls": 85
+          "calls": 86
         },
         "2026-07": {
           "leads": 80,
@@ -60,12 +60,12 @@
       "id": "daniel-gee",
       "leadsToday": 0,
       "leadsMonth": 6,
-      "callsToday": 5,
-      "callsMonth": 87,
+      "callsToday": 6,
+      "callsMonth": 88,
       "byMonth": {
         "2026-08": {
           "leads": 6,
-          "calls": 87
+          "calls": 88
         },
         "2026-07": {
           "leads": 76,
@@ -82,12 +82,12 @@
       "id": "james-bridgwood",
       "leadsToday": 0,
       "leadsMonth": 6,
-      "callsToday": 7,
-      "callsMonth": 65,
+      "callsToday": 8,
+      "callsMonth": 66,
       "byMonth": {
         "2026-08": {
           "leads": 6,
-          "calls": 65
+          "calls": 66
         },
         "2026-07": {
           "leads": 81,
@@ -104,12 +104,12 @@
       "id": "gemma-stone",
       "leadsToday": 1,
       "leadsMonth": 5,
-      "callsToday": 6,
-      "callsMonth": 36,
+      "callsToday": 7,
+      "callsMonth": 37,
       "byMonth": {
         "2026-08": {
           "leads": 5,
-          "calls": 36
+          "calls": 37
         },
         "2026-07": {
           "leads": 50,
@@ -148,12 +148,12 @@
       "id": "peter-brunker",
       "leadsToday": 0,
       "leadsMonth": 0,
-      "callsToday": 7,
-      "callsMonth": 7,
+      "callsToday": 8,
+      "callsMonth": 8,
       "byMonth": {
         "2026-08": {
           "leads": 0,
-          "calls": 7
+          "calls": 8
         },
         "2026-07": {
           "leads": 51,
