@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-08-06T16:40:03+01:00",
+  "updated": "2026-08-06T16:50:03+01:00",
   "period": {
     "day": "2026-08-06",
     "month": "2026-08"
@@ -16,12 +16,12 @@
       "id": "mel-abbott",
       "leadsToday": 1,
       "leadsMonth": 13,
-      "callsToday": 11,
-      "callsMonth": 111,
+      "callsToday": 14,
+      "callsMonth": 114,
       "byMonth": {
         "2026-08": {
           "leads": 13,
-          "calls": 111
+          "calls": 114
         },
         "2026-07": {
           "leads": 90,
@@ -38,12 +38,12 @@
       "id": "gemma-stone",
       "leadsToday": 4,
       "leadsMonth": 12,
-      "callsToday": 9,
-      "callsMonth": 66,
+      "callsToday": 12,
+      "callsMonth": 69,
       "byMonth": {
         "2026-08": {
           "leads": 12,
-          "calls": 66
+          "calls": 69
         },
         "2026-07": {
           "leads": 50,
@@ -60,12 +60,12 @@
       "id": "marlon-albohaithi",
       "leadsToday": 1,
       "leadsMonth": 11,
-      "callsToday": 11,
-      "callsMonth": 117,
+      "callsToday": 14,
+      "callsMonth": 120,
       "byMonth": {
         "2026-08": {
           "leads": 11,
-          "calls": 117
+          "calls": 120
         },
         "2026-07": {
           "leads": 80,
@@ -82,12 +82,12 @@
       "id": "daniel-gee",
       "leadsToday": 2,
       "leadsMonth": 10,
-      "callsToday": 10,
-      "callsMonth": 115,
+      "callsToday": 11,
+      "callsMonth": 116,
       "byMonth": {
         "2026-08": {
           "leads": 10,
-          "calls": 115
+          "calls": 116
         },
         "2026-07": {
           "leads": 76,
@@ -104,12 +104,12 @@
       "id": "james-bridgwood",
       "leadsToday": 0,
       "leadsMonth": 10,
-      "callsToday": 12,
-      "callsMonth": 92,
+      "callsToday": 14,
+      "callsMonth": 94,
       "byMonth": {
         "2026-08": {
           "leads": 10,
-          "calls": 92
+          "calls": 94
         },
         "2026-07": {
           "leads": 81,
