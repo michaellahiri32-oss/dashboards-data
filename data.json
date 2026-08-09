@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-08-09T12:20:03+01:00",
+  "updated": "2026-08-09T12:30:03+01:00",
   "period": {
     "day": "2026-08-09",
     "month": "2026-08"
@@ -16,12 +16,12 @@
       "id": "mel-abbott",
       "leadsToday": 1,
       "leadsMonth": 20,
-      "callsToday": 5,
-      "callsMonth": 185,
+      "callsToday": 6,
+      "callsMonth": 186,
       "byMonth": {
         "2026-08": {
           "leads": 20,
-          "calls": 185
+          "calls": 186
         },
         "2026-07": {
           "leads": 90,
@@ -34,37 +34,15 @@
       }
     },
     {
-      "name": "Gemma Stone",
-      "id": "gemma-stone",
-      "leadsToday": 0,
-      "leadsMonth": 19,
-      "callsToday": 8,
-      "callsMonth": 134,
-      "byMonth": {
-        "2026-08": {
-          "leads": 19,
-          "calls": 134
-        },
-        "2026-07": {
-          "leads": 50,
-          "calls": 604
-        },
-        "2026-06": {
-          "leads": 27,
-          "calls": 869
-        }
-      }
-    },
-    {
       "name": "Daniel Gee",
       "id": "daniel-gee",
-      "leadsToday": 0,
-      "leadsMonth": 18,
+      "leadsToday": 1,
+      "leadsMonth": 19,
       "callsToday": 6,
       "callsMonth": 183,
       "byMonth": {
         "2026-08": {
-          "leads": 18,
+          "leads": 19,
           "calls": 183
         },
         "2026-07": {
@@ -78,16 +56,38 @@
       }
     },
     {
+      "name": "Gemma Stone",
+      "id": "gemma-stone",
+      "leadsToday": 0,
+      "leadsMonth": 19,
+      "callsToday": 9,
+      "callsMonth": 135,
+      "byMonth": {
+        "2026-08": {
+          "leads": 19,
+          "calls": 135
+        },
+        "2026-07": {
+          "leads": 50,
+          "calls": 604
+        },
+        "2026-06": {
+          "leads": 27,
+          "calls": 869
+        }
+      }
+    },
+    {
       "name": "Marlon Albohaithi",
       "id": "marlon-albohaithi",
       "leadsToday": 1,
       "leadsMonth": 18,
-      "callsToday": 6,
-      "callsMonth": 191,
+      "callsToday": 7,
+      "callsMonth": 192,
       "byMonth": {
         "2026-08": {
           "leads": 18,
-          "calls": 191
+          "calls": 192
         },
         "2026-07": {
           "leads": 80,
