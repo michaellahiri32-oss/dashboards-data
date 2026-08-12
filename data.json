@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-08-12T16:50:03+01:00",
+  "updated": "2026-08-12T17:00:03+01:00",
   "period": {
     "day": "2026-08-12",
     "month": "2026-08"
@@ -16,12 +16,12 @@
       "id": "gemma-stone",
       "leadsToday": 4,
       "leadsMonth": 25,
-      "callsToday": 32,
-      "callsMonth": 178,
+      "callsToday": 33,
+      "callsMonth": 179,
       "byMonth": {
         "2026-08": {
           "leads": 25,
-          "calls": 178
+          "calls": 179
         },
         "2026-07": {
           "leads": 50,
@@ -30,6 +30,28 @@
         "2026-06": {
           "leads": 27,
           "calls": 869
+        }
+      }
+    },
+    {
+      "name": "Marlon Albohaithi",
+      "id": "marlon-albohaithi",
+      "leadsToday": 3,
+      "leadsMonth": 24,
+      "callsToday": 31,
+      "callsMonth": 238,
+      "byMonth": {
+        "2026-08": {
+          "leads": 24,
+          "calls": 238
+        },
+        "2026-07": {
+          "leads": 80,
+          "calls": 963
+        },
+        "2026-06": {
+          "leads": 38,
+          "calls": 1039
         }
       }
     },
@@ -56,38 +78,16 @@
       }
     },
     {
-      "name": "Marlon Albohaithi",
-      "id": "marlon-albohaithi",
-      "leadsToday": 2,
-      "leadsMonth": 23,
-      "callsToday": 30,
-      "callsMonth": 237,
-      "byMonth": {
-        "2026-08": {
-          "leads": 23,
-          "calls": 237
-        },
-        "2026-07": {
-          "leads": 80,
-          "calls": 963
-        },
-        "2026-06": {
-          "leads": 38,
-          "calls": 1039
-        }
-      }
-    },
-    {
       "name": "Daniel Gee",
       "id": "daniel-gee",
       "leadsToday": 0,
       "leadsMonth": 19,
-      "callsToday": 35,
-      "callsMonth": 233,
+      "callsToday": 36,
+      "callsMonth": 234,
       "byMonth": {
         "2026-08": {
           "leads": 19,
-          "calls": 233
+          "calls": 234
         },
         "2026-07": {
           "leads": 76,
@@ -104,12 +104,12 @@
       "id": "james-bridgwood",
       "leadsToday": 0,
       "leadsMonth": 14,
-      "callsToday": 30,
-      "callsMonth": 196,
+      "callsToday": 31,
+      "callsMonth": 197,
       "byMonth": {
         "2026-08": {
           "leads": 14,
-          "calls": 196
+          "calls": 197
         },
         "2026-07": {
           "leads": 81,
