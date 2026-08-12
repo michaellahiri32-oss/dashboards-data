@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-08-12T19:10:03+01:00",
+  "updated": "2026-08-12T19:20:03+01:00",
   "period": {
     "day": "2026-08-12",
     "month": "2026-08"
@@ -16,12 +16,12 @@
       "id": "gemma-stone",
       "leadsToday": 5,
       "leadsMonth": 26,
-      "callsToday": 43,
-      "callsMonth": 189,
+      "callsToday": 45,
+      "callsMonth": 191,
       "byMonth": {
         "2026-08": {
           "leads": 26,
-          "calls": 189
+          "calls": 191
         },
         "2026-07": {
           "leads": 50,
@@ -38,12 +38,12 @@
       "id": "mel-abbott",
       "leadsToday": 2,
       "leadsMonth": 26,
-      "callsToday": 18,
-      "callsMonth": 219,
+      "callsToday": 20,
+      "callsMonth": 221,
       "byMonth": {
         "2026-08": {
           "leads": 26,
-          "calls": 219
+          "calls": 221
         },
         "2026-07": {
           "leads": 90,
@@ -60,12 +60,12 @@
       "id": "marlon-albohaithi",
       "leadsToday": 3,
       "leadsMonth": 24,
-      "callsToday": 52,
-      "callsMonth": 259,
+      "callsToday": 54,
+      "callsMonth": 261,
       "byMonth": {
         "2026-08": {
           "leads": 24,
-          "calls": 259
+          "calls": 261
         },
         "2026-07": {
           "leads": 80,
@@ -82,12 +82,12 @@
       "id": "daniel-gee",
       "leadsToday": 3,
       "leadsMonth": 22,
-      "callsToday": 47,
-      "callsMonth": 245,
+      "callsToday": 49,
+      "callsMonth": 247,
       "byMonth": {
         "2026-08": {
           "leads": 22,
-          "calls": 245
+          "calls": 247
         },
         "2026-07": {
           "leads": 76,
@@ -102,13 +102,13 @@
     {
       "name": "James Bridgwood",
       "id": "james-bridgwood",
-      "leadsToday": 2,
-      "leadsMonth": 16,
+      "leadsToday": 3,
+      "leadsMonth": 17,
       "callsToday": 44,
       "callsMonth": 210,
       "byMonth": {
         "2026-08": {
-          "leads": 16,
+          "leads": 17,
           "calls": 210
         },
         "2026-07": {
