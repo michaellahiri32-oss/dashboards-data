@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-08-12T18:40:03+01:00",
+  "updated": "2026-08-12T18:50:03+01:00",
   "period": {
     "day": "2026-08-12",
     "month": "2026-08"
@@ -38,16 +38,16 @@
       "id": "mel-abbott",
       "leadsToday": 2,
       "leadsMonth": 26,
-      "callsToday": 15,
-      "callsMonth": 216,
+      "callsToday": 16,
+      "callsMonth": 217,
       "byMonth": {
         "2026-08": {
           "leads": 26,
-          "calls": 216
+          "calls": 217
         },
         "2026-07": {
           "leads": 90,
-          "calls": 935
+          "calls": 934
         },
         "2026-06": {
           "leads": 8,
@@ -60,12 +60,12 @@
       "id": "marlon-albohaithi",
       "leadsToday": 3,
       "leadsMonth": 24,
-      "callsToday": 50,
-      "callsMonth": 257,
+      "callsToday": 51,
+      "callsMonth": 258,
       "byMonth": {
         "2026-08": {
           "leads": 24,
-          "calls": 257
+          "calls": 258
         },
         "2026-07": {
           "leads": 80,
@@ -80,13 +80,13 @@
     {
       "name": "Daniel Gee",
       "id": "daniel-gee",
-      "leadsToday": 2,
-      "leadsMonth": 21,
+      "leadsToday": 3,
+      "leadsMonth": 22,
       "callsToday": 44,
       "callsMonth": 242,
       "byMonth": {
         "2026-08": {
-          "leads": 21,
+          "leads": 22,
           "calls": 242
         },
         "2026-07": {
@@ -104,12 +104,12 @@
       "id": "james-bridgwood",
       "leadsToday": 2,
       "leadsMonth": 16,
-      "callsToday": 42,
-      "callsMonth": 208,
+      "callsToday": 43,
+      "callsMonth": 209,
       "byMonth": {
         "2026-08": {
           "leads": 16,
-          "calls": 208
+          "calls": 209
         },
         "2026-07": {
           "leads": 81,
@@ -126,12 +126,12 @@
       "id": "peter-brunker",
       "leadsToday": 2,
       "leadsMonth": 12,
-      "callsToday": 48,
-      "callsMonth": 132,
+      "callsToday": 49,
+      "callsMonth": 133,
       "byMonth": {
         "2026-08": {
           "leads": 12,
-          "calls": 132
+          "calls": 133
         },
         "2026-07": {
           "leads": 51,
