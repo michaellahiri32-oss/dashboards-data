@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-08-12T18:20:04+01:00",
+  "updated": "2026-08-12T18:30:03+01:00",
   "period": {
     "day": "2026-08-12",
     "month": "2026-08"
@@ -14,14 +14,14 @@
     {
       "name": "Gemma Stone",
       "id": "gemma-stone",
-      "leadsToday": 4,
-      "leadsMonth": 25,
-      "callsToday": 40,
-      "callsMonth": 186,
+      "leadsToday": 5,
+      "leadsMonth": 26,
+      "callsToday": 41,
+      "callsMonth": 187,
       "byMonth": {
         "2026-08": {
-          "leads": 25,
-          "calls": 186
+          "leads": 26,
+          "calls": 187
         },
         "2026-07": {
           "leads": 50,
@@ -36,14 +36,14 @@
     {
       "name": "Mel Abbott",
       "id": "mel-abbott",
-      "leadsToday": 1,
-      "leadsMonth": 25,
-      "callsToday": 13,
-      "callsMonth": 214,
+      "leadsToday": 2,
+      "leadsMonth": 26,
+      "callsToday": 14,
+      "callsMonth": 215,
       "byMonth": {
         "2026-08": {
-          "leads": 25,
-          "calls": 214
+          "leads": 26,
+          "calls": 215
         },
         "2026-07": {
           "leads": 90,
@@ -60,12 +60,12 @@
       "id": "marlon-albohaithi",
       "leadsToday": 3,
       "leadsMonth": 24,
-      "callsToday": 46,
-      "callsMonth": 253,
+      "callsToday": 49,
+      "callsMonth": 256,
       "byMonth": {
         "2026-08": {
           "leads": 24,
-          "calls": 253
+          "calls": 256
         },
         "2026-07": {
           "leads": 80,
@@ -82,12 +82,12 @@
       "id": "daniel-gee",
       "leadsToday": 2,
       "leadsMonth": 21,
-      "callsToday": 41,
-      "callsMonth": 239,
+      "callsToday": 44,
+      "callsMonth": 242,
       "byMonth": {
         "2026-08": {
           "leads": 21,
-          "calls": 239
+          "calls": 242
         },
         "2026-07": {
           "leads": 76,
@@ -104,12 +104,12 @@
       "id": "james-bridgwood",
       "leadsToday": 2,
       "leadsMonth": 16,
-      "callsToday": 41,
-      "callsMonth": 207,
+      "callsToday": 42,
+      "callsMonth": 208,
       "byMonth": {
         "2026-08": {
           "leads": 16,
-          "calls": 207
+          "calls": 208
         },
         "2026-07": {
           "leads": 81,
@@ -126,12 +126,12 @@
       "id": "peter-brunker",
       "leadsToday": 2,
       "leadsMonth": 12,
-      "callsToday": 45,
-      "callsMonth": 129,
+      "callsToday": 47,
+      "callsMonth": 131,
       "byMonth": {
         "2026-08": {
           "leads": 12,
-          "calls": 129
+          "calls": 131
         },
         "2026-07": {
           "leads": 51,
