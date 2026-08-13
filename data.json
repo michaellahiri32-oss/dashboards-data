@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-08-13T17:20:02+01:00",
+  "updated": "2026-08-13T17:30:02+01:00",
   "period": {
     "day": "2026-08-13",
     "month": "2026-08"
@@ -16,12 +16,12 @@
       "id": "mel-abbott",
       "leadsToday": 2,
       "leadsMonth": 29,
-      "callsToday": 26,
-      "callsMonth": 248,
+      "callsToday": 27,
+      "callsMonth": 249,
       "byMonth": {
         "2026-08": {
           "leads": 29,
-          "calls": 248
+          "calls": 249
         },
         "2026-07": {
           "leads": 90,
@@ -38,12 +38,12 @@
       "id": "marlon-albohaithi",
       "leadsToday": 3,
       "leadsMonth": 28,
-      "callsToday": 29,
-      "callsMonth": 291,
+      "callsToday": 30,
+      "callsMonth": 292,
       "byMonth": {
         "2026-08": {
           "leads": 28,
-          "calls": 291
+          "calls": 292
         },
         "2026-07": {
           "leads": 80,
@@ -82,12 +82,12 @@
       "id": "gemma-stone",
       "leadsToday": 1,
       "leadsMonth": 27,
-      "callsToday": 25,
-      "callsMonth": 218,
+      "callsToday": 26,
+      "callsMonth": 219,
       "byMonth": {
         "2026-08": {
           "leads": 27,
-          "calls": 218
+          "calls": 219
         },
         "2026-07": {
           "leads": 50,
@@ -104,12 +104,12 @@
       "id": "james-bridgwood",
       "leadsToday": 0,
       "leadsMonth": 17,
-      "callsToday": 30,
-      "callsMonth": 241,
+      "callsToday": 31,
+      "callsMonth": 242,
       "byMonth": {
         "2026-08": {
           "leads": 17,
-          "calls": 241
+          "calls": 242
         },
         "2026-07": {
           "leads": 81,
@@ -126,12 +126,12 @@
       "id": "peter-brunker",
       "leadsToday": 3,
       "leadsMonth": 17,
-      "callsToday": 29,
-      "callsMonth": 168,
+      "callsToday": 30,
+      "callsMonth": 169,
       "byMonth": {
         "2026-08": {
           "leads": 17,
-          "calls": 168
+          "calls": 169
         },
         "2026-07": {
           "leads": 51,
