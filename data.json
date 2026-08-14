@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-08-14T18:50:03+01:00",
+  "updated": "2026-08-14T19:00:03+01:00",
   "period": {
     "day": "2026-08-14",
     "month": "2026-08"
@@ -11,6 +11,28 @@
     "2026-08"
   ],
   "agents": [
+    {
+      "name": "Gemma Stone",
+      "id": "gemma-stone",
+      "leadsToday": 5,
+      "leadsMonth": 33,
+      "callsToday": 39,
+      "callsMonth": 268,
+      "byMonth": {
+        "2026-08": {
+          "leads": 33,
+          "calls": 268
+        },
+        "2026-07": {
+          "leads": 50,
+          "calls": 604
+        },
+        "2026-06": {
+          "leads": 27,
+          "calls": 869
+        }
+      }
+    },
     {
       "name": "Marlon Albohaithi",
       "id": "marlon-albohaithi",
@@ -78,38 +100,16 @@
       }
     },
     {
-      "name": "Gemma Stone",
-      "id": "gemma-stone",
-      "leadsToday": 4,
-      "leadsMonth": 32,
-      "callsToday": 39,
-      "callsMonth": 268,
-      "byMonth": {
-        "2026-08": {
-          "leads": 32,
-          "calls": 268
-        },
-        "2026-07": {
-          "leads": 50,
-          "calls": 604
-        },
-        "2026-06": {
-          "leads": 27,
-          "calls": 869
-        }
-      }
-    },
-    {
       "name": "Peter Brunker",
       "id": "peter-brunker",
       "leadsToday": 6,
       "leadsMonth": 25,
-      "callsToday": 46,
-      "callsMonth": 223,
+      "callsToday": 47,
+      "callsMonth": 224,
       "byMonth": {
         "2026-08": {
           "leads": 25,
-          "calls": 223
+          "calls": 224
         },
         "2026-07": {
           "leads": 51,
@@ -122,12 +122,12 @@
       "id": "james-bridgwood",
       "leadsToday": 3,
       "leadsMonth": 21,
-      "callsToday": 39,
-      "callsMonth": 290,
+      "callsToday": 40,
+      "callsMonth": 291,
       "byMonth": {
         "2026-08": {
           "leads": 21,
-          "calls": 290
+          "calls": 291
         },
         "2026-07": {
           "leads": 81,
