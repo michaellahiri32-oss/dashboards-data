@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-08-16T16:40:03+01:00",
+  "updated": "2026-08-16T16:50:02+01:00",
   "period": {
     "day": "2026-08-16",
     "month": "2026-08"
@@ -16,14 +16,14 @@
       "id": "marlon-albohaithi",
       "leadsToday": 1,
       "leadsMonth": 42,
-      "callsToday": 13,
-      "callsMonth": 397,
+      "callsToday": 15,
+      "callsMonth": 399,
       "windToday": 0,
       "windMonth": 0,
       "byMonth": {
         "2026-08": {
           "leads": 42,
-          "calls": 397,
+          "calls": 399,
           "wind": 0
         },
         "2026-07": {
@@ -41,15 +41,15 @@
     {
       "name": "Daniel Gee",
       "id": "daniel-gee",
-      "leadsToday": 2,
-      "leadsMonth": 39,
+      "leadsToday": 3,
+      "leadsMonth": 40,
       "callsToday": 10,
       "callsMonth": 363,
       "windToday": 0,
       "windMonth": 0,
       "byMonth": {
         "2026-08": {
-          "leads": 39,
+          "leads": 40,
           "calls": 363,
           "wind": 0
         },
@@ -68,15 +68,15 @@
     {
       "name": "Gemma Stone",
       "id": "gemma-stone",
-      "leadsToday": 2,
-      "leadsMonth": 39,
+      "leadsToday": 3,
+      "leadsMonth": 40,
       "callsToday": 12,
       "callsMonth": 324,
       "windToday": 0,
       "windMonth": 0,
       "byMonth": {
         "2026-08": {
-          "leads": 39,
+          "leads": 40,
           "calls": 324,
           "wind": 0
         },
@@ -124,14 +124,14 @@
       "id": "james-bridgwood",
       "leadsToday": 1,
       "leadsMonth": 28,
-      "callsToday": 9,
-      "callsMonth": 340,
+      "callsToday": 10,
+      "callsMonth": 341,
       "windToday": 0,
       "windMonth": 0,
       "byMonth": {
         "2026-08": {
           "leads": 28,
-          "calls": 340,
+          "calls": 341,
           "wind": 0
         },
         "2026-07": {
@@ -163,7 +163,7 @@
         },
         "2026-07": {
           "leads": 51,
-          "calls": 502,
+          "calls": 501,
           "wind": 0
         }
       }
