@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-08-16T17:20:03+01:00",
+  "updated": "2026-08-16T17:30:03+01:00",
   "period": {
     "day": "2026-08-16",
     "month": "2026-08"
@@ -16,14 +16,14 @@
       "id": "marlon-albohaithi",
       "leadsToday": 1,
       "leadsMonth": 42,
-      "callsToday": 16,
-      "callsMonth": 400,
+      "callsToday": 19,
+      "callsMonth": 403,
       "windToday": 0,
       "windMonth": 0,
       "byMonth": {
         "2026-08": {
           "leads": 42,
-          "calls": 400,
+          "calls": 403,
           "wind": 0
         },
         "2026-07": {
@@ -60,7 +60,7 @@
         },
         "2026-06": {
           "leads": 23,
-          "calls": 953,
+          "calls": 952,
           "wind": 0
         }
       }
@@ -70,14 +70,14 @@
       "id": "gemma-stone",
       "leadsToday": 3,
       "leadsMonth": 40,
-      "callsToday": 13,
-      "callsMonth": 325,
+      "callsToday": 15,
+      "callsMonth": 327,
       "windToday": 0,
       "windMonth": 0,
       "byMonth": {
         "2026-08": {
           "leads": 40,
-          "calls": 325,
+          "calls": 327,
           "wind": 0
         },
         "2026-07": {
@@ -122,16 +122,16 @@
     {
       "name": "James Bridgwood",
       "id": "james-bridgwood",
-      "leadsToday": 1,
-      "leadsMonth": 28,
-      "callsToday": 11,
-      "callsMonth": 342,
+      "leadsToday": 2,
+      "leadsMonth": 29,
+      "callsToday": 12,
+      "callsMonth": 343,
       "windToday": 0,
       "windMonth": 0,
       "byMonth": {
         "2026-08": {
-          "leads": 28,
-          "calls": 342,
+          "leads": 29,
+          "calls": 343,
           "wind": 0
         },
         "2026-07": {
