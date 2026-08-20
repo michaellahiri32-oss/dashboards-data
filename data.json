@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-08-20T16:40:03+01:00",
+  "updated": "2026-08-20T16:50:02+01:00",
   "period": {
     "day": "2026-08-20",
     "month": "2026-08"
@@ -16,14 +16,14 @@
       "id": "gemma-stone",
       "leadsToday": 3,
       "leadsMonth": 49,
-      "callsToday": 20,
-      "callsMonth": 389,
+      "callsToday": 22,
+      "callsMonth": 391,
       "windToday": 0,
       "windMonth": 0,
       "byMonth": {
         "2026-08": {
           "leads": 49,
-          "calls": 389,
+          "calls": 391,
           "wind": 0
         },
         "2026-07": {
@@ -43,14 +43,14 @@
       "id": "marlon-albohaithi",
       "leadsToday": 2,
       "leadsMonth": 48,
-      "callsToday": 16,
-      "callsMonth": 465,
+      "callsToday": 18,
+      "callsMonth": 467,
       "windToday": 0,
       "windMonth": 0,
       "byMonth": {
         "2026-08": {
           "leads": 48,
-          "calls": 465,
+          "calls": 467,
           "wind": 0
         },
         "2026-07": {
@@ -70,14 +70,14 @@
       "id": "daniel-gee",
       "leadsToday": 1,
       "leadsMonth": 43,
-      "callsToday": 20,
-      "callsMonth": 433,
+      "callsToday": 22,
+      "callsMonth": 435,
       "windToday": 1,
       "windMonth": 1,
       "byMonth": {
         "2026-08": {
           "leads": 43,
-          "calls": 433,
+          "calls": 435,
           "wind": 1
         },
         "2026-07": {
@@ -124,14 +124,14 @@
       "id": "james-bridgwood",
       "leadsToday": 1,
       "leadsMonth": 33,
-      "callsToday": 22,
-      "callsMonth": 410,
+      "callsToday": 23,
+      "callsMonth": 411,
       "windToday": 0,
       "windMonth": 0,
       "byMonth": {
         "2026-08": {
           "leads": 33,
-          "calls": 410,
+          "calls": 411,
           "wind": 0
         },
         "2026-07": {
@@ -151,14 +151,14 @@
       "id": "peter-brunker",
       "leadsToday": 1,
       "leadsMonth": 27,
-      "callsToday": 21,
-      "callsMonth": 284,
+      "callsToday": 23,
+      "callsMonth": 286,
       "windToday": 2,
       "windMonth": 2,
       "byMonth": {
         "2026-08": {
           "leads": 27,
-          "calls": 284,
+          "calls": 286,
           "wind": 2
         },
         "2026-07": {
