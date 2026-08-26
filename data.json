@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-08-26T17:00:02+01:00",
+  "updated": "2026-08-26T17:10:02+01:00",
   "period": {
     "day": "2026-08-26",
     "month": "2026-08"
@@ -16,14 +16,14 @@
       "id": "gemma-stone",
       "leadsToday": 3,
       "leadsMonth": 67,
-      "callsToday": 26,
-      "callsMonth": 497,
+      "callsToday": 29,
+      "callsMonth": 500,
       "windToday": 0,
       "windMonth": 0,
       "byMonth": {
         "2026-08": {
           "leads": 67,
-          "calls": 497,
+          "calls": 500,
           "wind": 0
         },
         "2026-07": {
@@ -43,19 +43,19 @@
       "id": "marlon-albohaithi",
       "leadsToday": 2,
       "leadsMonth": 59,
-      "callsToday": 32,
-      "callsMonth": 596,
+      "callsToday": 34,
+      "callsMonth": 598,
       "windToday": 0,
       "windMonth": 0,
       "byMonth": {
         "2026-08": {
           "leads": 59,
-          "calls": 596,
+          "calls": 598,
           "wind": 0
         },
         "2026-07": {
           "leads": 80,
-          "calls": 963,
+          "calls": 964,
           "wind": 0
         },
         "2026-06": {
@@ -70,14 +70,14 @@
       "id": "daniel-gee",
       "leadsToday": 2,
       "leadsMonth": 52,
-      "callsToday": 28,
-      "callsMonth": 547,
+      "callsToday": 32,
+      "callsMonth": 551,
       "windToday": 0,
       "windMonth": 2,
       "byMonth": {
         "2026-08": {
           "leads": 52,
-          "calls": 547,
+          "calls": 551,
           "wind": 2
         },
         "2026-07": {
@@ -97,14 +97,14 @@
       "id": "james-bridgwood",
       "leadsToday": 2,
       "leadsMonth": 47,
-      "callsToday": 23,
-      "callsMonth": 527,
+      "callsToday": 26,
+      "callsMonth": 529,
       "windToday": 0,
       "windMonth": 0,
       "byMonth": {
         "2026-08": {
           "leads": 47,
-          "calls": 527,
+          "calls": 529,
           "wind": 0
         },
         "2026-07": {
@@ -124,14 +124,14 @@
       "id": "mel-abbott",
       "leadsToday": 0,
       "leadsMonth": 44,
-      "callsToday": 25,
-      "callsMonth": 395,
+      "callsToday": 26,
+      "callsMonth": 396,
       "windToday": 0,
       "windMonth": 0,
       "byMonth": {
         "2026-08": {
           "leads": 44,
-          "calls": 395,
+          "calls": 396,
           "wind": 0
         },
         "2026-07": {
