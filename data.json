@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-08-27T17:00:03+01:00",
+  "updated": "2026-08-27T17:10:04+01:00",
   "period": {
     "day": "2026-08-27",
     "month": "2026-08"
@@ -16,14 +16,14 @@
       "id": "gemma-stone",
       "leadsToday": 3,
       "leadsMonth": 71,
-      "callsToday": 28,
-      "callsMonth": 543,
+      "callsToday": 29,
+      "callsMonth": 544,
       "windToday": 0,
       "windMonth": 0,
       "byMonth": {
         "2026-08": {
           "leads": 71,
-          "calls": 543,
+          "calls": 544,
           "wind": 0
         },
         "2026-07": {
@@ -43,14 +43,14 @@
       "id": "marlon-albohaithi",
       "leadsToday": 1,
       "leadsMonth": 61,
-      "callsToday": 29,
-      "callsMonth": 638,
+      "callsToday": 30,
+      "callsMonth": 639,
       "windToday": 0,
       "windMonth": 0,
       "byMonth": {
         "2026-08": {
           "leads": 61,
-          "calls": 638,
+          "calls": 639,
           "wind": 0
         },
         "2026-07": {
@@ -60,7 +60,7 @@
         },
         "2026-06": {
           "leads": 38,
-          "calls": 1040,
+          "calls": 1039,
           "wind": 0
         }
       }
@@ -97,14 +97,14 @@
       "id": "james-bridgwood",
       "leadsToday": 2,
       "leadsMonth": 52,
-      "callsToday": 23,
-      "callsMonth": 560,
+      "callsToday": 24,
+      "callsMonth": 561,
       "windToday": 0,
       "windMonth": 0,
       "byMonth": {
         "2026-08": {
           "leads": 52,
-          "calls": 560,
+          "calls": 561,
           "wind": 0
         },
         "2026-07": {
@@ -124,14 +124,14 @@
       "id": "mel-abbott",
       "leadsToday": 1,
       "leadsMonth": 45,
-      "callsToday": 27,
-      "callsMonth": 441,
+      "callsToday": 28,
+      "callsMonth": 442,
       "windToday": 1,
       "windMonth": 1,
       "byMonth": {
         "2026-08": {
           "leads": 45,
-          "calls": 441,
+          "calls": 442,
           "wind": 1
         },
         "2026-07": {
