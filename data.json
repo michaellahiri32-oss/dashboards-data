@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-08-27T17:30:03+01:00",
+  "updated": "2026-08-27T17:40:04+01:00",
   "period": {
     "day": "2026-08-27",
     "month": "2026-08"
@@ -16,14 +16,14 @@
       "id": "gemma-stone",
       "leadsToday": 4,
       "leadsMonth": 72,
-      "callsToday": 31,
-      "callsMonth": 546,
+      "callsToday": 33,
+      "callsMonth": 548,
       "windToday": 0,
       "windMonth": 0,
       "byMonth": {
         "2026-08": {
           "leads": 72,
-          "calls": 546,
+          "calls": 548,
           "wind": 0
         },
         "2026-07": {
@@ -41,15 +41,15 @@
     {
       "name": "Marlon Albohaithi",
       "id": "marlon-albohaithi",
-      "leadsToday": 1,
-      "leadsMonth": 61,
+      "leadsToday": 2,
+      "leadsMonth": 62,
       "callsToday": 34,
       "callsMonth": 643,
       "windToday": 0,
       "windMonth": 0,
       "byMonth": {
         "2026-08": {
-          "leads": 61,
+          "leads": 62,
           "calls": 643,
           "wind": 0
         },
@@ -70,14 +70,14 @@
       "id": "daniel-gee",
       "leadsToday": 1,
       "leadsMonth": 54,
-      "callsToday": 28,
-      "callsMonth": 594,
+      "callsToday": 30,
+      "callsMonth": 596,
       "windToday": 0,
       "windMonth": 2,
       "byMonth": {
         "2026-08": {
           "leads": 54,
-          "calls": 594,
+          "calls": 596,
           "wind": 2
         },
         "2026-07": {
@@ -109,7 +109,7 @@
         },
         "2026-07": {
           "leads": 81,
-          "calls": 945,
+          "calls": 946,
           "wind": 0
         },
         "2026-06": {
@@ -124,14 +124,14 @@
       "id": "mel-abbott",
       "leadsToday": 2,
       "leadsMonth": 46,
-      "callsToday": 31,
-      "callsMonth": 445,
+      "callsToday": 33,
+      "callsMonth": 447,
       "windToday": 1,
       "windMonth": 1,
       "byMonth": {
         "2026-08": {
           "leads": 46,
-          "calls": 445,
+          "calls": 447,
           "wind": 1
         },
         "2026-07": {
