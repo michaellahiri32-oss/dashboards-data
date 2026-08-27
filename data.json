@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-08-27T14:50:03+01:00",
+  "updated": "2026-08-27T15:00:03+01:00",
   "period": {
     "day": "2026-08-27",
     "month": "2026-08"
@@ -14,16 +14,16 @@
     {
       "name": "Gemma Stone",
       "id": "gemma-stone",
-      "leadsToday": 0,
-      "leadsMonth": 68,
-      "callsToday": 12,
-      "callsMonth": 527,
+      "leadsToday": 1,
+      "leadsMonth": 69,
+      "callsToday": 13,
+      "callsMonth": 528,
       "windToday": 0,
       "windMonth": 0,
       "byMonth": {
         "2026-08": {
-          "leads": 68,
-          "calls": 527,
+          "leads": 69,
+          "calls": 528,
           "wind": 0
         },
         "2026-07": {
@@ -43,14 +43,14 @@
       "id": "marlon-albohaithi",
       "leadsToday": 0,
       "leadsMonth": 60,
-      "callsToday": 10,
-      "callsMonth": 619,
+      "callsToday": 12,
+      "callsMonth": 621,
       "windToday": 0,
       "windMonth": 0,
       "byMonth": {
         "2026-08": {
           "leads": 60,
-          "calls": 619,
+          "calls": 621,
           "wind": 0
         },
         "2026-07": {
@@ -70,14 +70,14 @@
       "id": "daniel-gee",
       "leadsToday": 0,
       "leadsMonth": 53,
-      "callsToday": 9,
-      "callsMonth": 575,
+      "callsToday": 11,
+      "callsMonth": 578,
       "windToday": 0,
       "windMonth": 2,
       "byMonth": {
         "2026-08": {
           "leads": 53,
-          "calls": 575,
+          "calls": 578,
           "wind": 2
         },
         "2026-07": {
@@ -97,14 +97,14 @@
       "id": "james-bridgwood",
       "leadsToday": 1,
       "leadsMonth": 51,
-      "callsToday": 7,
-      "callsMonth": 544,
+      "callsToday": 9,
+      "callsMonth": 546,
       "windToday": 0,
       "windMonth": 0,
       "byMonth": {
         "2026-08": {
           "leads": 51,
-          "calls": 544,
+          "calls": 546,
           "wind": 0
         },
         "2026-07": {
@@ -124,14 +124,14 @@
       "id": "mel-abbott",
       "leadsToday": 0,
       "leadsMonth": 44,
-      "callsToday": 12,
-      "callsMonth": 426,
+      "callsToday": 14,
+      "callsMonth": 428,
       "windToday": 0,
       "windMonth": 0,
       "byMonth": {
         "2026-08": {
           "leads": 44,
-          "calls": 426,
+          "calls": 428,
           "wind": 0
         },
         "2026-07": {
