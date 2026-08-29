@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-08-29T17:30:03+01:00",
+  "updated": "2026-08-29T17:40:03+01:00",
   "period": {
     "day": "2026-08-29",
     "month": "2026-08"
@@ -43,19 +43,19 @@
       "id": "marlon-albohaithi",
       "leadsToday": 5,
       "leadsMonth": 71,
-      "callsToday": 28,
-      "callsMonth": 736,
+      "callsToday": 30,
+      "callsMonth": 738,
       "windToday": 0,
       "windMonth": 1,
       "byMonth": {
         "2026-08": {
           "leads": 71,
-          "calls": 736,
+          "calls": 738,
           "wind": 1
         },
         "2026-07": {
           "leads": 80,
-          "calls": 964,
+          "calls": 963,
           "wind": 0
         },
         "2026-06": {
@@ -70,14 +70,14 @@
       "id": "daniel-gee",
       "leadsToday": 4,
       "leadsMonth": 62,
-      "callsToday": 25,
-      "callsMonth": 671,
+      "callsToday": 26,
+      "callsMonth": 672,
       "windToday": 0,
       "windMonth": 2,
       "byMonth": {
         "2026-08": {
           "leads": 62,
-          "calls": 671,
+          "calls": 672,
           "wind": 2
         },
         "2026-07": {
@@ -97,14 +97,14 @@
       "id": "james-bridgwood",
       "leadsToday": 3,
       "leadsMonth": 59,
-      "callsToday": 28,
-      "callsMonth": 636,
+      "callsToday": 29,
+      "callsMonth": 637,
       "windToday": 0,
       "windMonth": 0,
       "byMonth": {
         "2026-08": {
           "leads": 59,
-          "calls": 636,
+          "calls": 637,
           "wind": 0
         },
         "2026-07": {
@@ -124,15 +124,15 @@
       "id": "mel-abbott",
       "leadsToday": 4,
       "leadsMonth": 58,
-      "callsToday": 31,
-      "callsMonth": 537,
-      "windToday": 1,
-      "windMonth": 3,
+      "callsToday": 32,
+      "callsMonth": 538,
+      "windToday": 2,
+      "windMonth": 4,
       "byMonth": {
         "2026-08": {
           "leads": 58,
-          "calls": 537,
-          "wind": 3
+          "calls": 538,
+          "wind": 4
         },
         "2026-07": {
           "leads": 90,
