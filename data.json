@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-08-29T15:00:03+01:00",
+  "updated": "2026-08-29T15:10:02+01:00",
   "period": {
     "day": "2026-08-29",
     "month": "2026-08"
@@ -41,16 +41,16 @@
     {
       "name": "Marlon Albohaithi",
       "id": "marlon-albohaithi",
-      "leadsToday": 1,
-      "leadsMonth": 67,
-      "callsToday": 7,
-      "callsMonth": 715,
+      "leadsToday": 2,
+      "leadsMonth": 68,
+      "callsToday": 13,
+      "callsMonth": 721,
       "windToday": 0,
       "windMonth": 1,
       "byMonth": {
         "2026-08": {
-          "leads": 67,
-          "calls": 715,
+          "leads": 68,
+          "calls": 721,
           "wind": 1
         },
         "2026-07": {
@@ -70,14 +70,14 @@
       "id": "daniel-gee",
       "leadsToday": 2,
       "leadsMonth": 60,
-      "callsToday": 10,
-      "callsMonth": 656,
+      "callsToday": 13,
+      "callsMonth": 659,
       "windToday": 0,
       "windMonth": 2,
       "byMonth": {
         "2026-08": {
           "leads": 60,
-          "calls": 656,
+          "calls": 659,
           "wind": 2
         },
         "2026-07": {
@@ -95,16 +95,16 @@
     {
       "name": "James Bridgwood",
       "id": "james-bridgwood",
-      "leadsToday": 1,
-      "leadsMonth": 57,
-      "callsToday": 10,
-      "callsMonth": 618,
+      "leadsToday": 2,
+      "leadsMonth": 58,
+      "callsToday": 11,
+      "callsMonth": 619,
       "windToday": 0,
       "windMonth": 0,
       "byMonth": {
         "2026-08": {
-          "leads": 57,
-          "calls": 618,
+          "leads": 58,
+          "calls": 619,
           "wind": 0
         },
         "2026-07": {
@@ -122,15 +122,15 @@
     {
       "name": "Mel Abbott",
       "id": "mel-abbott",
-      "leadsToday": 0,
-      "leadsMonth": 54,
+      "leadsToday": 1,
+      "leadsMonth": 55,
       "callsToday": 10,
       "callsMonth": 516,
       "windToday": 1,
       "windMonth": 3,
       "byMonth": {
         "2026-08": {
-          "leads": 54,
+          "leads": 55,
           "calls": 516,
           "wind": 3
         },
