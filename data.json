@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-09-02T18:20:03+01:00",
+  "updated": "2026-09-02T18:30:03+01:00",
   "period": {
     "day": "2026-09-02",
     "month": "2026-09"
@@ -44,14 +44,14 @@
       "id": "james-bridgwood",
       "leadsToday": 6,
       "leadsMonth": 6,
-      "callsToday": 81,
-      "callsMonth": 81,
+      "callsToday": 84,
+      "callsMonth": 84,
       "windToday": 0,
       "windMonth": 0,
       "byMonth": {
         "2026-09": {
           "leads": 6,
-          "calls": 81,
+          "calls": 84,
           "wind": 0
         },
         "2026-08": {
@@ -61,7 +61,7 @@
         },
         "2026-07": {
           "leads": 81,
-          "calls": 946,
+          "calls": 945,
           "wind": 0
         },
         "2026-06": {
@@ -72,49 +72,17 @@
       }
     },
     {
-      "name": "Gemma Stone",
-      "id": "gemma-stone",
-      "leadsToday": 5,
-      "leadsMonth": 5,
-      "callsToday": 70,
-      "callsMonth": 70,
-      "windToday": 0,
-      "windMonth": 0,
-      "byMonth": {
-        "2026-09": {
-          "leads": 5,
-          "calls": 70,
-          "wind": 0
-        },
-        "2026-08": {
-          "leads": 76,
-          "calls": 612,
-          "wind": 0
-        },
-        "2026-07": {
-          "leads": 50,
-          "calls": 604,
-          "wind": 0
-        },
-        "2026-06": {
-          "leads": 27,
-          "calls": 869,
-          "wind": 0
-        }
-      }
-    },
-    {
       "name": "Mel Abbott",
       "id": "mel-abbott",
-      "leadsToday": 5,
-      "leadsMonth": 5,
+      "leadsToday": 6,
+      "leadsMonth": 6,
       "callsToday": 64,
       "callsMonth": 64,
       "windToday": 0,
       "windMonth": 0,
       "byMonth": {
         "2026-09": {
-          "leads": 5,
+          "leads": 6,
           "calls": 64,
           "wind": 0
         },
@@ -131,6 +99,38 @@
         "2026-06": {
           "leads": 8,
           "calls": 62,
+          "wind": 0
+        }
+      }
+    },
+    {
+      "name": "Gemma Stone",
+      "id": "gemma-stone",
+      "leadsToday": 5,
+      "leadsMonth": 5,
+      "callsToday": 71,
+      "callsMonth": 71,
+      "windToday": 0,
+      "windMonth": 0,
+      "byMonth": {
+        "2026-09": {
+          "leads": 5,
+          "calls": 71,
+          "wind": 0
+        },
+        "2026-08": {
+          "leads": 76,
+          "calls": 612,
+          "wind": 0
+        },
+        "2026-07": {
+          "leads": 50,
+          "calls": 604,
+          "wind": 0
+        },
+        "2026-06": {
+          "leads": 27,
+          "calls": 869,
           "wind": 0
         }
       }
@@ -172,14 +172,14 @@
       "id": "daniel-gee",
       "leadsToday": 2,
       "leadsMonth": 2,
-      "callsToday": 86,
-      "callsMonth": 86,
+      "callsToday": 87,
+      "callsMonth": 87,
       "windToday": 0,
       "windMonth": 0,
       "byMonth": {
         "2026-09": {
           "leads": 2,
-          "calls": 86,
+          "calls": 87,
           "wind": 0
         },
         "2026-08": {
