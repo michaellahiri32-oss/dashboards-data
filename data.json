@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-09-02T18:40:03+01:00",
+  "updated": "2026-09-02T18:50:03+01:00",
   "period": {
     "day": "2026-09-02",
     "month": "2026-09"
@@ -40,49 +40,17 @@
       }
     },
     {
-      "name": "Gemma Stone",
-      "id": "gemma-stone",
-      "leadsToday": 6,
-      "leadsMonth": 6,
-      "callsToday": 71,
-      "callsMonth": 71,
-      "windToday": 0,
-      "windMonth": 0,
-      "byMonth": {
-        "2026-09": {
-          "leads": 6,
-          "calls": 71,
-          "wind": 0
-        },
-        "2026-08": {
-          "leads": 76,
-          "calls": 612,
-          "wind": 0
-        },
-        "2026-07": {
-          "leads": 50,
-          "calls": 604,
-          "wind": 0
-        },
-        "2026-06": {
-          "leads": 27,
-          "calls": 869,
-          "wind": 0
-        }
-      }
-    },
-    {
       "name": "James Bridgwood",
       "id": "james-bridgwood",
-      "leadsToday": 6,
-      "leadsMonth": 6,
+      "leadsToday": 7,
+      "leadsMonth": 7,
       "callsToday": 84,
       "callsMonth": 84,
       "windToday": 0,
       "windMonth": 0,
       "byMonth": {
         "2026-09": {
-          "leads": 6,
+          "leads": 7,
           "calls": 84,
           "wind": 0
         },
@@ -104,19 +72,51 @@
       }
     },
     {
-      "name": "Mel Abbott",
-      "id": "mel-abbott",
+      "name": "Gemma Stone",
+      "id": "gemma-stone",
       "leadsToday": 6,
       "leadsMonth": 6,
-      "callsToday": 67,
-      "callsMonth": 67,
+      "callsToday": 74,
+      "callsMonth": 74,
       "windToday": 0,
       "windMonth": 0,
       "byMonth": {
         "2026-09": {
           "leads": 6,
-          "calls": 67,
+          "calls": 74,
           "wind": 0
+        },
+        "2026-08": {
+          "leads": 76,
+          "calls": 612,
+          "wind": 0
+        },
+        "2026-07": {
+          "leads": 50,
+          "calls": 604,
+          "wind": 0
+        },
+        "2026-06": {
+          "leads": 27,
+          "calls": 869,
+          "wind": 0
+        }
+      }
+    },
+    {
+      "name": "Mel Abbott",
+      "id": "mel-abbott",
+      "leadsToday": 6,
+      "leadsMonth": 6,
+      "callsToday": 68,
+      "callsMonth": 68,
+      "windToday": 1,
+      "windMonth": 1,
+      "byMonth": {
+        "2026-09": {
+          "leads": 6,
+          "calls": 68,
+          "wind": 1
         },
         "2026-08": {
           "leads": 63,
@@ -157,7 +157,7 @@
         },
         "2026-07": {
           "leads": 80,
-          "calls": 963,
+          "calls": 964,
           "wind": 0
         },
         "2026-06": {
