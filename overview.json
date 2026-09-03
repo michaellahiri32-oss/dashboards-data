@@ -1,14 +1,14 @@
 {
   "day": "2026-09-03",
-  "calls": 172,
+  "calls": 175,
   "instructs": 12,
-  "spend": 5536.33,
-  "cpi": 461.36,
+  "spend": 0.0,
+  "cpi": 0.0,
   "updated": {
-    "connex": "2026-09-03T15:00:47+01:00",
-    "spend_asof": "2026-09-03T15:00:47+01:00",
-    "spend_updated": "2026-09-03T14:55:56+01:00",
-    "spend_latest_day": "2026-09-03"
+    "connex": "2026-09-03T15:15:39+01:00",
+    "spend_asof": "2026-09-03T15:15:39+01:00",
+    "spend_updated": null,
+    "spend_latest_day": null
   },
-  "built": "2026-09-03T15:00:47+01:00"
+  "built": "2026-09-03T15:15:39+01:00"
 }
