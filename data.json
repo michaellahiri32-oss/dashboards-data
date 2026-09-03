@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-09-03T12:10:04+01:00",
+  "updated": "2026-09-03T12:20:04+01:00",
   "period": {
     "day": "2026-09-03",
     "month": "2026-09"
@@ -44,14 +44,14 @@
       "id": "gemma-stone",
       "leadsToday": 1,
       "leadsMonth": 8,
-      "callsToday": 19,
-      "callsMonth": 100,
+      "callsToday": 20,
+      "callsMonth": 101,
       "windToday": 0,
       "windMonth": 0,
       "byMonth": {
         "2026-09": {
           "leads": 8,
-          "calls": 100,
+          "calls": 101,
           "wind": 0
         },
         "2026-08": {
@@ -76,15 +76,15 @@
       "id": "mel-abbott",
       "leadsToday": 0,
       "leadsMonth": 8,
-      "callsToday": 22,
-      "callsMonth": 96,
-      "windToday": 0,
-      "windMonth": 1,
+      "callsToday": 23,
+      "callsMonth": 97,
+      "windToday": 1,
+      "windMonth": 2,
       "byMonth": {
         "2026-09": {
           "leads": 8,
-          "calls": 96,
-          "wind": 1
+          "calls": 97,
+          "wind": 2
         },
         "2026-08": {
           "leads": 63,
@@ -108,14 +108,14 @@
       "id": "james-bridgwood",
       "leadsToday": 0,
       "leadsMonth": 7,
-      "callsToday": 13,
-      "callsMonth": 98,
+      "callsToday": 15,
+      "callsMonth": 100,
       "windToday": 1,
       "windMonth": 1,
       "byMonth": {
         "2026-09": {
           "leads": 7,
-          "calls": 98,
+          "calls": 100,
           "wind": 1
         },
         "2026-08": {
@@ -140,14 +140,14 @@
       "id": "daniel-gee",
       "leadsToday": 1,
       "leadsMonth": 5,
-      "callsToday": 16,
-      "callsMonth": 109,
+      "callsToday": 17,
+      "callsMonth": 110,
       "windToday": 0,
       "windMonth": 0,
       "byMonth": {
         "2026-09": {
           "leads": 5,
-          "calls": 109,
+          "calls": 110,
           "wind": 0
         },
         "2026-08": {
@@ -170,16 +170,16 @@
     {
       "name": "Marlon Albohaithi",
       "id": "marlon-albohaithi",
-      "leadsToday": 0,
-      "leadsMonth": 4,
-      "callsToday": 19,
-      "callsMonth": 125,
+      "leadsToday": 1,
+      "leadsMonth": 5,
+      "callsToday": 20,
+      "callsMonth": 126,
       "windToday": 1,
       "windMonth": 1,
       "byMonth": {
         "2026-09": {
-          "leads": 4,
-          "calls": 125,
+          "leads": 5,
+          "calls": 126,
           "wind": 1
         },
         "2026-08": {
