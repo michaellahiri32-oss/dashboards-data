@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-09-07T17:00:03+01:00",
+  "updated": "2026-09-07T17:10:03+01:00",
   "period": {
     "day": "2026-09-07",
     "month": "2026-09"
@@ -17,14 +17,14 @@
       "id": "mel-abbott",
       "leadsToday": 2,
       "leadsMonth": 22,
-      "callsToday": 21,
-      "callsMonth": 216,
+      "callsToday": 23,
+      "callsMonth": 218,
       "windToday": 0,
       "windMonth": 3,
       "byMonth": {
         "2026-09": {
           "leads": 22,
-          "calls": 216,
+          "calls": 218,
           "wind": 3
         },
         "2026-08": {
@@ -108,14 +108,14 @@
       "id": "daniel-gee",
       "leadsToday": 1,
       "leadsMonth": 12,
-      "callsToday": 21,
-      "callsMonth": 204,
+      "callsToday": 23,
+      "callsMonth": 206,
       "windToday": 0,
       "windMonth": 0,
       "byMonth": {
         "2026-09": {
           "leads": 12,
-          "calls": 204,
+          "calls": 206,
           "wind": 0
         },
         "2026-08": {
@@ -140,14 +140,14 @@
       "id": "gemma-stone",
       "leadsToday": 2,
       "leadsMonth": 12,
-      "callsToday": 23,
-      "callsMonth": 154,
+      "callsToday": 25,
+      "callsMonth": 156,
       "windToday": 0,
       "windMonth": 0,
       "byMonth": {
         "2026-09": {
           "leads": 12,
-          "calls": 154,
+          "calls": 156,
           "wind": 0
         },
         "2026-08": {
