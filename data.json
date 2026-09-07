@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-09-07T09:20:04+01:00",
+  "updated": "2026-09-07T09:30:04+01:00",
   "period": {
     "day": "2026-09-07",
     "month": "2026-09"
@@ -106,15 +106,15 @@
     {
       "name": "Daniel Gee",
       "id": "daniel-gee",
-      "leadsToday": 0,
-      "leadsMonth": 11,
+      "leadsToday": 1,
+      "leadsMonth": 12,
       "callsToday": 1,
       "callsMonth": 184,
       "windToday": 0,
       "windMonth": 0,
       "byMonth": {
         "2026-09": {
-          "leads": 11,
+          "leads": 12,
           "calls": 184,
           "wind": 0
         },
