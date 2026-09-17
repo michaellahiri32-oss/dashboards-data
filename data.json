@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-09-17T16:10:03+01:00",
+  "updated": "2026-09-17T16:20:03+01:00",
   "period": {
     "day": "2026-09-17",
     "month": "2026-09"
@@ -12,6 +12,38 @@
     "2026-09"
   ],
   "agents": [
+    {
+      "name": "James Bridgwood",
+      "id": "james-bridgwood",
+      "leadsToday": 5,
+      "leadsMonth": 44,
+      "callsToday": 29,
+      "callsMonth": 448,
+      "windToday": 0,
+      "windMonth": 3,
+      "byMonth": {
+        "2026-09": {
+          "leads": 44,
+          "calls": 448,
+          "wind": 3
+        },
+        "2026-08": {
+          "leads": 67,
+          "calls": 666,
+          "wind": 0
+        },
+        "2026-07": {
+          "leads": 81,
+          "calls": 945,
+          "wind": 0
+        },
+        "2026-06": {
+          "leads": 3,
+          "calls": 102,
+          "wind": 0
+        }
+      }
+    },
     {
       "name": "Mel Abbott",
       "id": "mel-abbott",
@@ -45,49 +77,17 @@
       }
     },
     {
-      "name": "James Bridgwood",
-      "id": "james-bridgwood",
-      "leadsToday": 4,
-      "leadsMonth": 43,
-      "callsToday": 28,
-      "callsMonth": 447,
-      "windToday": 0,
-      "windMonth": 3,
-      "byMonth": {
-        "2026-09": {
-          "leads": 43,
-          "calls": 447,
-          "wind": 3
-        },
-        "2026-08": {
-          "leads": 67,
-          "calls": 666,
-          "wind": 0
-        },
-        "2026-07": {
-          "leads": 81,
-          "calls": 945,
-          "wind": 0
-        },
-        "2026-06": {
-          "leads": 3,
-          "calls": 102,
-          "wind": 0
-        }
-      }
-    },
-    {
       "name": "Peter Brunker",
       "id": "peter-brunker",
-      "leadsToday": 1,
-      "leadsMonth": 42,
+      "leadsToday": 2,
+      "leadsMonth": 43,
       "callsToday": 32,
       "callsMonth": 455,
       "windToday": 0,
       "windMonth": 4,
       "byMonth": {
         "2026-09": {
-          "leads": 42,
+          "leads": 43,
           "calls": 455,
           "wind": 4
         },
