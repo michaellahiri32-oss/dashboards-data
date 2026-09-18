@@ -1,4 +1,48 @@
 Claim ID,Status,Date Received,Inbound Agent,Client Type,UK Partner Reference Number,UK Partner Lead Sent Time
+55615F,,2026-09-18 04:31:53,Dan Gee,Fault,,
+55615,Fault Claim,2026-09-18 04:31:53,Dan Gee,Not Fault,,
+55614,Sent to Kindertons - Undriveable,2026-09-18 04:30:48,Gemma Stone,Not Fault,1753740,2026-09-18 04:30:53
+55614F,,2026-09-18 04:30:48,Gemma Stone,Fault,,
+55613F,,2026-09-18 04:20:18,Dan Gee,Fault,,
+55613,Fault Claim,2026-09-18 04:20:18,Dan Gee,Not Fault,,
+55612,Sent to Kindertons - Undriveable,2026-09-18 02:43:22,Dan Gee,Not Fault,1753735,2026-09-18 02:43:28
+55612F,,2026-09-18 02:43:22,Dan Gee,Fault,,
+55611,Sent to Kindertons - Undriveable,2026-09-18 02:21:36,Gemma Stone,Not Fault,1753731,2026-09-18 02:21:40
+55611F,,2026-09-18 02:21:36,Gemma Stone,Fault,,
+55610,Sent to Kindertons - Undriveable,2026-09-18 02:08:05,Dan Gee,Not Fault,1753726,2026-09-18 02:08:14
+55610F,,2026-09-18 02:08:05,Dan Gee,Fault,,
+55609,Sent to Kindertons - Undriveable,2026-09-18 01:15:31,Peter Brunker,Not Fault,1753711,2026-09-18 01:15:36
+55609F,,2026-09-18 01:15:31,Peter Brunker,Fault,,
+55608,Sent to Kindertons - Undriveable,2026-09-18 01:13:32,James Bridgwood,Not Fault,1753708,2026-09-18 01:13:39
+55608F,,2026-09-18 01:13:32,James Bridgwood,Fault,,
+55607,Sent to Kindertons - Undriveable,2026-09-18 00:42:49,James Bridgwood,Not Fault,1753698,2026-09-18 00:42:56
+55607F,,2026-09-18 00:42:49,James Bridgwood,Fault,,
+55606,Sent to Kindertons - Undriveable,2026-09-18 00:33:04,Peter Brunker,Not Fault,1753697,2026-09-18 00:33:10
+55606F,,2026-09-18 00:33:04,Peter Brunker,Fault,,
+55605,Closed DNQ,2026-09-18 00:24:34,James Bridgwood,Not Fault,,
+55605F,,2026-09-18 00:24:34,James Bridgwood,Fault,,
+55604,Sent to Kindertons - Undriveable,2026-09-17 23:38:45,Dan Gee,Not Fault,1753687,2026-09-17 23:38:50
+55604F,,2026-09-17 23:38:45,Dan Gee,Fault,,
+55603F,,2026-09-17 23:37:08,James Bridgwood,Fault,,
+55603,Fault Claim,2026-09-17 23:37:08,James Bridgwood,Not Fault,,
+55602,Sent to Kindertons - Driveable,2026-09-17 23:04:20,James Bridgwood,Not Fault,,
+55602F,,2026-09-17 23:04:20,James Bridgwood,Fault,,
+55601,Sent to Kindertons - Undriveable,2026-09-17 22:59:29,Mel Abbott,Not Fault,1753677,2026-09-17 22:59:34
+55601F,,2026-09-17 22:59:29,Mel Abbott,Fault,,
+55600,Sent to Kindertons - Undriveable,2026-09-17 21:36:41,James Bridgwood,Not Fault,1753660,2026-09-17 21:36:46
+55600F,,2026-09-17 21:36:41,James Bridgwood,Fault,,
+55599,Sent to Kindertons - Undriveable,2026-09-17 21:29:32,Gemma Stone,Not Fault,1753659,2026-09-17 21:29:38
+55599F,,2026-09-17 21:29:32,Gemma Stone,Fault,,
+55598,Closed DOI,2026-09-17 21:20:38,Mel Abbott,Not Fault,,
+55598F,,2026-09-17 21:20:38,Mel Abbott,Fault,,
+55597,Sent to Kindertons - Undriveable,2026-09-17 20:38:06,Gemma Stone,Not Fault,1753648,2026-09-17 20:38:10
+55597F,,2026-09-17 20:38:06,Gemma Stone,Fault,,
+55596,Sent to Kindertons - Undriveable,2026-09-17 20:35:04,James Bridgwood,Not Fault,1753647,2026-09-17 20:35:11
+55596F,,2026-09-17 20:35:04,James Bridgwood,Fault,,
+55595,Sent to Kindertons - Undriveable,2026-09-17 20:30:40,Gemma Stone,Not Fault,1753645,2026-09-17 20:30:44
+55595F,,2026-09-17 20:30:40,Gemma Stone,Fault,,
+55594,Sent to Kindertons - Undriveable,2026-09-17 19:42:33,Gemma Stone,Not Fault,1753634,2026-09-17 19:42:39
+55594F,,2026-09-17 19:42:33,Gemma Stone,Fault,,
 55593F,,2026-09-17 04:50:01,Dan Gee,Fault,,
 55593,Fault Claim,2026-09-17 04:50:01,Dan Gee,Not Fault,,
 55592,Sent to Kindertons - Undriveable,2026-09-17 04:40:11,Gemma Stone,Not Fault,1753602,2026-09-17 04:41:33
@@ -11,7 +55,7 @@ Claim ID,Status,Date Received,Inbound Agent,Client Type,UK Partner Reference Num
 55589F,,2026-09-17 02:29:08,Peter Brunker,Fault,,
 55588F,,2026-09-17 01:51:41,James Bridgwood,Fault,,
 55588,Sent to Kindertons - Undriveable,2026-09-17 01:51:41,James Bridgwood,Not Fault,1753578,2026-09-17 02:00:06
-55587,Sent to Kindertons - Driveable,2026-09-17 01:28:19,James Bridgwood,Not Fault,,
+55587,Sent to Kindertons - Undriveable,2026-09-17 01:28:19,James Bridgwood,Not Fault,,
 55587F,,2026-09-17 01:28:19,James Bridgwood,Fault,,
 55586,Closed DOI,2026-09-17 01:11:22,Peter Brunker,Not Fault,,
 55586F,,2026-09-17 01:11:22,Peter Brunker,Fault,,
