@@ -1,4 +1,12 @@
 Claim ID,Status,Date Received,Inbound Agent,Client Type,UK Partner Reference Number,UK Partner Lead Sent Time
+55620,Sent to Kindertons - Undriveable,2026-09-19 01:51:29,Gemma Stone,Not Fault,1753856,2026-09-19 01:51:33
+55620F,,2026-09-19 01:51:29,Gemma Stone,Fault,,
+55619,Sent to Kindertons - Driveable,2026-09-19 01:45:17,Peter Brunker,Not Fault,,
+55619F,,2026-09-19 01:45:17,Peter Brunker,Fault,,
+55618,Closed DOI,2026-09-19 01:00:26,Mel Abbott,Not Fault,,
+55618F,,2026-09-19 01:00:26,Mel Abbott,Fault,,
+55617,Sent to Kindertons - Undriveable,2026-09-18 23:53:09,Peter Brunker,Not Fault,1753838,2026-09-18 23:53:16
+55617F,,2026-09-18 23:53:09,Peter Brunker,Fault,,
 55615F,,2026-09-18 04:31:53,Dan Gee,Fault,,
 55615,Fault Claim,2026-09-18 04:31:53,Dan Gee,Not Fault,,
 55614,Sent to Kindertons - Undriveable,2026-09-18 04:30:48,Gemma Stone,Not Fault,1753740,2026-09-18 04:30:53
