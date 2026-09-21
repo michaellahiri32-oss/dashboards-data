@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-09-21T19:00:03+01:00",
+  "updated": "2026-09-21T19:10:03+01:00",
   "period": {
     "day": "2026-09-21",
     "month": "2026-09"
@@ -104,50 +104,18 @@
       }
     },
     {
-      "name": "Daniel Gee",
-      "id": "daniel-gee",
-      "leadsToday": 3,
-      "leadsMonth": 41,
-      "callsToday": 33,
-      "callsMonth": 545,
-      "windToday": 0,
-      "windMonth": 0,
-      "byMonth": {
-        "2026-09": {
-          "leads": 41,
-          "calls": 545,
-          "wind": 0
-        },
-        "2026-08": {
-          "leads": 65,
-          "calls": 705,
-          "wind": 2
-        },
-        "2026-07": {
-          "leads": 76,
-          "calls": 811,
-          "wind": 0
-        },
-        "2026-06": {
-          "leads": 23,
-          "calls": 952,
-          "wind": 0
-        }
-      }
-    },
-    {
       "name": "Gemma Stone",
       "id": "gemma-stone",
-      "leadsToday": 0,
-      "leadsMonth": 41,
-      "callsToday": 29,
-      "callsMonth": 399,
+      "leadsToday": 1,
+      "leadsMonth": 42,
+      "callsToday": 31,
+      "callsMonth": 401,
       "windToday": 0,
       "windMonth": 1,
       "byMonth": {
         "2026-09": {
-          "leads": 41,
-          "calls": 399,
+          "leads": 42,
+          "calls": 401,
           "wind": 1
         },
         "2026-08": {
@@ -163,6 +131,38 @@
         "2026-06": {
           "leads": 27,
           "calls": 869,
+          "wind": 0
+        }
+      }
+    },
+    {
+      "name": "Daniel Gee",
+      "id": "daniel-gee",
+      "leadsToday": 3,
+      "leadsMonth": 41,
+      "callsToday": 34,
+      "callsMonth": 546,
+      "windToday": 0,
+      "windMonth": 0,
+      "byMonth": {
+        "2026-09": {
+          "leads": 41,
+          "calls": 546,
+          "wind": 0
+        },
+        "2026-08": {
+          "leads": 65,
+          "calls": 705,
+          "wind": 2
+        },
+        "2026-07": {
+          "leads": 76,
+          "calls": 811,
+          "wind": 0
+        },
+        "2026-06": {
+          "leads": 23,
+          "calls": 952,
           "wind": 0
         }
       }
