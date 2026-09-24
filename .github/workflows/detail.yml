@@ -1,0 +1,36 @@
+name: Call Detail
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+concurrency:
+  group: call-detail
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get the scripts
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Build detail and publish
+        env:
+          CXM_CLIENT_ID: ${{ secrets.CXM_CLIENT_ID }}
+          CXM_SECRET: ${{ secrets.CXM_SECRET }}
+          CXM_TOKEN: ${{ secrets.CXM_TOKEN }}
+          CXM_ENDPOINT: ${{ secrets.CXM_ENDPOINT }}
+          GITHUB_TOKEN: ${{ secrets.DATA_PUSH_TOKEN }}
+        run: |
+          python build_detail_api.py --report "within-hour-call-detail.html"
+          python publish_github.py
