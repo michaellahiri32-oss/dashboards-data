@@ -36,7 +36,7 @@ jobs:
           restore-keys: |
             report-cache-
 
-      - name: Build report + overview and publish
+            - name: Build report + overview and publish
         env:
           CXM_CLIENT_ID: ${{ secrets.CXM_CLIENT_ID }}
           CXM_SECRET:    ${{ secrets.CXM_SECRET }}
