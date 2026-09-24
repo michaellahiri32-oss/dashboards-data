@@ -1,0 +1,49 @@
+# Call Report + Management Overview — runs in the cloud, no laptop needed.
+# Put this file in the build repo at:  .github/workflows/report.yml
+name: Call Report and Overview
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'      # every 15 minutes
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+concurrency:
+  group: call-report
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get the scripts
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Restore cache
+        uses: actions/cache@v4
+        with:
+          path: |
+            customer_phone_cache.json
+            .last_github
+          key: report-cache-${{ github.run_id }}
+          restore-keys: |
+            report-cache-
+
+      - name: Build report + overview and publish
+        env:
+          CXM_CLIENT_ID: ${{ secrets.CXM_CLIENT_ID }}
+          CXM_SECRET:    ${{ secrets.CXM_SECRET }}
+          CXM_TOKEN:     ${{ secrets.CXM_TOKEN }}
+          CXM_ENDPOINT:  ${{ secrets.CXM_ENDPOINT }}
+          GITHUB_TOKEN:  ${{ secrets.DATA_PUSH_TOKEN }}
+        run: |
+          python build_report_api.py --report "UK-Accident-Management-Call-Report.html"
+          python build_overview.py
+          python publish_github.py
