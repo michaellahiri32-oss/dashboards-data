@@ -1,10 +1,8 @@
-# Call Report + Management Overview — runs in the cloud, no laptop needed.
-# Put this file in the build repo at:  .github/workflows/report.yml
 name: Call Report and Overview
 
 on:
   schedule:
-    - cron: '*/15 * * * *'      # every 15 minutes
+    - cron: '*/15 * * * *'
   workflow_dispatch: {}
 
 permissions:
@@ -36,13 +34,13 @@ jobs:
           restore-keys: |
             report-cache-
 
-            - name: Build report + overview and publish
+      - name: Build report and overview and publish
         env:
           CXM_CLIENT_ID: ${{ secrets.CXM_CLIENT_ID }}
-          CXM_SECRET:    ${{ secrets.CXM_SECRET }}
-          CXM_TOKEN:     ${{ secrets.CXM_TOKEN }}
-          CXM_ENDPOINT:  ${{ secrets.CXM_ENDPOINT }}
-          GITHUB_TOKEN:  ${{ secrets.DATA_PUSH_TOKEN }}
+          CXM_SECRET: ${{ secrets.CXM_SECRET }}
+          CXM_TOKEN: ${{ secrets.CXM_TOKEN }}
+          CXM_ENDPOINT: ${{ secrets.CXM_ENDPOINT }}
+          GITHUB_TOKEN: ${{ secrets.DATA_PUSH_TOKEN }}
         run: |
           python build_report_api.py --report "UK-Accident-Management-Call-Report.html"
           python build_overview.py
