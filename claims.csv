@@ -1,4 +1,28 @@
 Claim ID,Status,Date Received,Inbound Agent,Client Type,UK Partner Reference Number,UK Partner Lead Sent Time
+55817,Sent to Kindertons - Undriveable,2026-09-30 03:10:21,James Bridgwood,Not Fault,1755239,2026-09-30 03:10:26
+55817F,,2026-09-30 03:10:21,James Bridgwood,Fault,,
+55816,Sent to Kindertons - Undriveable,2026-09-30 02:29:23,Peter Brunker,Not Fault,1755229,2026-09-30 02:29:30
+55816F,,2026-09-30 02:29:23,Peter Brunker,Fault,,
+55815,Sent to Kindertons - Undriveable,2026-09-30 02:23:34,Gemma Stone,Not Fault,1755226,2026-09-30 02:23:39
+55815F,,2026-09-30 02:23:34,Gemma Stone,Fault,,
+55814,Closed DNQ,2026-09-30 02:13:19,Dan Gee,Not Fault,,
+55814F,,2026-09-30 02:13:19,Dan Gee,Fault,,
+55813,Closed DOI,2026-09-30 01:10:05,Peter Brunker,Not Fault,,
+55813F,,2026-09-30 01:10:05,Peter Brunker,Fault,,
+55812,Sent to Kindertons - Driveable,2026-09-29 21:57:38,Peter Brunker,Not Fault,,
+55812F,,2026-09-29 21:57:38,Peter Brunker,Fault,,
+55811,Sent to Kindertons - Undriveable,2026-09-29 20:09:10,Peter Brunker,Not Fault,1755112,2026-09-29 20:09:16
+55811F,,2026-09-29 20:09:10,Peter Brunker,Fault,,
+55810,Sent to Kindertons - Driveable,2026-09-29 19:43:11,Gemma Stone,Not Fault,,
+55810F,,2026-09-29 19:43:11,Gemma Stone,Fault,,
+55809,Sent to Kindertons - Undriveable,2026-09-29 19:21:16,Peter Brunker,Not Fault,1755093,2026-09-29 19:21:24
+55809F,,2026-09-29 19:21:16,Peter Brunker,Fault,,
+55808,Sent to Kindertons - Driveable,2026-09-29 18:26:37,Dan Gee,Not Fault,,
+55808F,,2026-09-29 18:26:37,Dan Gee,Fault,,
+55807,Closed DOI,2026-09-29 17:56:56,Mel Abbott,Not Fault,,
+55807F,,2026-09-29 17:56:56,Mel Abbott,Fault,,
+55806,Sent to Kindertons - Undriveable,2026-09-29 17:24:34,Mel Abbott,Not Fault,1755066,2026-09-29 17:24:40
+55806F,,2026-09-29 17:24:34,Mel Abbott,Fault,,
 55800,Sent to Kindertons - Undriveable,2026-09-29 05:06:07,Dan Gee,Not Fault,1755063,2026-09-29 05:06:16
 55800F,,2026-09-29 05:06:07,Dan Gee,Fault,,
 55799,Sent to Kindertons - Undriveable,2026-09-29 03:23:55,Dan Gee,Not Fault,1755060,2026-09-29 03:24:03
