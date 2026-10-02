@@ -1,4 +1,24 @@
 Claim ID,Status,Date Received,Inbound Agent,Client Type,UK Partner Reference Number,UK Partner Lead Sent Time
+55842,Sent to Kindertons - Undriveable,2026-10-02 03:55:38,Dan Gee,Not Fault,1755524,2026-10-02 03:55:45
+55842F,,2026-10-02 03:55:38,Dan Gee,Fault,,
+55841,Sent to Kindertons - Undriveable,2026-10-02 02:20:20,James Bridgwood,Not Fault,1755518,2026-10-02 02:20:25
+55841F,,2026-10-02 02:20:20,James Bridgwood,Fault,,
+55840,Sent to Kindertons - Undriveable,2026-10-02 02:15:48,Gemma Stone,Not Fault,1755516,2026-10-02 02:15:53
+55840F,,2026-10-02 02:15:48,Gemma Stone,Fault,,
+55839,Closed DOI,2026-10-01 23:11:00,Peter Brunker,Not Fault,,
+55839F,,2026-10-01 23:11:00,Peter Brunker,Fault,,
+55838,Sent to Kindertons - Undriveable,2026-10-01 22:40:26,Peter Brunker,Not Fault,1755462,2026-10-01 22:40:31
+55838F,,2026-10-01 22:40:26,Peter Brunker,Fault,,
+55837F,,2026-10-01 22:37:53,Dan Gee,Fault,,
+55837,Fault Claim,2026-10-01 22:37:53,Dan Gee,Not Fault,,
+55836,Sent to Kindertons - Undriveable,2026-10-01 22:06:28,Gemma Stone,Not Fault,1755452,2026-10-01 22:06:33
+55836F,,2026-10-01 22:06:28,Gemma Stone,Fault,,
+55835,Sent to Kindertons - Undriveable,2026-10-01 21:03:44,Dan Gee,Not Fault,1755440,2026-10-01 21:03:50
+55835F,,2026-10-01 21:03:44,Dan Gee,Fault,,
+55834,Sent to Kindertons - Undriveable,2026-10-01 20:43:00,James Bridgwood,Not Fault,1755431,2026-10-01 20:43:04
+55834F,,2026-10-01 20:43:00,James Bridgwood,Fault,,
+55833,Sent to Kindertons - Undriveable,2026-10-01 20:35:27,Peter Brunker,Not Fault,1755428,2026-10-01 20:35:35
+55833F,,2026-10-01 20:35:27,Peter Brunker,Fault,,
 55832F,,2026-10-01 04:48:22,Dan Gee,Fault,,
 55832,Closed DOI,2026-10-01 04:48:22,Dan Gee,Not Fault,,
 55831,Sent to Kindertons - Undriveable,2026-10-01 02:48:29,James Bridgwood,Not Fault,1755367,2026-10-01 02:48:35
@@ -17,7 +37,7 @@ Claim ID,Status,Date Received,Inbound Agent,Client Type,UK Partner Reference Num
 55825F,,2026-09-30 22:27:21,Peter Brunker,Fault,,
 55824,Sent to Kindertons - Undriveable,2026-09-30 21:34:51,James Bridgwood,Not Fault,1755301,2026-09-30 21:34:55
 55824F,,2026-09-30 21:34:51,James Bridgwood,Fault,,
-55823,Sent to Kindertons - Undriveable,2026-09-30 21:30:53,Dan Gee,Not Fault,,
+55823,Sent to Kindertons - Undriveable,2026-09-30 21:30:53,Dan Gee,Not Fault,1755389,2026-10-01 18:42:00
 55823F,,2026-09-30 21:30:53,Dan Gee,Fault,,
 55822,Sent to Kindertons - Undriveable,2026-09-30 20:13:27,James Bridgwood,Not Fault,1755278,2026-09-30 20:13:33
 55822F,,2026-09-30 20:13:27,James Bridgwood,Fault,,
