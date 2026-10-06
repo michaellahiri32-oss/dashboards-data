@@ -58,7 +58,8 @@ SPEND_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSEIOq_0n-xt5ow
 SHIFTS = [
     {"from": "2000-01-01", "hours": [ None,  [8,17],  [8,17],  [8,17],  [8,17],  [8,17],  None ]},   # to 30 Jun: Mon-Fri 8-5
     {"from": "2026-07-01", "hours": [ None,  [8,20],  [8,20],  [8,20],  [8,20],  [8,20],  None ]},   # 1-26 Jul: Mon-Fri 8-8
-    {"from": "2026-07-27", "hours": [ [14,20], None,   None,   [14,20], [14,20], [14,20], [14,20] ]}, # from 27 Jul: Wed-Sun 2-8
+    {"from": "2026-07-27", "hours": [ [14,20], None,   None,   [14,20], [14,20], [14,20], [14,20] ]}, # 27 Jul-4 Oct: Wed-Sun 2-8
+    {"from": "2026-10-05", "hours": [ [8,16], [7,20], [7,20], [7,20], [7,20], [14,18], [15,19] ]}, # from 5 Oct: Mon-Thu 7am-8pm, Fri 2-6pm, Sat 3-7pm, Sun 8am-4pm
 ]
 
 # One-off dates that override the pattern above. "YYYY-MM-DD": [open, close].
