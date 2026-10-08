@@ -1,4 +1,74 @@
 Claim ID,Status,Date Received,Inbound Agent,Client Type,UK Partner Reference Number,UK Partner Lead Sent Time
+55937,Sent to Kindertons - Driveable,2026-10-08 05:28:12,Dan Gee,Not Fault,,
+55937F,,2026-10-08 05:28:12,Dan Gee,Fault,,
+55936,Sent to Kindertons - Undriveable,2026-10-08 05:20:08,Peter Brunker,Not Fault,1756273,2026-10-08 05:22:25
+55936F,,2026-10-08 05:20:08,Peter Brunker,Fault,,
+55935,Sent to Kindertons - Undriveable,2026-10-08 04:46:09,Dan Gee,Not Fault,1756270,2026-10-08 04:46:14
+55935F,,2026-10-08 04:46:09,Dan Gee,Fault,,
+55934F,,2026-10-08 04:04:28,Dan Gee,Fault,,
+55934,Fault Claim,2026-10-08 04:04:28,Dan Gee,Not Fault,,
+55933,Sent to Kindertons - Undriveable,2026-10-08 04:00:02,Peter Brunker,Not Fault,1756269,2026-10-08 04:00:32
+55933F,,2026-10-08 04:00:02,Peter Brunker,Fault,,
+55932,Sent to Kindertons - Undriveable,2026-10-08 01:34:15,Peter Brunker,Not Fault,1756229,2026-10-08 01:34:22
+55932F,,2026-10-08 01:34:15,Peter Brunker,Fault,,
+55931,Sent to Kindertons - Undriveable,2026-10-08 00:11:24,Peter Brunker,Not Fault,1756208,2026-10-08 00:11:31
+55931F,,2026-10-08 00:11:24,Peter Brunker,Fault,,
+55930,Sent to Kindertons - Undriveable,2026-10-07 22:40:04,James Bridgwood,Not Fault,1756190,2026-10-07 22:41:31
+55930F,,2026-10-07 22:40:04,James Bridgwood,Fault,,
+55928,Sent to Kindertons - Undriveable,2026-10-07 22:16:43,Dan Gee,Not Fault,1756180,2026-10-07 22:17:50
+55928F,,2026-10-07 22:16:43,Dan Gee,Fault,,
+55927,Closed DNQ,2026-10-07 21:57:58,James Bridgwood,Not Fault,,
+55927F,,2026-10-07 21:57:58,James Bridgwood,Fault,,
+55926,Sent to Kindertons - Undriveable,2026-10-07 21:54:27,Peter Brunker,Not Fault,1756169,2026-10-07 21:54:31
+55926F,,2026-10-07 21:54:27,Peter Brunker,Fault,,
+55925,Sent to Kindertons - Undriveable,2026-10-07 21:50:32,Dan Gee,Not Fault,1756166,2026-10-07 21:50:40
+55925F,,2026-10-07 21:50:32,Dan Gee,Fault,,
+55924,Sent to Kindertons - Driveable,2026-10-07 21:24:18,Gemma Stone,Not Fault,,
+55924F,,2026-10-07 21:24:18,Gemma Stone,Fault,,
+55923,Sent to Kindertons - Undriveable,2026-10-07 20:57:46,James Bridgwood,Not Fault,1756142,2026-10-07 20:57:53
+55923F,,2026-10-07 20:57:46,James Bridgwood,Fault,,
+55922,Sent to Kindertons - Driveable,2026-10-07 20:24:56,Dan Gee,Not Fault,,
+55922F,,2026-10-07 20:24:56,Dan Gee,Fault,,
+55921,Sent to Kindertons - Undriveable,2026-10-07 20:04:41,Gemma Stone,Not Fault,1756131,2026-10-07 20:04:45
+55921F,,2026-10-07 20:04:41,Gemma Stone,Fault,,
+55920F,,2026-10-07 19:34:09,James Bridgwood,Fault,,
+55920,Closed DNQ,2026-10-07 19:34:09,James Bridgwood,Not Fault,,
+55918,Sent to Kindertons - Undriveable,2026-10-07 17:41:03,Gemma Stone,Not Fault,1756107,2026-10-07 17:41:09
+55918F,,2026-10-07 17:41:03,Gemma Stone,Fault,,
+55917,Sent to Kindertons - Driveable,2026-10-07 17:20:16,Gemma Stone,Not Fault,,
+55917F,,2026-10-07 17:20:16,Gemma Stone,Fault,,
+55915,Sent to Kindertons - Driveable,2026-10-07 05:12:20,Gemma Stone,Not Fault,,
+55915F,,2026-10-07 05:12:20,Gemma Stone,Fault,,
+55914,Closed DNQ,2026-10-07 05:04:08,James Bridgwood,Not Fault,,
+55914F,,2026-10-07 05:04:08,James Bridgwood,Fault,,
+55913,Sent to Kindertons - Driveable,2026-10-07 04:24:35,James Bridgwood,Not Fault,,
+55913F,,2026-10-07 04:24:35,James Bridgwood,Fault,,
+55912F,Closed DNQ,2026-10-07 04:11:21,James Bridgwood,Fault,,
+55912,Closed DNQ,2026-10-07 04:11:21,James Bridgwood,Not Fault,,
+55911,Sent to Kindertons - Undriveable,2026-10-07 03:05:26,Dan Gee,Not Fault,1756089,2026-10-07 03:06:58
+55911F,,2026-10-07 03:05:26,Dan Gee,Fault,,
+55910,Sent to Kindertons - Driveable,2026-10-07 00:38:59,Dan Gee,Not Fault,,
+55910F,,2026-10-07 00:38:59,Dan Gee,Fault,,
+55909,Sent to Kindertons - Driveable,2026-10-07 00:35:21,Peter Brunker,Not Fault,,
+55909F,,2026-10-07 00:35:21,Peter Brunker,Fault,,
+55908,Sent to Kindertons - Driveable,2026-10-07 00:23:29,Dan Gee,Not Fault,,
+55908F,,2026-10-07 00:23:29,Dan Gee,Fault,,
+55907,Sent to Kindertons - Undriveable,2026-10-06 23:03:37,Peter Brunker,Not Fault,1756023,2026-10-06 23:05:23
+55907F,,2026-10-06 23:03:37,Peter Brunker,Fault,,
+55906,Sent to Kindertons - Undriveable,2026-10-06 21:30:27,Gemma Stone,Not Fault,1755993,2026-10-06 21:30:32
+55906F,,2026-10-06 21:30:27,Gemma Stone,Fault,,
+55905,Sent to Kindertons - Driveable,2026-10-06 20:37:27,Gemma Stone,Not Fault,,
+55905F,,2026-10-06 20:37:27,Gemma Stone,Fault,,
+55904,Sent to Kindertons - Undriveable,2026-10-06 20:26:31,Peter Brunker,Not Fault,1755968,2026-10-06 20:26:37
+55904F,,2026-10-06 20:26:31,Peter Brunker,Fault,,
+55903,Sent to Kindertons - Undriveable,2026-10-06 19:49:02,Gemma Stone,Not Fault,1755957,2026-10-06 19:49:07
+55903F,,2026-10-06 19:49:02,Gemma Stone,Fault,,
+55902F,,2026-10-06 18:45:48,Dan Gee,Fault,,
+55902,Sent to Kindertons - Driveable,2026-10-06 18:45:48,Dan Gee,Not Fault,,
+55901,Sent to Kindertons - Undriveable,2026-10-06 18:45:17,Peter Brunker,Not Fault,1755943,2026-10-06 18:45:25
+55901F,,2026-10-06 18:45:17,Peter Brunker,Fault,,
+55900,Sent to Kindertons - Undriveable,2026-10-06 18:13:21,Gemma Stone,Not Fault,1755937,2026-10-06 18:13:26
+55900F,,2026-10-06 18:13:21,Gemma Stone,Fault,,
 55893,Sent to Kindertons - Undriveable,2026-10-06 05:57:27,James Bridgwood,Not Fault,1755935,2026-10-06 05:57:34
 55893F,,2026-10-06 05:57:27,James Bridgwood,Fault,,
 55892,Sent to Kindertons - Undriveable,2026-10-06 05:25:54,James Bridgwood,Not Fault,1755934,2026-10-06 05:32:33
