@@ -1,4 +1,16 @@
 Claim ID,Status,Date Received,Inbound Agent,Client Type,UK Partner Reference Number,UK Partner Lead Sent Time
+55963,Sent to Kindertons - Undriveable,2026-10-10 03:41:45,Peter Brunker,Not Fault,1756577,2026-10-10 03:44:39
+55963F,,2026-10-10 03:41:45,Peter Brunker,Fault,,
+55962,Closed DNQ,2026-10-10 03:13:15,Gemma Stone,Not Fault,,
+55962F,,2026-10-10 03:13:15,Gemma Stone,Fault,,
+55961,Closed DNQ,2026-10-10 02:50:01,James Bridgwood,Not Fault,,
+55961F,,2026-10-10 02:50:01,James Bridgwood,Fault,,
+55960,Closed DOI,2026-10-10 02:28:50,Peter Brunker,Not Fault,,
+55960F,,2026-10-10 02:28:50,Peter Brunker,Fault,,
+55959,Sent to Kindertons - Driveable,2026-10-10 00:29:37,Dan Gee,Not Fault,,
+55959F,,2026-10-10 00:29:37,Dan Gee,Fault,,
+55958,Sent to Kindertons - Undriveable,2026-10-10 00:16:10,James Bridgwood,Not Fault,1756515,2026-10-10 00:16:17
+55958F,,2026-10-10 00:16:10,James Bridgwood,Fault,,
 55951,Sent to Kindertons - Undriveable,2026-10-09 05:46:49,Dan Gee,Not Fault,1756432,2026-10-09 05:46:56
 55951F,,2026-10-09 05:46:49,Dan Gee,Fault,,
 55950,Closed DOI,2026-10-09 05:15:28,Mel Abbott,Not Fault,,
