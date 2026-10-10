@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-10-10T16:10:02+01:00",
+  "updated": "2026-10-10T16:20:03+01:00",
   "period": {
     "day": "2026-10-10",
     "month": "2026-10"
@@ -19,13 +19,13 @@
       "leadsToday": 0,
       "leadsMonth": 24,
       "callsToday": 0,
-      "callsMonth": 257,
+      "callsMonth": 256,
       "windToday": 0,
       "windMonth": 1,
       "byMonth": {
         "2026-10": {
           "leads": 24,
-          "calls": 257,
+          "calls": 256,
           "wind": 1
         },
         "2026-09": {
@@ -198,14 +198,14 @@
       "id": "michael-lahiri",
       "leadsToday": 1,
       "leadsMonth": 1,
-      "callsToday": 7,
-      "callsMonth": 12,
+      "callsToday": 8,
+      "callsMonth": 13,
       "windToday": 0,
       "windMonth": 0,
       "byMonth": {
         "2026-10": {
           "leads": 1,
-          "calls": 12,
+          "calls": 13,
           "wind": 0
         },
         "2026-09": {
@@ -235,14 +235,14 @@
       "id": "marlon-albohaithi",
       "leadsToday": 0,
       "leadsMonth": 0,
-      "callsToday": 18,
-      "callsMonth": 21,
+      "callsToday": 19,
+      "callsMonth": 22,
       "windToday": 0,
       "windMonth": 0,
       "byMonth": {
         "2026-10": {
           "leads": 0,
-          "calls": 21,
+          "calls": 22,
           "wind": 0
         },
         "2026-09": {
