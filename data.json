@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-10-12T08:30:03+01:00",
+  "updated": "2026-10-12T08:40:04+01:00",
   "period": {
     "day": "2026-10-12",
     "month": "2026-10"
@@ -53,16 +53,16 @@
     {
       "name": "Peter Brunker",
       "id": "peter-brunker",
-      "leadsToday": 2,
-      "leadsMonth": 25,
-      "callsToday": 4,
-      "callsMonth": 267,
+      "leadsToday": 3,
+      "leadsMonth": 26,
+      "callsToday": 5,
+      "callsMonth": 268,
       "windToday": 0,
       "windMonth": 0,
       "byMonth": {
         "2026-10": {
-          "leads": 25,
-          "calls": 267,
+          "leads": 26,
+          "calls": 268,
           "wind": 0
         },
         "2026-09": {
@@ -87,14 +87,14 @@
       "id": "gemma-stone",
       "leadsToday": 0,
       "leadsMonth": 19,
-      "callsToday": 7,
-      "callsMonth": 251,
+      "callsToday": 10,
+      "callsMonth": 255,
       "windToday": 0,
       "windMonth": 1,
       "byMonth": {
         "2026-10": {
           "leads": 19,
-          "calls": 251,
+          "calls": 255,
           "wind": 1
         },
         "2026-09": {
@@ -198,14 +198,14 @@
       "id": "michael-lahiri",
       "leadsToday": 0,
       "leadsMonth": 4,
-      "callsToday": 0,
-      "callsMonth": 31,
+      "callsToday": 1,
+      "callsMonth": 32,
       "windToday": 0,
       "windMonth": 0,
       "byMonth": {
         "2026-10": {
           "leads": 4,
-          "calls": 31,
+          "calls": 32,
           "wind": 0
         },
         "2026-09": {
