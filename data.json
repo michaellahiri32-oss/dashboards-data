@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-10-18T12:10:04+01:00",
+  "updated": "2026-10-18T12:20:03+01:00",
   "period": {
     "day": "2026-10-18",
     "month": "2026-10"
@@ -18,14 +18,14 @@
       "id": "james-bridgwood",
       "leadsToday": 1,
       "leadsMonth": 52,
-      "callsToday": 19,
-      "callsMonth": 598,
+      "callsToday": 21,
+      "callsMonth": 600,
       "windToday": 0,
       "windMonth": 2,
       "byMonth": {
         "2026-10": {
           "leads": 52,
-          "calls": 598,
+          "calls": 600,
           "wind": 2
         },
         "2026-09": {
@@ -85,15 +85,15 @@
     {
       "name": "Daniel Gee",
       "id": "daniel-gee",
-      "leadsToday": 1,
-      "leadsMonth": 35,
+      "leadsToday": 2,
+      "leadsMonth": 36,
       "callsToday": 30,
       "callsMonth": 470,
       "windToday": 0,
       "windMonth": 1,
       "byMonth": {
         "2026-10": {
-          "leads": 35,
+          "leads": 36,
           "calls": 470,
           "wind": 1
         },
@@ -161,14 +161,14 @@
       "id": "mel-abbott",
       "leadsToday": 2,
       "leadsMonth": 21,
-      "callsToday": 25,
-      "callsMonth": 119,
+      "callsToday": 27,
+      "callsMonth": 121,
       "windToday": 0,
       "windMonth": 0,
       "byMonth": {
         "2026-10": {
           "leads": 21,
-          "calls": 119,
+          "calls": 121,
           "wind": 0
         },
         "2026-09": {
