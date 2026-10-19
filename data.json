@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-10-19T13:50:03+01:00",
+  "updated": "2026-10-19T14:00:03+01:00",
   "period": {
     "day": "2026-10-19",
     "month": "2026-10"
@@ -18,14 +18,14 @@
       "id": "james-bridgwood",
       "leadsToday": 1,
       "leadsMonth": 55,
-      "callsToday": 11,
-      "callsMonth": 622,
+      "callsToday": 12,
+      "callsMonth": 623,
       "windToday": 0,
       "windMonth": 2,
       "byMonth": {
         "2026-10": {
           "leads": 55,
-          "calls": 622,
+          "calls": 623,
           "wind": 2,
           "weLeads": 18,
           "weCalls": 134,
@@ -114,14 +114,14 @@
       "id": "daniel-gee",
       "leadsToday": 0,
       "leadsMonth": 38,
-      "callsToday": 16,
-      "callsMonth": 502,
+      "callsToday": 17,
+      "callsMonth": 503,
       "windToday": 0,
       "windMonth": 2,
       "byMonth": {
         "2026-10": {
           "leads": 38,
-          "calls": 502,
+          "calls": 503,
           "wind": 2,
           "weLeads": 8,
           "weCalls": 71,
@@ -345,7 +345,7 @@
         },
         "2026-08": {
           "leads": 76,
-          "calls": 779,
+          "calls": 780,
           "wind": 1,
           "weLeads": 41,
           "weCalls": 297,
