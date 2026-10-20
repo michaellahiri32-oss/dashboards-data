@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-10-20T09:50:03+01:00",
+  "updated": "2026-10-20T10:00:04+01:00",
   "period": {
     "day": "2026-10-20",
     "month": "2026-10"
@@ -82,8 +82,8 @@
       "id": "peter-brunker",
       "leadsToday": 0,
       "leadsMonth": 46,
-      "callsToday": 10,
-      "callsMonth": 617,
+      "callsToday": 11,
+      "callsMonth": 618,
       "windToday": 0,
       "windMonth": 0,
       "piToday": 0,
@@ -91,7 +91,7 @@
       "byMonth": {
         "2026-10": {
           "leads": 46,
-          "calls": 617,
+          "calls": 618,
           "wind": 0,
           "pi": 0,
           "weLeads": 1,
@@ -111,7 +111,7 @@
         },
         "2026-08": {
           "leads": 35,
-          "calls": 364,
+          "calls": 363,
           "wind": 3,
           "pi": 0,
           "weLeads": 2,
@@ -136,8 +136,8 @@
       "id": "daniel-gee",
       "leadsToday": 1,
       "leadsMonth": 41,
-      "callsToday": 8,
-      "callsMonth": 532,
+      "callsToday": 9,
+      "callsMonth": 533,
       "windToday": 0,
       "windMonth": 2,
       "piToday": 0,
@@ -145,7 +145,7 @@
       "byMonth": {
         "2026-10": {
           "leads": 41,
-          "calls": 532,
+          "calls": 533,
           "wind": 2,
           "pi": 0,
           "weLeads": 8,
@@ -200,8 +200,8 @@
       "id": "gemma-stone",
       "leadsToday": 1,
       "leadsMonth": 26,
-      "callsToday": 10,
-      "callsMonth": 428,
+      "callsToday": 11,
+      "callsMonth": 429,
       "windToday": 0,
       "windMonth": 1,
       "piToday": 0,
@@ -209,7 +209,7 @@
       "byMonth": {
         "2026-10": {
           "leads": 26,
-          "calls": 428,
+          "calls": 429,
           "wind": 1,
           "pi": 0,
           "weLeads": 0,
