@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-10-24T17:50:04+01:00",
+  "updated": "2026-10-24T18:10:03+01:00",
   "period": {
     "day": "2026-10-24",
     "month": "2026-10"
@@ -185,7 +185,7 @@
         },
         "2026-06": {
           "leads": 23,
-          "calls": 952,
+          "calls": 953,
           "wind": 0,
           "pi": 0,
           "weLeads": 0,
@@ -262,22 +262,22 @@
     {
       "name": "Mel Abbott",
       "id": "mel-abbott",
-      "leadsToday": 3,
-      "leadsMonth": 25,
-      "callsToday": 14,
-      "callsMonth": 151,
+      "leadsToday": 4,
+      "leadsMonth": 26,
+      "callsToday": 16,
+      "callsMonth": 153,
       "windToday": 0,
       "windMonth": 0,
       "piToday": 0,
       "piMonth": 0,
       "byMonth": {
         "2026-10": {
-          "leads": 25,
-          "calls": 151,
+          "leads": 26,
+          "calls": 153,
           "wind": 0,
           "pi": 0,
-          "weLeads": 20,
-          "weCalls": 117,
+          "weLeads": 21,
+          "weCalls": 119,
           "weWind": 0,
           "wePi": 0
         },
@@ -390,22 +390,22 @@
     {
       "name": "Marlon Albohaithi",
       "id": "marlon-albohaithi",
-      "leadsToday": 3,
-      "leadsMonth": 6,
-      "callsToday": 23,
-      "callsMonth": 74,
+      "leadsToday": 4,
+      "leadsMonth": 7,
+      "callsToday": 24,
+      "callsMonth": 75,
       "windToday": 0,
       "windMonth": 0,
       "piToday": 0,
       "piMonth": 0,
       "byMonth": {
         "2026-10": {
-          "leads": 6,
-          "calls": 74,
+          "leads": 7,
+          "calls": 75,
           "wind": 0,
           "pi": 0,
-          "weLeads": 5,
-          "weCalls": 65,
+          "weLeads": 6,
+          "weCalls": 66,
           "weWind": 0,
           "wePi": 0
         },
