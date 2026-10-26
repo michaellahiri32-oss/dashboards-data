@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-10-26T12:40:04+00:00",
+  "updated": "2026-10-26T12:50:04+00:00",
   "period": {
     "day": "2026-10-26",
     "month": "2026-10"
@@ -18,8 +18,8 @@
       "id": "james-bridgwood",
       "leadsToday": 0,
       "leadsMonth": 66,
-      "callsToday": 7,
-      "callsMonth": 774,
+      "callsToday": 8,
+      "callsMonth": 775,
       "windToday": 0,
       "windMonth": 2,
       "piToday": 0,
@@ -27,7 +27,7 @@
       "byMonth": {
         "2026-10": {
           "leads": 66,
-          "calls": 774,
+          "calls": 775,
           "wind": 2,
           "pi": 0,
           "weLeads": 18,
@@ -82,8 +82,8 @@
       "id": "peter-brunker",
       "leadsToday": 2,
       "leadsMonth": 57,
-      "callsToday": 34,
-      "callsMonth": 774,
+      "callsToday": 35,
+      "callsMonth": 775,
       "windToday": 1,
       "windMonth": 2,
       "piToday": 0,
@@ -91,7 +91,7 @@
       "byMonth": {
         "2026-10": {
           "leads": 57,
-          "calls": 774,
+          "calls": 775,
           "wind": 2,
           "pi": 0,
           "weLeads": 1,
@@ -136,8 +136,8 @@
       "id": "daniel-gee",
       "leadsToday": 1,
       "leadsMonth": 50,
-      "callsToday": 8,
-      "callsMonth": 666,
+      "callsToday": 9,
+      "callsMonth": 667,
       "windToday": 0,
       "windMonth": 2,
       "piToday": 0,
@@ -145,7 +145,7 @@
       "byMonth": {
         "2026-10": {
           "leads": 50,
-          "calls": 666,
+          "calls": 667,
           "wind": 2,
           "pi": 0,
           "weLeads": 8,
@@ -200,8 +200,8 @@
       "id": "gemma-stone",
       "leadsToday": 0,
       "leadsMonth": 31,
-      "callsToday": 36,
-      "callsMonth": 594,
+      "callsToday": 37,
+      "callsMonth": 595,
       "windToday": 2,
       "windMonth": 3,
       "piToday": 0,
@@ -209,7 +209,7 @@
       "byMonth": {
         "2026-10": {
           "leads": 31,
-          "calls": 594,
+          "calls": 595,
           "wind": 3,
           "pi": 0,
           "weLeads": 0,
