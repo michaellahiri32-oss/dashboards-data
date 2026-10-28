@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-10-28T16:10:03+00:00",
+  "updated": "2026-10-28T16:20:03+00:00",
   "period": {
     "day": "2026-10-28",
     "month": "2026-10"
@@ -200,8 +200,8 @@
       "id": "gemma-stone",
       "leadsToday": 5,
       "leadsMonth": 39,
-      "callsToday": 69,
-      "callsMonth": 758,
+      "callsToday": 71,
+      "callsMonth": 760,
       "windToday": 0,
       "windMonth": 3,
       "piToday": 0,
@@ -209,7 +209,7 @@
       "byMonth": {
         "2026-10": {
           "leads": 39,
-          "calls": 758,
+          "calls": 760,
           "wind": 3,
           "pi": 0,
           "weLeads": 0,
