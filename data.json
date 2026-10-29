@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-10-29T17:10:03+00:00",
+  "updated": "2026-10-29T17:20:03+00:00",
   "period": {
     "day": "2026-10-29",
     "month": "2026-10"
@@ -37,7 +37,7 @@
         },
         "2026-09": {
           "leads": 96,
-          "calls": 968,
+          "calls": 967,
           "wind": 4,
           "pi": 0,
           "weLeads": 30,
@@ -57,11 +57,11 @@
         },
         "2026-07": {
           "leads": 81,
-          "calls": 946,
+          "calls": 945,
           "wind": 0,
           "pi": 0,
           "weLeads": 23,
-          "weCalls": 206,
+          "weCalls": 205,
           "weWind": 0,
           "wePi": 0
         },
@@ -82,8 +82,8 @@
       "id": "daniel-gee",
       "leadsToday": 1,
       "leadsMonth": 65,
-      "callsToday": 33,
-      "callsMonth": 879,
+      "callsToday": 36,
+      "callsMonth": 882,
       "windToday": 0,
       "windMonth": 3,
       "piToday": 1,
@@ -91,7 +91,7 @@
       "byMonth": {
         "2026-10": {
           "leads": 65,
-          "calls": 879,
+          "calls": 882,
           "wind": 3,
           "pi": 1,
           "weLeads": 8,
@@ -147,7 +147,7 @@
       "leadsToday": 0,
       "leadsMonth": 59,
       "callsToday": 0,
-      "callsMonth": 871,
+      "callsMonth": 872,
       "windToday": 0,
       "windMonth": 3,
       "piToday": 0,
@@ -155,7 +155,7 @@
       "byMonth": {
         "2026-10": {
           "leads": 59,
-          "calls": 871,
+          "calls": 872,
           "wind": 3,
           "pi": 1,
           "weLeads": 1,
@@ -200,8 +200,8 @@
       "id": "gemma-stone",
       "leadsToday": 0,
       "leadsMonth": 40,
-      "callsToday": 37,
-      "callsMonth": 805,
+      "callsToday": 39,
+      "callsMonth": 807,
       "windToday": 0,
       "windMonth": 3,
       "piToday": 0,
@@ -209,7 +209,7 @@
       "byMonth": {
         "2026-10": {
           "leads": 40,
-          "calls": 805,
+          "calls": 807,
           "wind": 3,
           "pi": 0,
           "weLeads": 0,
@@ -283,7 +283,7 @@
         },
         "2026-09": {
           "leads": 73,
-          "calls": 724,
+          "calls": 723,
           "wind": 3,
           "pi": 0,
           "weLeads": 31,
