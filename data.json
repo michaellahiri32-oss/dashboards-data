@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-11-02T13:10:03+00:00",
+  "updated": "2026-11-02T13:20:03+00:00",
   "period": {
     "day": "2026-11-02",
     "month": "2026-11"
@@ -19,8 +19,8 @@
       "id": "gemma-stone",
       "leadsToday": 2,
       "leadsMonth": 2,
-      "callsToday": 30,
-      "callsMonth": 30,
+      "callsToday": 31,
+      "callsMonth": 31,
       "windToday": 0,
       "windMonth": 0,
       "piToday": 0,
@@ -28,7 +28,7 @@
       "byMonth": {
         "2026-11": {
           "leads": 2,
-          "calls": 30,
+          "calls": 31,
           "wind": 0,
           "pi": 0,
           "weLeads": 0,
@@ -93,8 +93,8 @@
       "id": "peter-brunker",
       "leadsToday": 2,
       "leadsMonth": 2,
-      "callsToday": 34,
-      "callsMonth": 34,
+      "callsToday": 35,
+      "callsMonth": 35,
       "windToday": 0,
       "windMonth": 0,
       "piToday": 0,
@@ -102,7 +102,7 @@
       "byMonth": {
         "2026-11": {
           "leads": 2,
-          "calls": 34,
+          "calls": 35,
           "wind": 0,
           "pi": 0,
           "weLeads": 0,
@@ -157,8 +157,8 @@
       "id": "daniel-gee",
       "leadsToday": 0,
       "leadsMonth": 1,
-      "callsToday": 9,
-      "callsMonth": 50,
+      "callsToday": 11,
+      "callsMonth": 52,
       "windToday": 1,
       "windMonth": 1,
       "piToday": 0,
@@ -166,7 +166,7 @@
       "byMonth": {
         "2026-11": {
           "leads": 1,
-          "calls": 50,
+          "calls": 52,
           "wind": 1,
           "pi": 0,
           "weLeads": 1,
@@ -216,7 +216,7 @@
         },
         "2026-06": {
           "leads": 23,
-          "calls": 953,
+          "calls": 952,
           "wind": 0,
           "pi": 0,
           "weLeads": 0,
@@ -231,8 +231,8 @@
       "id": "james-bridgwood",
       "leadsToday": 0,
       "leadsMonth": 1,
-      "callsToday": 10,
-      "callsMonth": 21,
+      "callsToday": 11,
+      "callsMonth": 22,
       "windToday": 0,
       "windMonth": 0,
       "piToday": 0,
@@ -240,7 +240,7 @@
       "byMonth": {
         "2026-11": {
           "leads": 1,
-          "calls": 21,
+          "calls": 22,
           "wind": 0,
           "pi": 0,
           "weLeads": 1,
