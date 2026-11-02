@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-11-02T17:40:03+00:00",
+  "updated": "2026-11-02T17:50:03+00:00",
   "period": {
     "day": "2026-11-02",
     "month": "2026-11"
@@ -14,6 +14,80 @@
     "2026-11"
   ],
   "agents": [
+    {
+      "name": "James Bridgwood",
+      "id": "james-bridgwood",
+      "leadsToday": 3,
+      "leadsMonth": 4,
+      "callsToday": 31,
+      "callsMonth": 42,
+      "windToday": 0,
+      "windMonth": 0,
+      "piToday": 0,
+      "piMonth": 0,
+      "byMonth": {
+        "2026-11": {
+          "leads": 4,
+          "calls": 42,
+          "wind": 0,
+          "pi": 0,
+          "weLeads": 1,
+          "weCalls": 11,
+          "weWind": 0,
+          "wePi": 0
+        },
+        "2026-10": {
+          "leads": 88,
+          "calls": 1006,
+          "wind": 3,
+          "pi": 0,
+          "weLeads": 20,
+          "weCalls": 165,
+          "weWind": 0,
+          "wePi": 0
+        },
+        "2026-09": {
+          "leads": 96,
+          "calls": 967,
+          "wind": 4,
+          "pi": 0,
+          "weLeads": 30,
+          "weCalls": 194,
+          "weWind": 1,
+          "wePi": 0
+        },
+        "2026-08": {
+          "leads": 67,
+          "calls": 666,
+          "wind": 0,
+          "pi": 0,
+          "weLeads": 31,
+          "weCalls": 255,
+          "weWind": 0,
+          "wePi": 0
+        },
+        "2026-07": {
+          "leads": 81,
+          "calls": 946,
+          "wind": 0,
+          "pi": 0,
+          "weLeads": 23,
+          "weCalls": 206,
+          "weWind": 0,
+          "wePi": 0
+        },
+        "2026-06": {
+          "leads": 3,
+          "calls": 102,
+          "wind": 0,
+          "pi": 0,
+          "weLeads": 0,
+          "weCalls": 0,
+          "weWind": 0,
+          "wePi": 0
+        }
+      }
+    },
     {
       "name": "Peter Brunker",
       "id": "peter-brunker",
@@ -143,80 +217,6 @@
         "2026-06": {
           "leads": 27,
           "calls": 869,
-          "wind": 0,
-          "pi": 0,
-          "weLeads": 0,
-          "weCalls": 0,
-          "weWind": 0,
-          "wePi": 0
-        }
-      }
-    },
-    {
-      "name": "James Bridgwood",
-      "id": "james-bridgwood",
-      "leadsToday": 2,
-      "leadsMonth": 3,
-      "callsToday": 31,
-      "callsMonth": 42,
-      "windToday": 0,
-      "windMonth": 0,
-      "piToday": 0,
-      "piMonth": 0,
-      "byMonth": {
-        "2026-11": {
-          "leads": 3,
-          "calls": 42,
-          "wind": 0,
-          "pi": 0,
-          "weLeads": 1,
-          "weCalls": 11,
-          "weWind": 0,
-          "wePi": 0
-        },
-        "2026-10": {
-          "leads": 88,
-          "calls": 1006,
-          "wind": 3,
-          "pi": 0,
-          "weLeads": 20,
-          "weCalls": 165,
-          "weWind": 0,
-          "wePi": 0
-        },
-        "2026-09": {
-          "leads": 96,
-          "calls": 967,
-          "wind": 4,
-          "pi": 0,
-          "weLeads": 30,
-          "weCalls": 194,
-          "weWind": 1,
-          "wePi": 0
-        },
-        "2026-08": {
-          "leads": 67,
-          "calls": 666,
-          "wind": 0,
-          "pi": 0,
-          "weLeads": 31,
-          "weCalls": 255,
-          "weWind": 0,
-          "wePi": 0
-        },
-        "2026-07": {
-          "leads": 81,
-          "calls": 945,
-          "wind": 0,
-          "pi": 0,
-          "weLeads": 23,
-          "weCalls": 205,
-          "weWind": 0,
-          "wePi": 0
-        },
-        "2026-06": {
-          "leads": 3,
-          "calls": 102,
           "wind": 0,
           "pi": 0,
           "weLeads": 0,
