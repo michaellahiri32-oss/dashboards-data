@@ -1,0 +1,57 @@
+{
+  "generated": "2026-11-03T11:18:41Z",
+  "range": {
+    "from": "2026-06-09",
+    "to": "2026-11-03"
+  },
+  "months": [
+    {
+      "m": "2026-06",
+      "label": "Jun 26",
+      "instructs": 106,
+      "inbound": 3614,
+      "abandons": 88,
+      "spend": null
+    },
+    {
+      "m": "2026-07",
+      "label": "Jul 26",
+      "instructs": 451,
+      "inbound": 5882,
+      "abandons": 558,
+      "spend": null
+    },
+    {
+      "m": "2026-08",
+      "label": "Aug 26",
+      "instructs": 384,
+      "inbound": 4281,
+      "abandons": 419,
+      "spend": null
+    },
+    {
+      "m": "2026-09",
+      "label": "Sep 26",
+      "instructs": 388,
+      "inbound": 5334,
+      "abandons": 497,
+      "spend": 203694.28
+    },
+    {
+      "m": "2026-10",
+      "label": "Oct 26",
+      "instructs": 311,
+      "inbound": 4828,
+      "abandons": 364,
+      "spend": 164487.43
+    },
+    {
+      "m": "2026-11",
+      "label": "Nov 26",
+      "instructs": 17,
+      "inbound": 394,
+      "abandons": 19,
+      "spend": 15202.82
+    }
+  ]
+}
