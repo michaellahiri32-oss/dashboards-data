@@ -19,7 +19,7 @@ Publish overview.json to GitHub (like data.json); the page reads it from there.
   python build_overview.py --day 2026-07-22
 """
 import argparse, json, os, re, sys, time, urllib.request, urllib.parse, urllib.error
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 try:
     from zoneinfo import ZoneInfo
 except ImportError:
@@ -162,6 +162,8 @@ def fetch_spend(url):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--day", help="YYYY-MM-DD (default: today UK)")
+    ap.add_argument("--history-days", type=int, default=60,
+                    help="how many days of history to include for the date picker (default 60)")
     ap.add_argument("--out", default="overview.json")
     ap.add_argument("--debug", action="store_true",
                     help="print scan diagnostics (how many records seen, date spread)")
@@ -176,12 +178,13 @@ def main():
     outcomes = outcome_map(E, H)
     cache = load_cache()
 
-    # ---- pull today's interactions ----
-    # The API doesn't accept a start_time range filter, and the feed isn't reliably
-    # newest-first, so we scan pages and filter in code. We keep going until we've
-    # seen plenty of OLDER records (proving we're well past today), rather than
-    # stopping on the first older one.
-    calls = 0
+    # ---- pull interactions across the history window ----
+    # The API has no start_time range filter and the feed isn't reliably newest-first,
+    # so we scan pages, keep records within [win_from, day], and bucket per day.
+    HISTORY_DAYS = max(1, args.history_days)
+    win_from = day - timedelta(days=HISTORY_DAYS - 1)
+    win_from_s = win_from.isoformat()
+
     recs = []
     seen = 0
     older = 0
@@ -195,20 +198,20 @@ def main():
         if args.debug:
             dk = d.isoformat()
             date_counts[dk] = date_counts.get(dk, 0) + 1
-        if d < day:
+        if d < win_from:
             older += 1
-            if older >= 500:               # seen a big block of older data -> done
+            if older >= 500:               # well past the window -> done
                 break
             continue
         if d > day:
             continue
         outcome = outcomes.get(it.get("outcome_id"), "")
-        if it.get("direction") == "inbound":
-            calls += 1
         tels = cache.get(it.get("customer_id"), [])
         ph = next((t for t in tels if t), "")
         recs.append({
+            "date": d.isoformat(),
             "ms": dt.timestamp(),
+            "inbound": 1 if it.get("direction") == "inbound" else 0,
             "outcome": outcome,
             "ph": ph,
             "match": next((t for t in tels if t in SALE_TRANSFER_NUMBERS), None),
@@ -229,43 +232,57 @@ def main():
     for x in recs:
         if x["outcome"] == SALE_TRANSFER and x["match"]:
             x["sale"] = 1
-    # dedup same-day H&R by phone (keep earliest)
+    # dedup same-day H&R by phone (keep earliest) -- keyed per DAY so each day stands alone
     hk = {}
     for x in recs:
         if x["sale"] == 1 and x["outcome"] == SALE_HIRE and x["ph"] and x["ph"] not in DEDUP_EXEMPT:
-            hk.setdefault(x["ph"], []).append(x)
+            hk.setdefault(x["date"] + "|" + x["ph"], []).append(x)
     for lst in hk.values():
         lst.sort(key=lambda a: a["ms"])
         for x in lst[1:]: x["hrdup"] = 1
 
-    instructs = sum(1 for x in recs if x["sale"] == 1 and not x["hrdup"])
-
-    if args.debug:
-        print(f"\n  [debug] scanned {seen} interactions total")
-        print(f"  [debug] records kept for {day_str}: {len(recs)}")
-        top = sorted(date_counts.items(), reverse=True)[:6]
-        print("  [debug] interactions per date seen (newest first):")
-        for dk, n in top:
-            mark = "  <-- today" if dk == day_str else ""
-            print(f"           {dk}: {n}{mark}")
-        raw_hr = sum(1 for x in recs if x["outcome"] == SALE_HIRE)
-        print(f"  [debug] raw H&R today (pre-dedup): {raw_hr}, deduped instructs: {instructs}")
-        cached = sum(1 for x in recs if x["ph"])
-        print(f"  [debug] records with a cached phone number: {cached}/{len(recs)}")
-        print()
-
     # ---- spend ----
     spend_map, spend_stamp = fetch_spend(SPEND_CSV_URL)
-    spend = spend_map.get(day_str, 0.0)
-    cpi = round(spend / instructs, 2) if instructs else None
+
+    # ---- per-day aggregation (calls = inbound; instructs = deduped sales) ----
+    days = {}
+    for x in recs:
+        b = days.setdefault(x["date"], {"calls": 0, "instructs": 0})
+        if x["inbound"]:
+            b["calls"] += 1
+        if x["sale"] == 1 and not x["hrdup"]:
+            b["instructs"] += 1
+    days.setdefault(day_str, {"calls": 0, "instructs": 0})   # today always present
+
+    history = {}
+    for d_s in sorted(days):
+        c = days[d_s]["calls"]; ins = days[d_s]["instructs"]
+        sp = round(spend_map.get(d_s, 0.0), 2)
+        history[d_s] = {"calls": c, "instructs": ins, "spend": sp,
+                        "cpi": round(sp / ins, 2) if ins else None}
+
+    today_row = history[day_str]
+    calls, instructs = today_row["calls"], today_row["instructs"]
+    spend, cpi = today_row["spend"], today_row["cpi"]
+
+    if args.debug:
+        print(f"\n  [debug] scanned {seen} interactions total; window from {win_from_s}")
+        active = len([d for d in history if history[d]["calls"] or history[d]["instructs"]])
+        print(f"  [debug] days with data: {active} of {len(history)}")
+        for dk, n in sorted(date_counts.items(), reverse=True)[:8]:
+            mark = "  <-- today" if dk == day_str else ""
+            print(f"           {dk}: {n}{mark}")
+        print()
 
     now_iso = now_uk.replace(microsecond=0).isoformat()
     out = {
         "day": day_str,
         "calls": calls,
         "instructs": instructs,
-        "spend": round(spend, 2),
+        "spend": spend,
         "cpi": cpi,
+        # history for the date picker: {date: {calls, instructs, spend, cpi}}
+        "history": history,
         # per-section freshness. Connex reflects THIS build; spend reflects the CSV's latest date.
         "updated": {
             "connex": now_iso,               # calls + instructs are as fresh as this run
@@ -279,7 +296,8 @@ def main():
         json.dump(out, f, indent=2)
 
     print(f"{day_str}: calls {calls} · instructs {instructs} · "
-          f"spend £{spend:,.2f} · CPI {('£%.2f' % cpi) if cpi else '—'}")
+          f"spend £{spend:,.2f} · CPI {('£%.2f' % cpi) if cpi else '—'}  "
+          f"(+{len(history)} days of history)")
     print(f"  wrote {args.out}")
 
 
