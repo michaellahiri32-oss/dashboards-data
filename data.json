@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-11-05T17:00:02+00:00",
+  "updated": "2026-11-05T17:10:02+00:00",
   "period": {
     "day": "2026-11-05",
     "month": "2026-11"
@@ -19,8 +19,8 @@
       "id": "gemma-stone",
       "leadsToday": 4,
       "leadsMonth": 18,
-      "callsToday": 54,
-      "callsMonth": 227,
+      "callsToday": 55,
+      "callsMonth": 228,
       "windToday": 0,
       "windMonth": 0,
       "piToday": 0,
@@ -28,7 +28,7 @@
       "byMonth": {
         "2026-11": {
           "leads": 18,
-          "calls": 227,
+          "calls": 228,
           "wind": 0,
           "pi": 0,
           "weLeads": 0,
@@ -94,7 +94,7 @@
       "leadsToday": 2,
       "leadsMonth": 17,
       "callsToday": 54,
-      "callsMonth": 248,
+      "callsMonth": 247,
       "windToday": 0,
       "windMonth": 1,
       "piToday": 0,
@@ -102,7 +102,7 @@
       "byMonth": {
         "2026-11": {
           "leads": 17,
-          "calls": 248,
+          "calls": 247,
           "wind": 1,
           "pi": 0,
           "weLeads": 0,
@@ -206,7 +206,7 @@
         },
         "2026-07": {
           "leads": 81,
-          "calls": 945,
+          "calls": 946,
           "wind": 0,
           "pi": 0,
           "weLeads": 23,
@@ -231,8 +231,8 @@
       "id": "daniel-gee",
       "leadsToday": 1,
       "leadsMonth": 11,
-      "callsToday": 54,
-      "callsMonth": 277,
+      "callsToday": 57,
+      "callsMonth": 280,
       "windToday": 0,
       "windMonth": 1,
       "piToday": 0,
@@ -240,7 +240,7 @@
       "byMonth": {
         "2026-11": {
           "leads": 11,
-          "calls": 277,
+          "calls": 280,
           "wind": 1,
           "pi": 0,
           "weLeads": 1,
@@ -305,8 +305,8 @@
       "id": "marlon-albohaithi",
       "leadsToday": 1,
       "leadsMonth": 1,
-      "callsToday": 52,
-      "callsMonth": 52,
+      "callsToday": 53,
+      "callsMonth": 53,
       "windToday": 0,
       "windMonth": 0,
       "piToday": 0,
@@ -314,7 +314,7 @@
       "byMonth": {
         "2026-11": {
           "leads": 1,
-          "calls": 52,
+          "calls": 53,
           "wind": 0,
           "pi": 0,
           "weLeads": 0,
@@ -364,7 +364,7 @@
         },
         "2026-06": {
           "leads": 38,
-          "calls": 1039,
+          "calls": 1040,
           "wind": 0,
           "pi": 0,
           "weLeads": 0,
