@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-11-05T18:00:02+00:00",
+  "updated": "2026-11-05T18:10:02+00:00",
   "period": {
     "day": "2026-11-05",
     "month": "2026-11"
@@ -19,8 +19,8 @@
       "id": "gemma-stone",
       "leadsToday": 4,
       "leadsMonth": 18,
-      "callsToday": 65,
-      "callsMonth": 238,
+      "callsToday": 67,
+      "callsMonth": 240,
       "windToday": 0,
       "windMonth": 0,
       "piToday": 0,
@@ -28,7 +28,7 @@
       "byMonth": {
         "2026-11": {
           "leads": 18,
-          "calls": 238,
+          "calls": 240,
           "wind": 0,
           "pi": 0,
           "weLeads": 0,
@@ -153,6 +153,80 @@
       }
     },
     {
+      "name": "Daniel Gee",
+      "id": "daniel-gee",
+      "leadsToday": 2,
+      "leadsMonth": 12,
+      "callsToday": 65,
+      "callsMonth": 288,
+      "windToday": 0,
+      "windMonth": 1,
+      "piToday": 0,
+      "piMonth": 0,
+      "byMonth": {
+        "2026-11": {
+          "leads": 12,
+          "calls": 288,
+          "wind": 1,
+          "pi": 0,
+          "weLeads": 1,
+          "weCalls": 41,
+          "weWind": 0,
+          "wePi": 0
+        },
+        "2026-10": {
+          "leads": 68,
+          "calls": 921,
+          "wind": 3,
+          "pi": 2,
+          "weLeads": 8,
+          "weCalls": 71,
+          "weWind": 1,
+          "wePi": 0
+        },
+        "2026-09": {
+          "leads": 61,
+          "calls": 895,
+          "wind": 1,
+          "pi": 0,
+          "weLeads": 8,
+          "weCalls": 70,
+          "weWind": 0,
+          "wePi": 0
+        },
+        "2026-08": {
+          "leads": 65,
+          "calls": 705,
+          "wind": 2,
+          "pi": 0,
+          "weLeads": 28,
+          "weCalls": 278,
+          "weWind": 1,
+          "wePi": 0
+        },
+        "2026-07": {
+          "leads": 76,
+          "calls": 811,
+          "wind": 0,
+          "pi": 0,
+          "weLeads": 6,
+          "weCalls": 26,
+          "weWind": 0,
+          "wePi": 0
+        },
+        "2026-06": {
+          "leads": 23,
+          "calls": 952,
+          "wind": 0,
+          "pi": 0,
+          "weLeads": 0,
+          "weCalls": 0,
+          "weWind": 0,
+          "wePi": 0
+        }
+      }
+    },
+    {
       "name": "James Bridgwood",
       "id": "james-bridgwood",
       "leadsToday": 3,
@@ -217,80 +291,6 @@
         "2026-06": {
           "leads": 3,
           "calls": 102,
-          "wind": 0,
-          "pi": 0,
-          "weLeads": 0,
-          "weCalls": 0,
-          "weWind": 0,
-          "wePi": 0
-        }
-      }
-    },
-    {
-      "name": "Daniel Gee",
-      "id": "daniel-gee",
-      "leadsToday": 1,
-      "leadsMonth": 11,
-      "callsToday": 63,
-      "callsMonth": 286,
-      "windToday": 0,
-      "windMonth": 1,
-      "piToday": 0,
-      "piMonth": 0,
-      "byMonth": {
-        "2026-11": {
-          "leads": 11,
-          "calls": 286,
-          "wind": 1,
-          "pi": 0,
-          "weLeads": 1,
-          "weCalls": 41,
-          "weWind": 0,
-          "wePi": 0
-        },
-        "2026-10": {
-          "leads": 68,
-          "calls": 921,
-          "wind": 3,
-          "pi": 2,
-          "weLeads": 8,
-          "weCalls": 71,
-          "weWind": 1,
-          "wePi": 0
-        },
-        "2026-09": {
-          "leads": 61,
-          "calls": 895,
-          "wind": 1,
-          "pi": 0,
-          "weLeads": 8,
-          "weCalls": 70,
-          "weWind": 0,
-          "wePi": 0
-        },
-        "2026-08": {
-          "leads": 65,
-          "calls": 705,
-          "wind": 2,
-          "pi": 0,
-          "weLeads": 28,
-          "weCalls": 278,
-          "weWind": 1,
-          "wePi": 0
-        },
-        "2026-07": {
-          "leads": 76,
-          "calls": 811,
-          "wind": 0,
-          "pi": 0,
-          "weLeads": 6,
-          "weCalls": 26,
-          "weWind": 0,
-          "wePi": 0
-        },
-        "2026-06": {
-          "leads": 23,
-          "calls": 952,
           "wind": 0,
           "pi": 0,
           "weLeads": 0,
@@ -502,7 +502,7 @@
         },
         "2026-06": {
           "leads": 7,
-          "calls": 287,
+          "calls": 288,
           "wind": 0,
           "pi": 0,
           "weLeads": 0,
