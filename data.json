@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-11-08T11:50:02+00:00",
+  "updated": "2026-11-08T12:00:03+00:00",
   "period": {
     "day": "2026-11-08",
     "month": "2026-11"
@@ -78,7 +78,7 @@
         },
         "2026-06": {
           "leads": 27,
-          "calls": 870,
+          "calls": 869,
           "wind": 0,
           "pi": 0,
           "weLeads": 0,
@@ -93,8 +93,8 @@
       "id": "james-bridgwood",
       "leadsToday": 1,
       "leadsMonth": 18,
-      "callsToday": 35,
-      "callsMonth": 341,
+      "callsToday": 38,
+      "callsMonth": 344,
       "windToday": 0,
       "windMonth": 0,
       "piToday": 0,
@@ -102,11 +102,11 @@
       "byMonth": {
         "2026-11": {
           "leads": 18,
-          "calls": 341,
+          "calls": 344,
           "wind": 0,
           "pi": 0,
           "weLeads": 5,
-          "weCalls": 81,
+          "weCalls": 84,
           "weWind": 0,
           "wePi": 0
         },
@@ -305,8 +305,8 @@
       "id": "mel-abbott",
       "leadsToday": 2,
       "leadsMonth": 5,
-      "callsToday": 33,
-      "callsMonth": 129,
+      "callsToday": 35,
+      "callsMonth": 131,
       "windToday": 0,
       "windMonth": 0,
       "piToday": 0,
@@ -314,11 +314,11 @@
       "byMonth": {
         "2026-11": {
           "leads": 5,
-          "calls": 129,
+          "calls": 131,
           "wind": 0,
           "pi": 0,
           "weLeads": 5,
-          "weCalls": 106,
+          "weCalls": 108,
           "weWind": 0,
           "wePi": 0
         },
@@ -354,7 +354,7 @@
         },
         "2026-07": {
           "leads": 90,
-          "calls": 934,
+          "calls": 935,
           "wind": 0,
           "pi": 0,
           "weLeads": 26,
@@ -428,11 +428,11 @@
         },
         "2026-07": {
           "leads": 80,
-          "calls": 963,
+          "calls": 964,
           "wind": 0,
           "pi": 0,
           "weLeads": 2,
-          "weCalls": 35,
+          "weCalls": 36,
           "weWind": 0,
           "wePi": 0
         },
