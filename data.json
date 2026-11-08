@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-11-08T15:40:02+00:00",
+  "updated": "2026-11-08T16:00:02+00:00",
   "period": {
     "day": "2026-11-08",
     "month": "2026-11"
@@ -94,7 +94,7 @@
       "leadsToday": 0,
       "leadsMonth": 20,
       "callsToday": 0,
-      "callsMonth": 290,
+      "callsMonth": 291,
       "windToday": 0,
       "windMonth": 0,
       "piToday": 0,
@@ -102,7 +102,7 @@
       "byMonth": {
         "2026-11": {
           "leads": 20,
-          "calls": 290,
+          "calls": 291,
           "wind": 0,
           "pi": 0,
           "weLeads": 0,
