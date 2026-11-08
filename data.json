@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-11-08T14:30:02+00:00",
+  "updated": "2026-11-08T14:40:02+00:00",
   "period": {
     "day": "2026-11-08",
     "month": "2026-11"
@@ -19,8 +19,8 @@
       "id": "james-bridgwood",
       "leadsToday": 4,
       "leadsMonth": 21,
-      "callsToday": 47,
-      "callsMonth": 353,
+      "callsToday": 49,
+      "callsMonth": 355,
       "windToday": 0,
       "windMonth": 0,
       "piToday": 0,
@@ -28,11 +28,11 @@
       "byMonth": {
         "2026-11": {
           "leads": 21,
-          "calls": 353,
+          "calls": 355,
           "wind": 0,
           "pi": 0,
           "weLeads": 8,
-          "weCalls": 93,
+          "weCalls": 95,
           "weWind": 0,
           "wePi": 0
         },
@@ -290,7 +290,7 @@
         },
         "2026-06": {
           "leads": 23,
-          "calls": 953,
+          "calls": 952,
           "wind": 0,
           "pi": 0,
           "weLeads": 0,
@@ -303,22 +303,22 @@
     {
       "name": "Mel Abbott",
       "id": "mel-abbott",
-      "leadsToday": 6,
-      "leadsMonth": 9,
-      "callsToday": 57,
-      "callsMonth": 153,
+      "leadsToday": 7,
+      "leadsMonth": 10,
+      "callsToday": 58,
+      "callsMonth": 154,
       "windToday": 0,
       "windMonth": 0,
       "piToday": 0,
       "piMonth": 0,
       "byMonth": {
         "2026-11": {
-          "leads": 9,
-          "calls": 153,
+          "leads": 10,
+          "calls": 154,
           "wind": 0,
           "pi": 0,
-          "weLeads": 9,
-          "weCalls": 130,
+          "weLeads": 10,
+          "weCalls": 131,
           "weWind": 0,
           "wePi": 0
         },
@@ -334,7 +334,7 @@
         },
         "2026-09": {
           "leads": 73,
-          "calls": 723,
+          "calls": 724,
           "wind": 3,
           "pi": 0,
           "weLeads": 31,
