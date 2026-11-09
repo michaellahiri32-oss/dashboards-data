@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-11-09T09:30:03+00:00",
+  "updated": "2026-11-09T09:40:03+00:00",
   "period": {
     "day": "2026-11-09",
     "month": "2026-11"
@@ -19,8 +19,8 @@
       "id": "gemma-stone",
       "leadsToday": 1,
       "leadsMonth": 21,
-      "callsToday": 29,
-      "callsMonth": 319,
+      "callsToday": 32,
+      "callsMonth": 322,
       "windToday": 0,
       "windMonth": 0,
       "piToday": 0,
@@ -28,7 +28,7 @@
       "byMonth": {
         "2026-11": {
           "leads": 21,
-          "calls": 319,
+          "calls": 322,
           "wind": 0,
           "pi": 0,
           "weLeads": 0,
@@ -78,7 +78,7 @@
         },
         "2026-06": {
           "leads": 27,
-          "calls": 870,
+          "calls": 869,
           "wind": 0,
           "pi": 0,
           "weLeads": 0,
@@ -112,11 +112,11 @@
         },
         "2026-10": {
           "leads": 88,
-          "calls": 1007,
+          "calls": 1006,
           "wind": 3,
           "pi": 0,
           "weLeads": 20,
-          "weCalls": 166,
+          "weCalls": 165,
           "weWind": 0,
           "wePi": 0
         },
@@ -167,8 +167,8 @@
       "id": "peter-brunker",
       "leadsToday": 2,
       "leadsMonth": 20,
-      "callsToday": 21,
-      "callsMonth": 287,
+      "callsToday": 26,
+      "callsMonth": 292,
       "windToday": 0,
       "windMonth": 1,
       "piToday": 0,
@@ -176,7 +176,7 @@
       "byMonth": {
         "2026-11": {
           "leads": 20,
-          "calls": 287,
+          "calls": 292,
           "wind": 1,
           "pi": 0,
           "weLeads": 0,
@@ -290,7 +290,7 @@
         },
         "2026-06": {
           "leads": 23,
-          "calls": 953,
+          "calls": 952,
           "wind": 0,
           "pi": 0,
           "weLeads": 0,
@@ -438,7 +438,7 @@
         },
         "2026-06": {
           "leads": 38,
-          "calls": 1039,
+          "calls": 1040,
           "wind": 0,
           "pi": 0,
           "weLeads": 0,
