@@ -245,7 +245,7 @@ def main():
                            "leadsToday": 0, "leadsMonth": 0, "callsToday": 0, "callsMonth": 0,
                            "windToday": 0, "windMonth": 0,
                            "piToday": 0, "piMonth": 0,
-                           "byMonth": {}}
+                           "byMonth": {}, "byDay": {}}
         return agents[aid]
 
     for x in recs:
@@ -283,6 +283,13 @@ def main():
             if is_we: bm["wePi"] += 1
             if cur_month: a["piMonth"] += 1
             if x["date"] == report_day: a["piToday"] += 1
+        if cur_month:
+            dk = x["date"].isoformat()
+            bd = a["byDay"].setdefault(dk, {"leads": 0, "calls": 0, "wind": 0, "pi": 0})
+            if x["inbound"]:  bd["calls"] += 1
+            if counts_lead:   bd["leads"] += 1
+            if counts_wind:   bd["wind"]  += 1
+            if counts_pi:     bd["pi"]    += 1
 
     data = {
         "title": build.TITLE,
