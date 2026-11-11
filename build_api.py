@@ -42,7 +42,7 @@ SALE_TRANSFER_NUMBERS = {"447438475625", "447436471637"}
 SALE_EXCLUDE_NUMBERS  = {"447423588163", "447340003433"}
 FORCE_HR              = {"447432154233"}
 DEDUP_EXEMPT          = {"447508635441"}
-AGENT_REASSIGN        = {"447727606730": "James Bridgwood", "447870407370": "Mel Abbott", "447793292655": "Daniel Gee", "447758789895": "James Bridgwood"}
+AGENT_REASSIGN        = {"447727606730": "James Bridgwood", "447870407370": "Mel Abbott", "447793292655": "Daniel Gee", "447758789895": "James Bridgwood", "447386335582": "Gemma Stone"}
 # manually-added H&R claims (mirror build_report_api.py MANUAL_CLAIMS): each injects one H&R lead credited to the named agent
 MANUAL_CLAIMS         = [
     {"date": "2026-10-31", "agent": "Mel Abbott"},   # +447391539070, logged as H&R
