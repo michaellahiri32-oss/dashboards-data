@@ -78,7 +78,7 @@ SALE_TRANSFER_NUMBERS = {"447438475625", "447436471637"}
 SALE_EXCLUDE_NUMBERS  = {"447423588163", "447340003433"}
 FORCE_HR              = {"447432154233"}
 DEDUP_EXEMPT          = {"447508635441"}
-AGENT_REASSIGN        = {"447727606730": "James Bridgwood", "447758789895": "James Bridgwood"}
+AGENT_REASSIGN        = {"447727606730": "James Bridgwood", "447758789895": "James Bridgwood", "447386335582": "Gemma Stone"}
 # EXCLUDE_CALLS is keyed by the raw AEST dialler timestamp in the CSV. The API
 # gives UTC, so those strings can't be matched here — re-key by interaction id if
 # needed (ask Claude to help find the 2 ids). Left empty so nothing is dropped wrongly.
