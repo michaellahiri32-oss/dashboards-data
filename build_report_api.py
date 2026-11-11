@@ -45,6 +45,33 @@ REPORT_REFRESH_MIN = 0
 # spend from the sheet feeds the report's cost-per-claim automatically each build.
 SPEND_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSEIOq_0n-xt5ownb0G6rkMtcmeprrypsboXZ51HIwLnC8ml1qfkds5AMH6idkojgi1_nTHL-tmIkoD/pub?gid=0&single=true&output=csv"
 
+# Hourly Google Ads spend (the "Hourly" tab of the spend sheet, published as CSV)
+SPEND_HOURLY_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSEIOq_0n-xt5ownb0G6rkMtcmeprrypsboXZ51HIwLnC8ml1qfkds5AMH6idkojgi1_nTHL-tmIkoD/pub?gid=909665833&single=true&output=csv"
+
+
+def fetch_spend_hourly(url):
+    """Read a published date,hour,spend CSV -> {date: {hour: spend}}. Returns None on failure."""
+    import csv
+    try:
+        with urllib.request.urlopen(url, timeout=60) as r:
+            text = r.read().decode("utf-8-sig", "replace")
+    except Exception as e:
+        print(f"  (hourly spend fetch failed: {e})")
+        return None
+    out = {}
+    for parts in csv.reader(text.splitlines()):
+        if len(parts) < 3 or not re.fullmatch(r"\d{4}-\d{2}-\d{2}", parts[0].strip()):
+            continue
+        try:
+            d, h = parts[0].strip(), int(float(parts[1]))
+            v = round(float(re.sub(r"[£,\s]", "", parts[2])), 2)
+        except ValueError:
+            continue
+        if v:
+            out.setdefault(d, {})[h] = round(out.get(d, {}).get(h, 0) + v, 2)
+    return out or None
+
+
 # Roster patterns — used by the Dropped-call section's "Inc. weekends" toggle to
 # decide which days are "non-rostered" (excluded by default). Must match the shift
 # pattern in the holiday tracker. hours[0]=Sun .. [6]=Sat; a day is "rostered" if >0.
@@ -714,6 +741,11 @@ def main():
             print(f"  spend: {len(spend)} days from sheet "
                   f"(latest {max(spend)} = £{spend[max(spend)]:,.2f}).")
 
+    if SPEND_HOURLY_CSV_URL and SPEND_HOURLY_CSV_URL.startswith("http"):
+        hs = fetch_spend_hourly(SPEND_HOURLY_CSV_URL)
+        if hs:
+            snap["spendHourly"] = hs
+            print(f"  hourly spend: {sum(len(v) for v in hs.values())} hours over {len(hs)} days.")
     out = args.out or re.sub(r"\.html?$", "", args.report) + "-live.html"
     built_at = datetime.now(UK).replace(microsecond=0).isoformat()
     with open(out, "w", encoding="utf-8") as f:
