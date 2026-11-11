@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-11-11T08:20:03+00:00",
+  "updated": "2026-11-11T08:30:03+00:00",
   "period": {
     "day": "2026-11-11",
     "month": "2026-11"
@@ -58,7 +58,7 @@
         },
         "2026-08": {
           "leads": 67,
-          "calls": 666,
+          "calls": 667,
           "wind": 0,
           "pi": 0,
           "weLeads": 31,
@@ -393,8 +393,8 @@
       "id": "daniel-gee",
       "leadsToday": 0,
       "leadsMonth": 21,
-      "callsToday": 0,
-      "callsMonth": 473,
+      "callsToday": 1,
+      "callsMonth": 474,
       "windToday": 0,
       "windMonth": 3,
       "piToday": 0,
@@ -402,7 +402,7 @@
       "byMonth": {
         "2026-11": {
           "leads": 21,
-          "calls": 473,
+          "calls": 474,
           "wind": 3,
           "pi": 2,
           "weLeads": 1,
@@ -462,6 +462,12 @@
         }
       },
       "byDay": {
+        "2026-11-11": {
+          "leads": 0,
+          "calls": 1,
+          "wind": 0,
+          "pi": 0
+        },
         "2026-11-10": {
           "leads": 2,
           "calls": 52,
@@ -690,7 +696,7 @@
         },
         "2026-07": {
           "leads": 80,
-          "calls": 963,
+          "calls": 964,
           "wind": 0,
           "pi": 0,
           "weLeads": 2,
@@ -768,11 +774,11 @@
         },
         "2026-07": {
           "leads": 22,
-          "calls": 338,
+          "calls": 337,
           "wind": 0,
           "pi": 0,
           "weLeads": 11,
-          "weCalls": 148,
+          "weCalls": 147,
           "weWind": 0,
           "wePi": 0
         },
