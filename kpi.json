@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T15:47:02Z",
+  "generated": "2026-11-12T16:02:05Z",
   "range": {
     "from": "2026-06-09",
     "to": "2026-11-12"
@@ -36,8 +36,8 @@
       "m": "2026-09",
       "label": "Sep 26",
       "instructs": 388,
-      "inbound": 1645,
-      "inbound_shift": 5299,
+      "inbound": 1644,
+      "inbound_shift": 5298,
       "abandons": 163,
       "spend": null
     },
@@ -54,8 +54,8 @@
       "m": "2026-11",
       "label": "Nov 26",
       "instructs": 150,
-      "inbound": 2876,
-      "inbound_shift": 2858,
+      "inbound": 2883,
+      "inbound_shift": 2865,
       "abandons": 243,
       "spend": 120561.69
     }
