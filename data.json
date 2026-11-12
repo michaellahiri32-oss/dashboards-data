@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-11-12T09:10:03+00:00",
+  "updated": "2026-11-12T09:20:02+00:00",
   "period": {
     "day": "2026-11-12",
     "month": "2026-11"
@@ -133,8 +133,8 @@
       "id": "james-bridgwood",
       "leadsToday": 1,
       "leadsMonth": 33,
-      "callsToday": 3,
-      "callsMonth": 550,
+      "callsToday": 4,
+      "callsMonth": 551,
       "windToday": 0,
       "windMonth": 0,
       "piToday": 0,
@@ -142,7 +142,7 @@
       "byMonth": {
         "2026-11": {
           "leads": 33,
-          "calls": 550,
+          "calls": 551,
           "wind": 0,
           "pi": 1,
           "weLeads": 8,
@@ -204,7 +204,7 @@
       "byDay": {
         "2026-11-12": {
           "leads": 1,
-          "calls": 3,
+          "calls": 4,
           "wind": 0,
           "pi": 0
         },
@@ -281,8 +281,8 @@
       "id": "gemma-stone",
       "leadsToday": 0,
       "leadsMonth": 32,
-      "callsToday": 4,
-      "callsMonth": 503,
+      "callsToday": 5,
+      "callsMonth": 504,
       "windToday": 0,
       "windMonth": 0,
       "piToday": 0,
@@ -290,7 +290,7 @@
       "byMonth": {
         "2026-11": {
           "leads": 32,
-          "calls": 503,
+          "calls": 504,
           "wind": 0,
           "pi": 0,
           "weLeads": 0,
@@ -352,7 +352,7 @@
       "byDay": {
         "2026-11-12": {
           "leads": 0,
-          "calls": 4,
+          "calls": 5,
           "wind": 0,
           "pi": 0
         },
@@ -411,8 +411,8 @@
       "id": "daniel-gee",
       "leadsToday": 1,
       "leadsMonth": 25,
-      "callsToday": 4,
-      "callsMonth": 523,
+      "callsToday": 5,
+      "callsMonth": 524,
       "windToday": 0,
       "windMonth": 4,
       "piToday": 0,
@@ -420,7 +420,7 @@
       "byMonth": {
         "2026-11": {
           "leads": 25,
-          "calls": 523,
+          "calls": 524,
           "wind": 4,
           "pi": 4,
           "weLeads": 1,
@@ -482,7 +482,7 @@
       "byDay": {
         "2026-11-12": {
           "leads": 1,
-          "calls": 4,
+          "calls": 5,
           "wind": 0,
           "pi": 0
         },
