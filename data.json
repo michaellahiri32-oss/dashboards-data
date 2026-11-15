@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-11-15T12:40:03+00:00",
+  "updated": "2026-11-15T12:50:03+00:00",
   "period": {
     "day": "2026-11-15",
     "month": "2026-11"
@@ -19,8 +19,8 @@
       "id": "peter-brunker",
       "leadsToday": 1,
       "leadsMonth": 44,
-      "callsToday": 72,
-      "callsMonth": 635,
+      "callsToday": 76,
+      "callsMonth": 639,
       "windToday": 1,
       "windMonth": 4,
       "piToday": 0,
@@ -28,11 +28,11 @@
       "byMonth": {
         "2026-11": {
           "leads": 44,
-          "calls": 635,
+          "calls": 639,
           "wind": 4,
           "pi": 0,
           "weLeads": 1,
-          "weCalls": 72,
+          "weCalls": 76,
           "weWind": 1,
           "wePi": 0
         },
@@ -80,7 +80,7 @@
       "byDay": {
         "2026-11-15": {
           "leads": 1,
-          "calls": 72,
+          "calls": 76,
           "wind": 1,
           "pi": 0
         },
@@ -151,8 +151,8 @@
       "id": "james-bridgwood",
       "leadsToday": 1,
       "leadsMonth": 40,
-      "callsToday": 15,
-      "callsMonth": 654,
+      "callsToday": 16,
+      "callsMonth": 655,
       "windToday": 0,
       "windMonth": 0,
       "piToday": 0,
@@ -160,11 +160,11 @@
       "byMonth": {
         "2026-11": {
           "leads": 40,
-          "calls": 654,
+          "calls": 655,
           "wind": 0,
           "pi": 1,
           "weLeads": 11,
-          "weCalls": 156,
+          "weCalls": 157,
           "weWind": 0,
           "wePi": 0
         },
@@ -222,7 +222,7 @@
       "byDay": {
         "2026-11-15": {
           "leads": 1,
-          "calls": 15,
+          "calls": 16,
           "wind": 0,
           "pi": 0
         },
@@ -512,7 +512,7 @@
         },
         "2026-06": {
           "leads": 23,
-          "calls": 952,
+          "calls": 953,
           "wind": 0,
           "pi": 0,
           "weLeads": 0,
@@ -624,11 +624,11 @@
         },
         "2026-09": {
           "leads": 73,
-          "calls": 724,
+          "calls": 723,
           "wind": 3,
           "pi": 0,
           "weLeads": 31,
-          "weCalls": 276,
+          "weCalls": 275,
           "weWind": 1,
           "wePi": 0
         },
