@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-11-15T09:40:03+00:00",
+  "updated": "2026-11-15T09:50:03+00:00",
   "period": {
     "day": "2026-11-15",
     "month": "2026-11"
@@ -19,8 +19,8 @@
       "id": "peter-brunker",
       "leadsToday": 1,
       "leadsMonth": 44,
-      "callsToday": 15,
-      "callsMonth": 578,
+      "callsToday": 17,
+      "callsMonth": 580,
       "windToday": 0,
       "windMonth": 3,
       "piToday": 0,
@@ -28,11 +28,11 @@
       "byMonth": {
         "2026-11": {
           "leads": 44,
-          "calls": 578,
+          "calls": 580,
           "wind": 3,
           "pi": 0,
           "weLeads": 1,
-          "weCalls": 15,
+          "weCalls": 17,
           "weWind": 0,
           "wePi": 0
         },
@@ -80,7 +80,7 @@
       "byDay": {
         "2026-11-15": {
           "leads": 1,
-          "calls": 15,
+          "calls": 17,
           "wind": 0,
           "pi": 0
         },
@@ -466,7 +466,7 @@
         },
         "2026-10": {
           "leads": 68,
-          "calls": 921,
+          "calls": 922,
           "wind": 3,
           "pi": 2,
           "weLeads": 8,
@@ -589,8 +589,8 @@
       "id": "mel-abbott",
       "leadsToday": 0,
       "leadsMonth": 15,
-      "callsToday": 12,
-      "callsMonth": 210,
+      "callsToday": 16,
+      "callsMonth": 214,
       "windToday": 0,
       "windMonth": 0,
       "piToday": 0,
@@ -598,11 +598,11 @@
       "byMonth": {
         "2026-11": {
           "leads": 15,
-          "calls": 210,
+          "calls": 214,
           "wind": 0,
           "pi": 0,
           "weLeads": 13,
-          "weCalls": 167,
+          "weCalls": 171,
           "weWind": 0,
           "wePi": 0
         },
@@ -660,7 +660,7 @@
       "byDay": {
         "2026-11-15": {
           "leads": 0,
-          "calls": 12,
+          "calls": 16,
           "wind": 0,
           "pi": 0
         },
