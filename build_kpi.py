@@ -61,6 +61,36 @@ def main():
             return None
         return round(spend_mon[m], 2)
 
+    # ---- weekly buckets within each month (Mon-start, clipped to the month) ----
+    wk = collections.defaultdict(lambda: {"instructs":0, "inbound":0, "abandons":0, "inbound_shift":0, "days":set()})
+    for r in data:
+        ds = r[0]; hr = r[1]; m = ds[:7]
+        yy, mmn, dd = map(int, ds.split("-"))
+        monday = (datetime.date(yy, mmn, dd) - datetime.timedelta(days=datetime.date(yy, mmn, dd).weekday())).isoformat()
+        b = wk[(m, monday)]
+        b["days"].add(ds)
+        if r[4] == 1 and r[6] == 0: b["instructs"] += 1
+        if r[3] == "in" and 8 <= hr < 20: b["inbound_shift"] += 1
+        if on_shift(ds, hr):
+            if r[3] == "in": b["inbound"]  += 1
+            if r[5] == 1:    b["abandons"] += 1
+
+    def week_spend(days):
+        vals = [spend_daily[d] for d in days if d in spend_daily]
+        return round(sum(vals), 2) if vals else None
+
+    weeks_by_m = collections.defaultdict(list)
+    for (m, monday), b in wk.items():
+        days = sorted(b["days"])
+        a = int(days[0][8:10]); z = int(days[-1][8:10]); ab = MN[int(m[5:7])]
+        label = (f"{a}\u2013{z} {ab}") if a != z else f"{a} {ab}"
+        weeks_by_m[m].append({"m": f"{m}:{monday}", "label": label,
+                              "start": days[0], "end": days[-1],
+                              "instructs": b["instructs"], "inbound": b["inbound"],
+                              "inbound_shift": b["inbound_shift"], "abandons": b["abandons"],
+                              "spend": week_spend(days)})
+    for _m in weeks_by_m: weeks_by_m[_m].sort(key=lambda w: w["start"])
+
     start = bra.CUTOFF_DATE[:7]
     allm = sorted(m for m in set(list(mon) + [this_m]) if m >= start)
     months = []
@@ -70,7 +100,8 @@ def main():
         months.append({"m": m, "label": f"{MN[int(mm)]} {y[2:]}",
                        "instructs": x["instructs"], "inbound": x["inbound"],
                        "inbound_shift": x["inbound_shift"],
-                       "abandons": x["abandons"], "spend": month_spend(m)})
+                       "abandons": x["abandons"], "spend": month_spend(m),
+                       "weeks": weeks_by_m.get(m, [])})
 
     out = {"generated": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
            "range": {"from": bra.CUTOFF_DATE, "to": max(r[0] for r in data)},
