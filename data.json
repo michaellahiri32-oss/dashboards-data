@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-11-16T18:10:03+00:00",
+  "updated": "2026-11-16T18:20:03+00:00",
   "period": {
     "day": "2026-11-16",
     "month": "2026-11"
@@ -19,8 +19,8 @@
       "id": "peter-brunker",
       "leadsToday": 9,
       "leadsMonth": 57,
-      "callsToday": 174,
-      "callsMonth": 836,
+      "callsToday": 175,
+      "callsMonth": 837,
       "windToday": 3,
       "windMonth": 7,
       "piToday": 0,
@@ -28,7 +28,7 @@
       "byMonth": {
         "2026-11": {
           "leads": 57,
-          "calls": 836,
+          "calls": 837,
           "wind": 7,
           "pi": 0,
           "weLeads": 5,
@@ -80,7 +80,7 @@
       "byDay": {
         "2026-11-16": {
           "leads": 9,
-          "calls": 174,
+          "calls": 175,
           "wind": 3,
           "pi": 0
         },
@@ -865,18 +865,18 @@
     {
       "name": "Michael Lahiri",
       "id": "michael-lahiri",
-      "leadsToday": 6,
-      "leadsMonth": 6,
-      "callsToday": 120,
-      "callsMonth": 120,
+      "leadsToday": 7,
+      "leadsMonth": 7,
+      "callsToday": 121,
+      "callsMonth": 121,
       "windToday": 0,
       "windMonth": 0,
       "piToday": 0,
       "piMonth": 0,
       "byMonth": {
         "2026-11": {
-          "leads": 6,
-          "calls": 120,
+          "leads": 7,
+          "calls": 121,
           "wind": 0,
           "pi": 0,
           "weLeads": 0,
@@ -937,8 +937,8 @@
       },
       "byDay": {
         "2026-11-16": {
-          "leads": 6,
-          "calls": 120,
+          "leads": 7,
+          "calls": 121,
           "wind": 0,
           "pi": 0
         }
