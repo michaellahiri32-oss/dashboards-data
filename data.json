@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-11-18T10:00:03+00:00",
+  "updated": "2026-11-18T10:10:02+00:00",
   "period": {
     "day": "2026-11-18",
     "month": "2026-11"
@@ -163,8 +163,8 @@
       "id": "james-bridgwood",
       "leadsToday": 1,
       "leadsMonth": 58,
-      "callsToday": 12,
-      "callsMonth": 957,
+      "callsToday": 15,
+      "callsMonth": 960,
       "windToday": 0,
       "windMonth": 1,
       "piToday": 0,
@@ -172,7 +172,7 @@
       "byMonth": {
         "2026-11": {
           "leads": 58,
-          "calls": 957,
+          "calls": 960,
           "wind": 1,
           "pi": 4,
           "weLeads": 14,
@@ -192,7 +192,7 @@
         },
         "2026-09": {
           "leads": 96,
-          "calls": 968,
+          "calls": 967,
           "wind": 4,
           "pi": 0,
           "weLeads": 30,
@@ -234,7 +234,7 @@
       "byDay": {
         "2026-11-18": {
           "leads": 1,
-          "calls": 12,
+          "calls": 15,
           "wind": 0,
           "pi": 0
         },
@@ -499,9 +499,9 @@
     {
       "name": "Daniel Gee",
       "id": "daniel-gee",
-      "leadsToday": 0,
-      "leadsMonth": 37,
-      "callsToday": 14,
+      "leadsToday": 1,
+      "leadsMonth": 38,
+      "callsToday": 15,
       "callsMonth": 737,
       "windToday": 0,
       "windMonth": 4,
@@ -509,7 +509,7 @@
       "piMonth": 5,
       "byMonth": {
         "2026-11": {
-          "leads": 37,
+          "leads": 38,
           "calls": 737,
           "wind": 4,
           "pi": 5,
@@ -550,7 +550,7 @@
         },
         "2026-07": {
           "leads": 76,
-          "calls": 812,
+          "calls": 811,
           "wind": 0,
           "pi": 0,
           "weLeads": 6,
@@ -571,8 +571,8 @@
       },
       "byDay": {
         "2026-11-18": {
-          "leads": 0,
-          "calls": 14,
+          "leads": 1,
+          "calls": 15,
           "wind": 0,
           "pi": 0
         },
@@ -596,7 +596,7 @@
         },
         "2026-11-11": {
           "leads": 3,
-          "calls": 47,
+          "calls": 46,
           "wind": 1,
           "pi": 2
         },
@@ -915,8 +915,8 @@
       "id": "michael-lahiri",
       "leadsToday": 0,
       "leadsMonth": 7,
-      "callsToday": 10,
-      "callsMonth": 178,
+      "callsToday": 14,
+      "callsMonth": 182,
       "windToday": 0,
       "windMonth": 0,
       "piToday": 0,
@@ -924,7 +924,7 @@
       "byMonth": {
         "2026-11": {
           "leads": 7,
-          "calls": 178,
+          "calls": 182,
           "wind": 0,
           "pi": 0,
           "weLeads": 0,
@@ -986,7 +986,7 @@
       "byDay": {
         "2026-11-18": {
           "leads": 0,
-          "calls": 10,
+          "calls": 14,
           "wind": 0,
           "pi": 0
         },
