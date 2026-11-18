@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-11-18T12:10:02+00:00",
+  "updated": "2026-11-18T12:20:03+00:00",
   "period": {
     "day": "2026-11-18",
     "month": "2026-11"
@@ -19,8 +19,8 @@
       "id": "peter-brunker",
       "leadsToday": 1,
       "leadsMonth": 64,
-      "callsToday": 27,
-      "callsMonth": 1021,
+      "callsToday": 32,
+      "callsMonth": 1026,
       "windToday": 0,
       "windMonth": 8,
       "piToday": 0,
@@ -28,7 +28,7 @@
       "byMonth": {
         "2026-11": {
           "leads": 64,
-          "calls": 1021,
+          "calls": 1026,
           "wind": 8,
           "pi": 1,
           "weLeads": 5,
@@ -48,7 +48,7 @@
         },
         "2026-09": {
           "leads": 77,
-          "calls": 929,
+          "calls": 928,
           "wind": 9,
           "pi": 0,
           "weLeads": 0,
@@ -80,7 +80,7 @@
       "byDay": {
         "2026-11-18": {
           "leads": 1,
-          "calls": 27,
+          "calls": 32,
           "wind": 0,
           "pi": 0
         },
@@ -169,8 +169,8 @@
       "id": "james-bridgwood",
       "leadsToday": 1,
       "leadsMonth": 58,
-      "callsToday": 49,
-      "callsMonth": 994,
+      "callsToday": 51,
+      "callsMonth": 996,
       "windToday": 0,
       "windMonth": 1,
       "piToday": 0,
@@ -178,7 +178,7 @@
       "byMonth": {
         "2026-11": {
           "leads": 58,
-          "calls": 994,
+          "calls": 996,
           "wind": 1,
           "pi": 4,
           "weLeads": 14,
@@ -240,7 +240,7 @@
       "byDay": {
         "2026-11-18": {
           "leads": 1,
-          "calls": 49,
+          "calls": 51,
           "wind": 0,
           "pi": 0
         },
@@ -353,8 +353,8 @@
       "id": "gemma-stone",
       "leadsToday": 4,
       "leadsMonth": 50,
-      "callsToday": 47,
-      "callsMonth": 872,
+      "callsToday": 48,
+      "callsMonth": 873,
       "windToday": 0,
       "windMonth": 0,
       "piToday": 0,
@@ -362,7 +362,7 @@
       "byMonth": {
         "2026-11": {
           "leads": 50,
-          "calls": 872,
+          "calls": 873,
           "wind": 0,
           "pi": 0,
           "weLeads": 0,
@@ -424,7 +424,7 @@
       "byDay": {
         "2026-11-18": {
           "leads": 4,
-          "calls": 47,
+          "calls": 48,
           "wind": 0,
           "pi": 0
         },
@@ -507,8 +507,8 @@
       "id": "daniel-gee",
       "leadsToday": 1,
       "leadsMonth": 38,
-      "callsToday": 52,
-      "callsMonth": 774,
+      "callsToday": 56,
+      "callsMonth": 778,
       "windToday": 1,
       "windMonth": 5,
       "piToday": 0,
@@ -516,7 +516,7 @@
       "byMonth": {
         "2026-11": {
           "leads": 38,
-          "calls": 774,
+          "calls": 778,
           "wind": 5,
           "pi": 5,
           "weLeads": 1,
@@ -546,7 +546,7 @@
         },
         "2026-08": {
           "leads": 65,
-          "calls": 705,
+          "calls": 706,
           "wind": 2,
           "pi": 0,
           "weLeads": 28,
@@ -566,7 +566,7 @@
         },
         "2026-06": {
           "leads": 23,
-          "calls": 953,
+          "calls": 952,
           "wind": 0,
           "pi": 0,
           "weLeads": 0,
@@ -578,7 +578,7 @@
       "byDay": {
         "2026-11-18": {
           "leads": 1,
-          "calls": 52,
+          "calls": 56,
           "wind": 1,
           "pi": 0
         },
@@ -803,8 +803,8 @@
       "id": "marlon-albohaithi",
       "leadsToday": 0,
       "leadsMonth": 13,
-      "callsToday": 5,
-      "callsMonth": 305,
+      "callsToday": 8,
+      "callsMonth": 308,
       "windToday": 0,
       "windMonth": 1,
       "piToday": 0,
@@ -812,7 +812,7 @@
       "byMonth": {
         "2026-11": {
           "leads": 13,
-          "calls": 305,
+          "calls": 308,
           "wind": 1,
           "pi": 0,
           "weLeads": 2,
@@ -874,7 +874,7 @@
       "byDay": {
         "2026-11-18": {
           "leads": 0,
-          "calls": 5,
+          "calls": 8,
           "wind": 0,
           "pi": 0
         },
@@ -927,8 +927,8 @@
       "id": "michael-lahiri",
       "leadsToday": 0,
       "leadsMonth": 7,
-      "callsToday": 23,
-      "callsMonth": 191,
+      "callsToday": 22,
+      "callsMonth": 190,
       "windToday": 0,
       "windMonth": 0,
       "piToday": 0,
@@ -936,7 +936,7 @@
       "byMonth": {
         "2026-11": {
           "leads": 7,
-          "calls": 191,
+          "calls": 190,
           "wind": 0,
           "pi": 0,
           "weLeads": 0,
@@ -998,7 +998,7 @@
       "byDay": {
         "2026-11-18": {
           "leads": 0,
-          "calls": 23,
+          "calls": 22,
           "wind": 0,
           "pi": 0
         },
