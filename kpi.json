@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-18T12:47:48Z",
+  "generated": "2026-11-18T13:02:41Z",
   "range": {
     "from": "2026-06-09",
     "to": "2026-11-18"
@@ -207,8 +207,8 @@
       "m": "2026-09",
       "label": "Sep 26",
       "instructs": 388,
-      "inbound": 1644,
-      "inbound_shift": 5298,
+      "inbound": 1645,
+      "inbound_shift": 5299,
       "abandons": 163,
       "spend": null,
       "weeks": [
@@ -251,8 +251,8 @@
           "start": "2026-09-21",
           "end": "2026-09-27",
           "instructs": 102,
-          "inbound": 596,
-          "inbound_shift": 1410,
+          "inbound": 597,
+          "inbound_shift": 1411,
           "abandons": 116,
           "spend": 57796.23
         },
@@ -273,8 +273,8 @@
       "m": "2026-10",
       "label": "Oct 26",
       "instructs": 311,
-      "inbound": 4628,
-      "inbound_shift": 4742,
+      "inbound": 4627,
+      "inbound_shift": 4741,
       "abandons": 272,
       "spend": 164487.43,
       "weeks": [
@@ -295,8 +295,8 @@
           "start": "2026-10-05",
           "end": "2026-10-11",
           "instructs": 75,
-          "inbound": 967,
-          "inbound_shift": 968,
+          "inbound": 966,
+          "inbound_shift": 967,
           "abandons": 56,
           "spend": 35566.39
         },
@@ -338,11 +338,11 @@
     {
       "m": "2026-11",
       "label": "Nov 26",
-      "instructs": 250,
-      "inbound": 5129,
-      "inbound_shift": 5132,
+      "instructs": 251,
+      "inbound": 5149,
+      "inbound_shift": 5152,
       "abandons": 459,
-      "spend": 187055.13,
+      "spend": 187499.38,
       "weeks": [
         {
           "m": "2026-11:2026-10-26",
@@ -382,11 +382,11 @@
           "label": "16\u201318 Nov",
           "start": "2026-11-16",
           "end": "2026-11-18",
-          "instructs": 68,
-          "inbound": 1763,
-          "inbound_shift": 1760,
+          "instructs": 69,
+          "inbound": 1783,
+          "inbound_shift": 1780,
           "abandons": 185,
-          "spend": 44993.19
+          "spend": 45437.44
         }
       ]
     }
