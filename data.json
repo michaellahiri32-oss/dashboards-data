@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-11-18T08:30:04+00:00",
+  "updated": "2026-11-18T08:40:05+00:00",
   "period": {
     "day": "2026-11-18",
     "month": "2026-11"
@@ -68,7 +68,7 @@
         },
         "2026-07": {
           "leads": 51,
-          "calls": 501,
+          "calls": 502,
           "wind": 0,
           "pi": 0,
           "weLeads": 0,
@@ -347,7 +347,7 @@
       "id": "gemma-stone",
       "leadsToday": 0,
       "leadsMonth": 46,
-      "callsToday": 5,
+      "callsToday": 6,
       "callsMonth": 831,
       "windToday": 0,
       "windMonth": 0,
@@ -418,7 +418,7 @@
       "byDay": {
         "2026-11-18": {
           "leads": 0,
-          "calls": 5,
+          "calls": 6,
           "wind": 0,
           "pi": 0
         },
@@ -484,7 +484,7 @@
         },
         "2026-11-03": {
           "leads": 6,
-          "calls": 70,
+          "calls": 69,
           "wind": 0,
           "pi": 0
         },
@@ -909,8 +909,8 @@
       "id": "michael-lahiri",
       "leadsToday": 0,
       "leadsMonth": 7,
-      "callsToday": 0,
-      "callsMonth": 168,
+      "callsToday": 4,
+      "callsMonth": 172,
       "windToday": 0,
       "windMonth": 0,
       "piToday": 0,
@@ -918,7 +918,7 @@
       "byMonth": {
         "2026-11": {
           "leads": 7,
-          "calls": 168,
+          "calls": 172,
           "wind": 0,
           "pi": 0,
           "weLeads": 0,
@@ -978,6 +978,12 @@
         }
       },
       "byDay": {
+        "2026-11-18": {
+          "leads": 0,
+          "calls": 4,
+          "wind": 0,
+          "pi": 0
+        },
         "2026-11-17": {
           "leads": 0,
           "calls": 43,
