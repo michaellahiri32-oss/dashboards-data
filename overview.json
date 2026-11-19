@@ -1,11 +1,11 @@
 {
   "day": "2026-11-19",
-  "calls": 947,
-  "instructs": 22,
-  "dropped": 50,
-  "droppedPct": 5.28,
+  "calls": 962,
+  "instructs": 24,
+  "dropped": 51,
+  "droppedPct": 5.3,
   "spend": 16208.94,
-  "cpi": 736.77,
+  "cpi": 675.37,
   "history": {
     "2026-09-21": {
       "calls": 191,
@@ -64,20 +64,20 @@
       "droppedPct": 33.48
     },
     "2026-09-28": {
-      "calls": 531,
+      "calls": 530,
       "instructs": 23,
       "spend": 20320.83,
       "cpi": 883.51,
       "dropped": 48,
-      "droppedPct": 9.07
+      "droppedPct": 9.09
     },
     "2026-09-29": {
-      "calls": 209,
+      "calls": 208,
       "instructs": 9,
       "spend": 5596.91,
       "cpi": 621.88,
       "dropped": 8,
-      "droppedPct": 3.85
+      "droppedPct": 3.86
     },
     "2026-09-30": {
       "calls": 172,
@@ -424,12 +424,12 @@
       "droppedPct": 5.0
     },
     "2026-11-12": {
-      "calls": 216,
+      "calls": 215,
       "instructs": 16,
       "spend": 9182.82,
       "cpi": 573.93,
       "dropped": 3,
-      "droppedPct": 1.41
+      "droppedPct": 1.42
     },
     "2026-11-13": {
       "calls": 127,
@@ -448,12 +448,12 @@
       "droppedPct": 12.22
     },
     "2026-11-15": {
-      "calls": 228,
+      "calls": 229,
       "instructs": 14,
       "spend": 8423.46,
       "cpi": 601.68,
       "dropped": 17,
-      "droppedPct": 7.62
+      "droppedPct": 7.59
     },
     "2026-11-16": {
       "calls": 820,
@@ -480,19 +480,19 @@
       "droppedPct": 4.44
     },
     "2026-11-19": {
-      "calls": 947,
-      "instructs": 22,
+      "calls": 962,
+      "instructs": 24,
       "spend": 16208.94,
-      "cpi": 736.77,
-      "dropped": 50,
-      "droppedPct": 5.28
+      "cpi": 675.37,
+      "dropped": 51,
+      "droppedPct": 5.3
     }
   },
   "updated": {
-    "connex": "2026-11-19T18:31:46+00:00",
-    "spend_asof": "2026-11-19T18:31:46+00:00",
+    "connex": "2026-11-19T18:46:40+00:00",
+    "spend_asof": "2026-11-19T18:46:40+00:00",
     "spend_updated": "2026-11-19T18:29:41Z",
     "spend_latest_day": "2026-11-19"
   },
-  "built": "2026-11-19T18:31:46+00:00"
+  "built": "2026-11-19T18:46:40+00:00"
 }
