@@ -287,6 +287,11 @@ def build_snapshot(recs, shift_ev):
     for lst in hk.values():
         lst.sort(key=lambda a: a["ms"])
         for x in lst[1:]: x["hrdup"] = 1
+    # --- TEMP DEBUG: trace 447522827095 ---
+    for x in recs:
+        if x.get("ph") == "447522827095":
+            print(f"  DBG 447522827095 id={x.get('id')!r} cid={x.get('cid')!r} date={x['date']} t={x['hour']:02d}:{x['minute']:02d} outcome={x['outcome']!r} sale={x['sale']} hrdup={x['hrdup']} agent={x.get('agent')!r} ph={x.get('ph')!r} match={x.get('match')!r} excl={x.get('excl')}")
+    # --- end TEMP DEBUG ---
     # manual claims
     for mc in MANUAL_CLAIMS:
         recs.append({"date": mc["date"], "hour": mc.get("hour", 12), "minute": mc.get("minute", 0),
@@ -729,6 +734,7 @@ def main():
         recs.append({"date": uk["date"], "hour": uk["hour"], "minute": uk["minute"],
                      "dir": "in" if it.get("direction") == "inbound" else "out",
                      "outcome": outcome, "match": match, "excl": excl, "ms": uk["ms"],
+                     "id": it.get("id"), "cid": it.get("customer_id"),
                      "sale": 0, "aband": 1 if outcome.lower().replace(" ", "") == "inboundabandon" else 0,
                      "ph": (tels[0] if tels else ""), "agent": users.get(it.get("user_id"), "")})
 
