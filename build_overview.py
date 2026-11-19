@@ -41,6 +41,11 @@ SALE_HIRE            = "Hire & Repair - UK"
 SALE_TRANSFER        = "Transferred - UK"
 SALE_TRANSFER_NUMBERS = {"447438475625", "447436471637"}
 SALE_EXCLUDE_NUMBERS  = {"447423588163", "447340003433", "447827418179"}
+ABANDON_ID    = "100aeb42-7c9a-443c-8aa9-d850f14fd1d1"   # "Inbound Abandon" (not in /selectable)
+# in-shift windows for the dropped-call rate (UK weekday: Mon=0 .. Sun=6)
+SHIFT_HOURS = {0:(8,20), 1:(8,20), 2:(8,20), 3:(8,20), 4:(14,18), 5:(15,19), 6:(8,16)}
+def on_shift(wd, hour):
+    lo, hi = SHIFT_HOURS[wd]; return lo <= hour < hi
 FORCE_HR              = {"447432154233"}
 DEDUP_EXEMPT          = {"447508635441"}
 AGENT_REASSIGN        = {"447727606730": "James Bridgwood"}
@@ -211,6 +216,8 @@ def main():
         recs.append({
             "date": d.isoformat(),
             "ms": dt.timestamp(),
+            "hour": dt.hour, "wd": dt.weekday(),
+            "aband": 1 if it.get("outcome_id") == ABANDON_ID else 0,
             "inbound": 1 if it.get("direction") == "inbound" else 0,
             "outcome": outcome,
             "ph": ph,
@@ -247,19 +254,24 @@ def main():
     # ---- per-day aggregation (calls = inbound; instructs = deduped sales) ----
     days = {}
     for x in recs:
-        b = days.setdefault(x["date"], {"calls": 0, "instructs": 0})
+        b = days.setdefault(x["date"], {"calls": 0, "instructs": 0, "inbShift": 0, "dropShift": 0})
         if x["inbound"]:
             b["calls"] += 1
+            if on_shift(x["wd"], x["hour"]): b["inbShift"] += 1
+        if x["aband"] and on_shift(x["wd"], x["hour"]):
+            b["dropShift"] += 1
         if x["sale"] == 1 and not x["hrdup"]:
             b["instructs"] += 1
-    days.setdefault(day_str, {"calls": 0, "instructs": 0})   # today always present
+    days.setdefault(day_str, {"calls": 0, "instructs": 0, "inbShift": 0, "dropShift": 0})   # today always present
 
     history = {}
     for d_s in sorted(days):
         c = days[d_s]["calls"]; ins = days[d_s]["instructs"]
+        dsh = days[d_s]["dropShift"]; insh = days[d_s]["inbShift"]
         sp = round(spend_map.get(d_s, 0.0), 2)
         history[d_s] = {"calls": c, "instructs": ins, "spend": sp,
-                        "cpi": round(sp / ins, 2) if ins else None}
+                        "cpi": round(sp / ins, 2) if ins else None,
+                        "dropped": dsh, "droppedPct": (round(dsh / insh * 100, 2) if insh else None)}
 
     today_row = history[day_str]
     calls, instructs = today_row["calls"], today_row["instructs"]
@@ -279,6 +291,8 @@ def main():
         "day": day_str,
         "calls": calls,
         "instructs": instructs,
+        "dropped": today_row["dropped"],
+        "droppedPct": today_row["droppedPct"],
         "spend": spend,
         "cpi": cpi,
         # history for the date picker: {date: {calls, instructs, spend, cpi}}
