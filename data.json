@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-11-19T17:40:02+00:00",
+  "updated": "2026-11-19T17:50:02+00:00",
   "period": {
     "day": "2026-11-19",
     "month": "2026-11"
@@ -19,8 +19,8 @@
       "id": "peter-brunker",
       "leadsToday": 4,
       "leadsMonth": 71,
-      "callsToday": 150,
-      "callsMonth": 1283,
+      "callsToday": 154,
+      "callsMonth": 1287,
       "windToday": 1,
       "windMonth": 10,
       "piToday": 0,
@@ -28,7 +28,7 @@
       "byMonth": {
         "2026-11": {
           "leads": 71,
-          "calls": 1283,
+          "calls": 1287,
           "wind": 10,
           "pi": 4,
           "weLeads": 5,
@@ -80,7 +80,7 @@
       "byDay": {
         "2026-11-19": {
           "leads": 4,
-          "calls": 150,
+          "calls": 154,
           "wind": 1,
           "pi": 0
         },
@@ -363,8 +363,8 @@
     {
       "name": "Gemma Stone",
       "id": "gemma-stone",
-      "leadsToday": 4,
-      "leadsMonth": 54,
+      "leadsToday": 5,
+      "leadsMonth": 55,
       "callsToday": 124,
       "callsMonth": 1079,
       "windToday": 0,
@@ -373,7 +373,7 @@
       "piMonth": 0,
       "byMonth": {
         "2026-11": {
-          "leads": 54,
+          "leads": 55,
           "calls": 1079,
           "wind": 0,
           "pi": 0,
@@ -435,7 +435,7 @@
       },
       "byDay": {
         "2026-11-19": {
-          "leads": 4,
+          "leads": 5,
           "calls": 124,
           "wind": 0,
           "pi": 0
@@ -525,8 +525,8 @@
       "id": "daniel-gee",
       "leadsToday": 4,
       "leadsMonth": 44,
-      "callsToday": 132,
-      "callsMonth": 981,
+      "callsToday": 133,
+      "callsMonth": 982,
       "windToday": 0,
       "windMonth": 5,
       "piToday": 0,
@@ -534,7 +534,7 @@
       "byMonth": {
         "2026-11": {
           "leads": 44,
-          "calls": 981,
+          "calls": 982,
           "wind": 5,
           "pi": 6,
           "weLeads": 1,
@@ -596,7 +596,7 @@
       "byDay": {
         "2026-11-19": {
           "leads": 4,
-          "calls": 132,
+          "calls": 133,
           "wind": 0,
           "pi": 0
         },
