@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-19T17:02:41Z",
+  "generated": "2026-11-19T17:17:33Z",
   "range": {
     "from": "2026-06-09",
     "to": "2026-11-19"
@@ -9,8 +9,8 @@
       "m": "2026-06",
       "label": "Jun 26",
       "instructs": 106,
-      "inbound": 3567,
-      "inbound_shift": 3612,
+      "inbound": 3565,
+      "inbound_shift": 3610,
       "abandons": 43,
       "spend": 78172.0,
       "weeks": [
@@ -53,8 +53,8 @@
           "start": "2026-06-29",
           "end": "2026-06-30",
           "instructs": 30,
-          "inbound": 722,
-          "inbound_shift": 732,
+          "inbound": 720,
+          "inbound_shift": 730,
           "abandons": 5,
           "spend": null
         }
@@ -97,8 +97,8 @@
           "start": "2026-07-13",
           "end": "2026-07-19",
           "instructs": 146,
-          "inbound": 1917,
-          "inbound_shift": 1923,
+          "inbound": 1918,
+          "inbound_shift": 1924,
           "abandons": 115,
           "spend": null
         },
@@ -108,8 +108,8 @@
           "start": "2026-07-20",
           "end": "2026-07-26",
           "instructs": 38,
-          "inbound": 164,
-          "inbound_shift": 268,
+          "inbound": 163,
+          "inbound_shift": 267,
           "abandons": 38,
           "spend": null
         },
@@ -338,10 +338,10 @@
     {
       "m": "2026-11",
       "label": "Nov 26",
-      "instructs": 277,
-      "inbound": 6366,
-      "inbound_shift": 6369,
-      "abandons": 518,
+      "instructs": 278,
+      "inbound": 6396,
+      "inbound_shift": 6399,
+      "abandons": 520,
       "spend": 208752.03,
       "weeks": [
         {
@@ -382,10 +382,10 @@
           "label": "16\u201319 Nov",
           "start": "2026-11-16",
           "end": "2026-11-19",
-          "instructs": 95,
-          "inbound": 3000,
-          "inbound_shift": 2997,
-          "abandons": 244,
+          "instructs": 96,
+          "inbound": 3030,
+          "inbound_shift": 3027,
+          "abandons": 246,
           "spend": 66690.09
         }
       ]
