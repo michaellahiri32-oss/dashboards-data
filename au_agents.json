@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-20T11:02:46Z",
+  "generated": "2026-11-20T11:18:27Z",
   "from": "2026-11-07",
   "to": "2026-11-20",
   "agentNames": [
@@ -26,8 +26,8 @@
   "agents": {
     "Alex Harrison": {
       "2026-11-20": {
-        "logon": "05:56",
-        "logoff": "14:00",
+        "logon": "08:56",
+        "logoff": "17:00",
         "loggedMin": 484,
         "breakMin": 5,
         "lunchMin": 0,
@@ -36,8 +36,8 @@
         "calls": 44
       },
       "2026-11-19": {
-        "logon": "05:53",
-        "logoff": "14:00",
+        "logon": "08:53",
+        "logoff": "17:00",
         "loggedMin": 488,
         "breakMin": 6,
         "lunchMin": 0,
@@ -46,8 +46,8 @@
         "calls": 50
       },
       "2026-11-18": {
-        "logon": "05:56",
-        "logoff": "14:00",
+        "logon": "08:56",
+        "logoff": "17:00",
         "loggedMin": 485,
         "breakMin": 8,
         "lunchMin": 0,
@@ -56,8 +56,8 @@
         "calls": 14
       },
       "2026-11-17": {
-        "logon": "05:57",
-        "logoff": "14:00",
+        "logon": "08:57",
+        "logoff": "17:00",
         "loggedMin": 483,
         "breakMin": 23,
         "lunchMin": 0,
@@ -66,8 +66,8 @@
         "calls": 17
       },
       "2026-11-16": {
-        "logon": "05:52",
-        "logoff": "14:01",
+        "logon": "08:52",
+        "logoff": "17:01",
         "loggedMin": 490,
         "breakMin": 13,
         "lunchMin": 0,
@@ -76,8 +76,8 @@
         "calls": 17
       },
       "2026-11-13": {
-        "logon": "05:55",
-        "logoff": "14:01",
+        "logon": "08:55",
+        "logoff": "17:01",
         "loggedMin": 486,
         "breakMin": 21,
         "lunchMin": 0,
@@ -86,8 +86,8 @@
         "calls": 15
       },
       "2026-11-12": {
-        "logon": "05:57",
-        "logoff": "14:00",
+        "logon": "08:57",
+        "logoff": "17:00",
         "loggedMin": 483,
         "breakMin": 21,
         "lunchMin": 0,
@@ -96,8 +96,8 @@
         "calls": 11
       },
       "2026-11-11": {
-        "logon": "05:45",
-        "logoff": "14:01",
+        "logon": "08:45",
+        "logoff": "17:01",
         "loggedMin": 497,
         "breakMin": 8,
         "lunchMin": 0,
@@ -106,8 +106,8 @@
         "calls": 12
       },
       "2026-11-10": {
-        "logon": "05:50",
-        "logoff": "14:06",
+        "logon": "08:50",
+        "logoff": "17:06",
         "loggedMin": 496,
         "breakMin": 21,
         "lunchMin": 0,
@@ -116,8 +116,8 @@
         "calls": 7
       },
       "2026-11-09": {
-        "logon": "05:44",
-        "logoff": "14:07",
+        "logon": "08:44",
+        "logoff": "17:07",
         "loggedMin": 502,
         "breakMin": 22,
         "lunchMin": 0,
@@ -128,8 +128,8 @@
     },
     "Andrew Aremu": {
       "2026-11-20": {
-        "logon": "07:32",
-        "logoff": "16:01",
+        "logon": "10:32",
+        "logoff": "19:01",
         "loggedMin": 509,
         "breakMin": 156,
         "lunchMin": 0,
@@ -138,8 +138,8 @@
         "calls": 6
       },
       "2026-11-19": {
-        "logon": "07:58",
-        "logoff": "16:26",
+        "logon": "10:58",
+        "logoff": "19:26",
         "loggedMin": 508,
         "breakMin": 0,
         "lunchMin": 0,
@@ -148,8 +148,8 @@
         "calls": 10
       },
       "2026-11-18": {
-        "logon": "09:08",
-        "logoff": "16:02",
+        "logon": "12:08",
+        "logoff": "19:02",
         "loggedMin": 413,
         "breakMin": 6,
         "lunchMin": 0,
@@ -158,8 +158,8 @@
         "calls": 7
       },
       "2026-11-17": {
-        "logon": "07:57",
-        "logoff": "16:02",
+        "logon": "10:57",
+        "logoff": "19:02",
         "loggedMin": 485,
         "breakMin": 146,
         "lunchMin": 0,
@@ -168,8 +168,8 @@
         "calls": 4
       },
       "2026-11-16": {
-        "logon": "07:55",
-        "logoff": "16:01",
+        "logon": "10:55",
+        "logoff": "19:01",
         "loggedMin": 486,
         "breakMin": 84,
         "lunchMin": 0,
@@ -178,8 +178,8 @@
         "calls": 9
       },
       "2026-11-13": {
-        "logon": "08:02",
-        "logoff": "16:13",
+        "logon": "11:02",
+        "logoff": "19:13",
         "loggedMin": 491,
         "breakMin": 74,
         "lunchMin": 0,
@@ -188,8 +188,8 @@
         "calls": 5
       },
       "2026-11-12": {
-        "logon": "07:55",
-        "logoff": "16:01",
+        "logon": "10:55",
+        "logoff": "19:01",
         "loggedMin": 486,
         "breakMin": 79,
         "lunchMin": 0,
@@ -198,8 +198,8 @@
         "calls": 9
       },
       "2026-11-11": {
-        "logon": "08:20",
-        "logoff": "16:00",
+        "logon": "11:20",
+        "logoff": "19:00",
         "loggedMin": 461,
         "breakMin": 1,
         "lunchMin": 0,
@@ -208,8 +208,8 @@
         "calls": 7
       },
       "2026-11-10": {
-        "logon": "08:01",
-        "logoff": "16:00",
+        "logon": "11:01",
+        "logoff": "19:00",
         "loggedMin": 479,
         "breakMin": 3,
         "lunchMin": 0,
@@ -218,8 +218,8 @@
         "calls": 4
       },
       "2026-11-09": {
-        "logon": "06:29",
-        "logoff": "16:00",
+        "logon": "09:29",
+        "logoff": "19:00",
         "loggedMin": 571,
         "breakMin": 8,
         "lunchMin": 0,
@@ -230,8 +230,8 @@
     },
     "Simon Warren": {
       "2026-11-20": {
-        "logon": "11:13",
-        "logoff": "11:17",
+        "logon": "14:13",
+        "logoff": "14:17",
         "loggedMin": 4,
         "breakMin": 0,
         "lunchMin": 0,
@@ -240,8 +240,8 @@
         "calls": 2
       },
       "2026-11-19": {
-        "logon": "11:25",
-        "logoff": "11:13",
+        "logon": "14:25",
+        "logoff": "14:13",
         "loggedMin": 1428,
         "breakMin": 0,
         "lunchMin": 0,
@@ -250,8 +250,8 @@
         "calls": 8
       },
       "2026-11-18": {
-        "logon": "11:38",
-        "logoff": "11:25",
+        "logon": "14:38",
+        "logoff": "14:25",
         "loggedMin": 1427,
         "breakMin": 0,
         "lunchMin": 0,
@@ -260,8 +260,8 @@
         "calls": 1
       },
       "2026-11-13": {
-        "logon": "09:28",
-        "logoff": "11:38",
+        "logon": "12:28",
+        "logoff": "14:38",
         "loggedMin": 7330,
         "breakMin": 0,
         "lunchMin": 0,
