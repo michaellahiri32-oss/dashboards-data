@@ -103,7 +103,7 @@ SALE_HIRE     = "Hire & Repair - UK"
 SALE_TRANSFER = "Transferred - UK"
 # ---- standing corrections (ported verbatim from the report) ----
 SALE_TRANSFER_NUMBERS = {"447438475625", "447436471637"}
-SALE_EXCLUDE_NUMBERS  = {"447423588163", "447340003433", "447827418179"}
+SALE_EXCLUDE_NUMBERS  = {"447423588163", "447340003433", "447827418179", "447415162223"}
 FORCE_HR              = {"447432154233"}
 DEDUP_EXEMPT          = {"447508635441"}
 AGENT_REASSIGN        = {"447727606730": "James Bridgwood", "447758789895": "James Bridgwood", "447386335582": "Gemma Stone", "447518591855": "James Bridgwood", "447979060209": "James Bridgwood"}
