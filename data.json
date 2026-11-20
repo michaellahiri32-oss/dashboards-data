@@ -1,8 +1,8 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-11-19T23:44:00+00:00",
+  "updated": "2026-11-20T04:24:03+00:00",
   "period": {
-    "day": "2026-11-19",
+    "day": "2026-11-20",
     "month": "2026-11"
   },
   "months": [
@@ -17,11 +17,11 @@
     {
       "name": "Peter Brunker",
       "id": "peter-brunker",
-      "leadsToday": 8,
+      "leadsToday": 0,
       "leadsMonth": 76,
-      "callsToday": 170,
+      "callsToday": 0,
       "callsMonth": 1303,
-      "windToday": 1,
+      "windToday": 0,
       "windMonth": 10,
       "byMonth": {
         "2026-11": {
@@ -54,9 +54,9 @@
     {
       "name": "James Bridgwood",
       "id": "james-bridgwood",
-      "leadsToday": 6,
+      "leadsToday": 0,
       "leadsMonth": 64,
-      "callsToday": 165,
+      "callsToday": 0,
       "callsMonth": 1212,
       "windToday": 0,
       "windMonth": 2,
@@ -96,9 +96,9 @@
     {
       "name": "Gemma Stone",
       "id": "gemma-stone",
-      "leadsToday": 5,
+      "leadsToday": 0,
       "leadsMonth": 54,
-      "callsToday": 142,
+      "callsToday": 0,
       "callsMonth": 1096,
       "windToday": 0,
       "windMonth": 0,
@@ -138,9 +138,9 @@
     {
       "name": "Daniel Gee",
       "id": "daniel-gee",
-      "leadsToday": 5,
+      "leadsToday": 0,
       "leadsMonth": 46,
-      "callsToday": 161,
+      "callsToday": 0,
       "callsMonth": 1011,
       "windToday": 0,
       "windMonth": 5,
@@ -182,7 +182,7 @@
       "id": "mel-abbott",
       "leadsToday": 0,
       "leadsMonth": 20,
-      "callsToday": 11,
+      "callsToday": 0,
       "callsMonth": 269,
       "windToday": 0,
       "windMonth": 0,
@@ -222,9 +222,9 @@
     {
       "name": "Marlon Albohaithi",
       "id": "marlon-albohaithi",
-      "leadsToday": 2,
+      "leadsToday": 0,
       "leadsMonth": 19,
-      "callsToday": 106,
+      "callsToday": 0,
       "callsMonth": 502,
       "windToday": 0,
       "windMonth": 1,
@@ -266,7 +266,7 @@
       "id": "michael-lahiri",
       "leadsToday": 0,
       "leadsMonth": 8,
-      "callsToday": 41,
+      "callsToday": 0,
       "callsMonth": 241,
       "windToday": 0,
       "windMonth": 0,
