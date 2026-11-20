@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-20T08:17:25Z",
+  "generated": "2026-11-20T08:32:30Z",
   "from": "2026-11-07",
   "to": "2026-11-20",
   "agentNames": [
@@ -8,9 +8,7 @@
     "Alex Harrison"
   ],
   "campaignNames": [
-    "Keep Driving",
-    "WA Claims Group",
-    "Resolve Claims Group"
+    "WA Marketing - Keep Driving"
   ],
   "matchedAgents": [
     "Alex Harrison",
@@ -319,28 +317,28 @@
       },
       "2026-11-19": {
         "in": 2,
-        "ans": 2,
-        "aband": 0
+        "ans": 0,
+        "aband": 2
       },
       "2026-11-18": {
         "in": 15,
-        "ans": 15,
-        "aband": 0
+        "ans": 7,
+        "aband": 8
       },
       "2026-11-17": {
         "in": 8,
-        "ans": 8,
-        "aband": 0
+        "ans": 3,
+        "aband": 5
       },
       "2026-11-16": {
         "in": 5,
-        "ans": 5,
-        "aband": 0
+        "ans": 2,
+        "aband": 3
       },
       "2026-11-13": {
         "in": 7,
-        "ans": 7,
-        "aband": 0
+        "ans": 2,
+        "aband": 5
       },
       "2026-11-12": {
         "in": 0,
@@ -349,18 +347,18 @@
       },
       "2026-11-11": {
         "in": 7,
-        "ans": 7,
-        "aband": 0
+        "ans": 2,
+        "aband": 5
       },
       "2026-11-10": {
         "in": 11,
-        "ans": 11,
-        "aband": 0
+        "ans": 5,
+        "aband": 6
       },
       "2026-11-09": {
         "in": 5,
-        "ans": 5,
-        "aband": 0
+        "ans": 3,
+        "aband": 2
       }
     }
   }
