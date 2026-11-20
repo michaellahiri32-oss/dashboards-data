@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-20T16:03:40Z",
+  "generated": "2026-11-20T16:33:26Z",
   "from": "2026-11-07",
   "to": "2026-11-20",
   "agentNames": [
@@ -33,7 +33,15 @@
         "lunchMin": 0,
         "wrapMin": 15,
         "talkMin": 84,
-        "calls": 44
+        "calls": 44,
+        "pauses": [
+          {
+            "type": "Comfort break",
+            "start": "16:09",
+            "startUk": "05:09",
+            "durMin": 5
+          }
+        ]
       },
       "2026-11-19": {
         "logon": "08:53",
@@ -45,7 +53,15 @@
         "lunchMin": 0,
         "wrapMin": 27,
         "talkMin": 80,
-        "calls": 50
+        "calls": 50,
+        "pauses": [
+          {
+            "type": "Comfort break",
+            "start": "13:58",
+            "startUk": "02:58",
+            "durMin": 6
+          }
+        ]
       },
       "2026-11-18": {
         "logon": "08:56",
@@ -57,7 +73,15 @@
         "lunchMin": 0,
         "wrapMin": 11,
         "talkMin": 24,
-        "calls": 14
+        "calls": 14,
+        "pauses": [
+          {
+            "type": "Comfort break",
+            "start": "15:34",
+            "startUk": "04:34",
+            "durMin": 8
+          }
+        ]
       },
       "2026-11-17": {
         "logon": "08:57",
@@ -69,7 +93,21 @@
         "lunchMin": 0,
         "wrapMin": 8,
         "talkMin": 51,
-        "calls": 17
+        "calls": 17,
+        "pauses": [
+          {
+            "type": "Break",
+            "start": "14:45",
+            "startUk": "03:45",
+            "durMin": 20
+          },
+          {
+            "type": "Comfort break",
+            "start": "16:00",
+            "startUk": "05:00",
+            "durMin": 3
+          }
+        ]
       },
       "2026-11-16": {
         "logon": "08:52",
@@ -81,7 +119,21 @@
         "lunchMin": 0,
         "wrapMin": 17,
         "talkMin": 49,
-        "calls": 17
+        "calls": 17,
+        "pauses": [
+          {
+            "type": "Comfort break",
+            "start": "13:15",
+            "startUk": "02:15",
+            "durMin": 4
+          },
+          {
+            "type": "Comfort break",
+            "start": "14:30",
+            "startUk": "03:30",
+            "durMin": 9
+          }
+        ]
       },
       "2026-11-13": {
         "logon": "08:55",
@@ -93,7 +145,27 @@
         "lunchMin": 0,
         "wrapMin": 9,
         "talkMin": 66,
-        "calls": 15
+        "calls": 15,
+        "pauses": [
+          {
+            "type": "Comfort break",
+            "start": "11:11",
+            "startUk": "00:11",
+            "durMin": 6
+          },
+          {
+            "type": "Comfort break",
+            "start": "12:52",
+            "startUk": "01:52",
+            "durMin": 8
+          },
+          {
+            "type": "Comfort break",
+            "start": "14:58",
+            "startUk": "03:58",
+            "durMin": 6
+          }
+        ]
       },
       "2026-11-12": {
         "logon": "08:57",
@@ -105,7 +177,27 @@
         "lunchMin": 0,
         "wrapMin": 3,
         "talkMin": 34,
-        "calls": 11
+        "calls": 11,
+        "pauses": [
+          {
+            "type": "Comfort break",
+            "start": "11:31",
+            "startUk": "00:31",
+            "durMin": 7
+          },
+          {
+            "type": "Comfort break",
+            "start": "13:56",
+            "startUk": "02:56",
+            "durMin": 5
+          },
+          {
+            "type": "Comfort break",
+            "start": "15:33",
+            "startUk": "04:33",
+            "durMin": 9
+          }
+        ]
       },
       "2026-11-11": {
         "logon": "08:45",
@@ -117,7 +209,15 @@
         "lunchMin": 0,
         "wrapMin": 6,
         "talkMin": 33,
-        "calls": 12
+        "calls": 12,
+        "pauses": [
+          {
+            "type": "Comfort break",
+            "start": "11:37",
+            "startUk": "00:37",
+            "durMin": 8
+          }
+        ]
       },
       "2026-11-10": {
         "logon": "08:50",
@@ -129,7 +229,27 @@
         "lunchMin": 0,
         "wrapMin": 1,
         "talkMin": 25,
-        "calls": 7
+        "calls": 7,
+        "pauses": [
+          {
+            "type": "Comfort break",
+            "start": "10:01",
+            "startUk": "23:01",
+            "durMin": 7
+          },
+          {
+            "type": "Comfort break",
+            "start": "12:07",
+            "startUk": "01:07",
+            "durMin": 8
+          },
+          {
+            "type": "Comfort break",
+            "start": "13:32",
+            "startUk": "02:32",
+            "durMin": 6
+          }
+        ]
       },
       "2026-11-09": {
         "logon": "08:44",
@@ -141,7 +261,27 @@
         "lunchMin": 0,
         "wrapMin": 30,
         "talkMin": 21,
-        "calls": 19
+        "calls": 19,
+        "pauses": [
+          {
+            "type": "Comfort break",
+            "start": "10:30",
+            "startUk": "23:30",
+            "durMin": 6
+          },
+          {
+            "type": "Comfort break",
+            "start": "12:19",
+            "startUk": "01:19",
+            "durMin": 6
+          },
+          {
+            "type": "Comfort break",
+            "start": "15:26",
+            "startUk": "04:26",
+            "durMin": 10
+          }
+        ]
       }
     },
     "Andrew Aremu": {
@@ -155,7 +295,21 @@
         "lunchMin": 0,
         "wrapMin": 4,
         "talkMin": 6,
-        "calls": 6
+        "calls": 6,
+        "pauses": [
+          {
+            "type": "Break",
+            "start": "14:58",
+            "startUk": "03:58",
+            "durMin": 155
+          },
+          {
+            "type": "Comfort break",
+            "start": "17:55",
+            "startUk": "06:55",
+            "durMin": 1
+          }
+        ]
       },
       "2026-11-19": {
         "logon": "10:58",
@@ -167,7 +321,8 @@
         "lunchMin": 0,
         "wrapMin": 4,
         "talkMin": 14,
-        "calls": 10
+        "calls": 10,
+        "pauses": []
       },
       "2026-11-18": {
         "logon": "12:08",
@@ -179,7 +334,15 @@
         "lunchMin": 0,
         "wrapMin": 2,
         "talkMin": 24,
-        "calls": 7
+        "calls": 7,
+        "pauses": [
+          {
+            "type": "Break",
+            "start": "17:39",
+            "startUk": "06:39",
+            "durMin": 6
+          }
+        ]
       },
       "2026-11-17": {
         "logon": "10:57",
@@ -191,7 +354,27 @@
         "lunchMin": 0,
         "wrapMin": 6,
         "talkMin": 26,
-        "calls": 4
+        "calls": 4,
+        "pauses": [
+          {
+            "type": "Break",
+            "start": "11:23",
+            "startUk": "00:23",
+            "durMin": 7
+          },
+          {
+            "type": "Comfort break",
+            "start": "13:49",
+            "startUk": "02:49",
+            "durMin": 3
+          },
+          {
+            "type": "Break",
+            "start": "14:38",
+            "startUk": "03:38",
+            "durMin": 136
+          }
+        ]
       },
       "2026-11-16": {
         "logon": "10:55",
@@ -203,7 +386,33 @@
         "lunchMin": 0,
         "wrapMin": 6,
         "talkMin": 13,
-        "calls": 9
+        "calls": 9,
+        "pauses": [
+          {
+            "type": "Comfort break",
+            "start": "11:50",
+            "startUk": "00:50",
+            "durMin": 7
+          },
+          {
+            "type": "Comfort break",
+            "start": "13:50",
+            "startUk": "02:50",
+            "durMin": 3
+          },
+          {
+            "type": "Break",
+            "start": "15:18",
+            "startUk": "04:18",
+            "durMin": 68
+          },
+          {
+            "type": "Comfort break",
+            "start": "18:54",
+            "startUk": "07:54",
+            "durMin": 7
+          }
+        ]
       },
       "2026-11-13": {
         "logon": "11:02",
@@ -215,7 +424,33 @@
         "lunchMin": 0,
         "wrapMin": 4,
         "talkMin": 11,
-        "calls": 5
+        "calls": 5,
+        "pauses": [
+          {
+            "type": "Comfort break",
+            "start": "11:58",
+            "startUk": "00:58",
+            "durMin": 14
+          },
+          {
+            "type": "Comfort break",
+            "start": "12:13",
+            "startUk": "01:13",
+            "durMin": 6
+          },
+          {
+            "type": "Comfort break",
+            "start": "16:24",
+            "startUk": "05:24",
+            "durMin": 6
+          },
+          {
+            "type": "Break",
+            "start": "17:10",
+            "startUk": "06:10",
+            "durMin": 48
+          }
+        ]
       },
       "2026-11-12": {
         "logon": "10:55",
@@ -227,7 +462,27 @@
         "lunchMin": 0,
         "wrapMin": 4,
         "talkMin": 14,
-        "calls": 9
+        "calls": 9,
+        "pauses": [
+          {
+            "type": "Comfort break",
+            "start": "11:11",
+            "startUk": "00:11",
+            "durMin": 8
+          },
+          {
+            "type": "Comfort break",
+            "start": "12:42",
+            "startUk": "01:42",
+            "durMin": 7
+          },
+          {
+            "type": "Break",
+            "start": "16:55",
+            "startUk": "05:55",
+            "durMin": 63
+          }
+        ]
       },
       "2026-11-11": {
         "logon": "11:20",
@@ -239,7 +494,15 @@
         "lunchMin": 0,
         "wrapMin": 1,
         "talkMin": 7,
-        "calls": 7
+        "calls": 7,
+        "pauses": [
+          {
+            "type": "Comfort break",
+            "start": "11:57",
+            "startUk": "00:57",
+            "durMin": 1
+          }
+        ]
       },
       "2026-11-10": {
         "logon": "11:01",
@@ -251,7 +514,15 @@
         "lunchMin": 0,
         "wrapMin": 30,
         "talkMin": 2,
-        "calls": 4
+        "calls": 4,
+        "pauses": [
+          {
+            "type": "Break",
+            "start": "13:11",
+            "startUk": "02:11",
+            "durMin": 3
+          }
+        ]
       },
       "2026-11-09": {
         "logon": "09:29",
@@ -263,7 +534,15 @@
         "lunchMin": 0,
         "wrapMin": 6,
         "talkMin": 25,
-        "calls": 6
+        "calls": 6,
+        "pauses": [
+          {
+            "type": "Comfort break",
+            "start": "15:44",
+            "startUk": "04:44",
+            "durMin": 8
+          }
+        ]
       }
     },
     "Simon Warren": {
@@ -277,7 +556,8 @@
         "lunchMin": 0,
         "wrapMin": 1,
         "talkMin": 0,
-        "calls": 2
+        "calls": 2,
+        "pauses": []
       },
       "2026-11-19": {
         "logon": "14:25",
@@ -289,7 +569,8 @@
         "lunchMin": 0,
         "wrapMin": 0,
         "talkMin": 23,
-        "calls": 8
+        "calls": 8,
+        "pauses": []
       },
       "2026-11-18": {
         "logon": "14:38",
@@ -301,7 +582,8 @@
         "lunchMin": 0,
         "wrapMin": 0,
         "talkMin": 4,
-        "calls": 1
+        "calls": 1,
+        "pauses": []
       },
       "2026-11-13": {
         "logon": "12:28",
@@ -313,7 +595,8 @@
         "lunchMin": 0,
         "wrapMin": 0,
         "talkMin": 0,
-        "calls": 0
+        "calls": 0,
+        "pauses": []
       }
     }
   },
