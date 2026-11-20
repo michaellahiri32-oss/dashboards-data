@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-20T11:18:27Z",
+  "generated": "2026-11-20T11:33:06Z",
   "from": "2026-11-07",
   "to": "2026-11-20",
   "agentNames": [
@@ -8,8 +8,8 @@
     "Alex Harrison"
   ],
   "campaignNames": [
-    "WA Law Group",
-    "WA Marketing - Keep Driving"
+    "Accident Management",
+    "Alex Harrison"
   ],
   "matchedAgents": [
     "Alex Harrison",
@@ -18,16 +18,16 @@
     "Simon Warren 2"
   ],
   "matchedCampaigns": [
-    "NSW_ResolveClaimsGroup",
-    "WA Keep Driving No Inj",
-    "WA Law Group",
-    "WA Marketing - Keep Driving"
+    "Accident Management",
+    "Alex Harrison"
   ],
   "agents": {
     "Alex Harrison": {
       "2026-11-20": {
         "logon": "08:56",
+        "logonUk": "21:56",
         "logoff": "17:00",
+        "logoffUk": "06:00",
         "loggedMin": 484,
         "breakMin": 5,
         "lunchMin": 0,
@@ -37,7 +37,9 @@
       },
       "2026-11-19": {
         "logon": "08:53",
+        "logonUk": "21:53",
         "logoff": "17:00",
+        "logoffUk": "06:00",
         "loggedMin": 488,
         "breakMin": 6,
         "lunchMin": 0,
@@ -47,7 +49,9 @@
       },
       "2026-11-18": {
         "logon": "08:56",
+        "logonUk": "21:56",
         "logoff": "17:00",
+        "logoffUk": "06:00",
         "loggedMin": 485,
         "breakMin": 8,
         "lunchMin": 0,
@@ -57,7 +61,9 @@
       },
       "2026-11-17": {
         "logon": "08:57",
+        "logonUk": "21:57",
         "logoff": "17:00",
+        "logoffUk": "06:00",
         "loggedMin": 483,
         "breakMin": 23,
         "lunchMin": 0,
@@ -67,7 +73,9 @@
       },
       "2026-11-16": {
         "logon": "08:52",
+        "logonUk": "21:52",
         "logoff": "17:01",
+        "logoffUk": "06:01",
         "loggedMin": 490,
         "breakMin": 13,
         "lunchMin": 0,
@@ -77,7 +85,9 @@
       },
       "2026-11-13": {
         "logon": "08:55",
+        "logonUk": "21:55",
         "logoff": "17:01",
+        "logoffUk": "06:01",
         "loggedMin": 486,
         "breakMin": 21,
         "lunchMin": 0,
@@ -87,7 +97,9 @@
       },
       "2026-11-12": {
         "logon": "08:57",
+        "logonUk": "21:57",
         "logoff": "17:00",
+        "logoffUk": "06:00",
         "loggedMin": 483,
         "breakMin": 21,
         "lunchMin": 0,
@@ -97,7 +109,9 @@
       },
       "2026-11-11": {
         "logon": "08:45",
+        "logonUk": "21:45",
         "logoff": "17:01",
+        "logoffUk": "06:01",
         "loggedMin": 497,
         "breakMin": 8,
         "lunchMin": 0,
@@ -107,7 +121,9 @@
       },
       "2026-11-10": {
         "logon": "08:50",
+        "logonUk": "21:50",
         "logoff": "17:06",
+        "logoffUk": "06:06",
         "loggedMin": 496,
         "breakMin": 21,
         "lunchMin": 0,
@@ -117,7 +133,9 @@
       },
       "2026-11-09": {
         "logon": "08:44",
+        "logonUk": "21:44",
         "logoff": "17:07",
+        "logoffUk": "06:07",
         "loggedMin": 502,
         "breakMin": 22,
         "lunchMin": 0,
@@ -129,7 +147,9 @@
     "Andrew Aremu": {
       "2026-11-20": {
         "logon": "10:32",
+        "logonUk": "23:32",
         "logoff": "19:01",
+        "logoffUk": "08:01",
         "loggedMin": 509,
         "breakMin": 156,
         "lunchMin": 0,
@@ -139,7 +159,9 @@
       },
       "2026-11-19": {
         "logon": "10:58",
+        "logonUk": "23:58",
         "logoff": "19:26",
+        "logoffUk": "08:26",
         "loggedMin": 508,
         "breakMin": 0,
         "lunchMin": 0,
@@ -149,7 +171,9 @@
       },
       "2026-11-18": {
         "logon": "12:08",
+        "logonUk": "01:08",
         "logoff": "19:02",
+        "logoffUk": "08:02",
         "loggedMin": 413,
         "breakMin": 6,
         "lunchMin": 0,
@@ -159,7 +183,9 @@
       },
       "2026-11-17": {
         "logon": "10:57",
+        "logonUk": "23:57",
         "logoff": "19:02",
+        "logoffUk": "08:02",
         "loggedMin": 485,
         "breakMin": 146,
         "lunchMin": 0,
@@ -169,7 +195,9 @@
       },
       "2026-11-16": {
         "logon": "10:55",
+        "logonUk": "23:55",
         "logoff": "19:01",
+        "logoffUk": "08:01",
         "loggedMin": 486,
         "breakMin": 84,
         "lunchMin": 0,
@@ -179,7 +207,9 @@
       },
       "2026-11-13": {
         "logon": "11:02",
+        "logonUk": "00:02",
         "logoff": "19:13",
+        "logoffUk": "08:13",
         "loggedMin": 491,
         "breakMin": 74,
         "lunchMin": 0,
@@ -189,7 +219,9 @@
       },
       "2026-11-12": {
         "logon": "10:55",
+        "logonUk": "23:55",
         "logoff": "19:01",
+        "logoffUk": "08:01",
         "loggedMin": 486,
         "breakMin": 79,
         "lunchMin": 0,
@@ -199,7 +231,9 @@
       },
       "2026-11-11": {
         "logon": "11:20",
+        "logonUk": "00:20",
         "logoff": "19:00",
+        "logoffUk": "08:00",
         "loggedMin": 461,
         "breakMin": 1,
         "lunchMin": 0,
@@ -209,7 +243,9 @@
       },
       "2026-11-10": {
         "logon": "11:01",
+        "logonUk": "00:01",
         "logoff": "19:00",
+        "logoffUk": "08:00",
         "loggedMin": 479,
         "breakMin": 3,
         "lunchMin": 0,
@@ -219,7 +255,9 @@
       },
       "2026-11-09": {
         "logon": "09:29",
+        "logonUk": "22:29",
         "logoff": "19:00",
+        "logoffUk": "08:00",
         "loggedMin": 571,
         "breakMin": 8,
         "lunchMin": 0,
@@ -231,7 +269,9 @@
     "Simon Warren": {
       "2026-11-20": {
         "logon": "14:13",
+        "logonUk": "03:13",
         "logoff": "14:17",
+        "logoffUk": "03:17",
         "loggedMin": 4,
         "breakMin": 0,
         "lunchMin": 0,
@@ -241,7 +281,9 @@
       },
       "2026-11-19": {
         "logon": "14:25",
+        "logonUk": "03:25",
         "logoff": "14:13",
+        "logoffUk": "03:13",
         "loggedMin": 1428,
         "breakMin": 0,
         "lunchMin": 0,
@@ -251,7 +293,9 @@
       },
       "2026-11-18": {
         "logon": "14:38",
+        "logonUk": "03:38",
         "logoff": "14:25",
+        "logoffUk": "03:25",
         "loggedMin": 1427,
         "breakMin": 0,
         "lunchMin": 0,
@@ -261,7 +305,9 @@
       },
       "2026-11-13": {
         "logon": "12:28",
+        "logonUk": "01:28",
         "logoff": "14:38",
+        "logoffUk": "03:38",
         "loggedMin": 7330,
         "breakMin": 0,
         "lunchMin": 0,
@@ -272,108 +318,290 @@
     }
   },
   "campaigns": {
-    "WA Law Group": {
+    "Accident Management": {
       "2026-11-20": {
-        "in": 0,
-        "ans": 0,
-        "aband": 0
-      },
-      "2026-11-19": {
-        "in": 4,
-        "ans": 4,
-        "aband": 0
-      },
-      "2026-11-18": {
-        "in": 10,
-        "ans": 8,
-        "aband": 2
-      },
-      "2026-11-17": {
-        "in": 6,
-        "ans": 5,
+        "in": 15,
+        "ans": 14,
         "aband": 1
       },
+      "2026-11-19": {
+        "in": 17,
+        "ans": 13,
+        "aband": 4
+      },
+      "2026-11-18": {
+        "in": 13,
+        "ans": 12,
+        "aband": 1
+      },
+      "2026-11-17": {
+        "in": 10,
+        "ans": 7,
+        "aband": 3
+      },
       "2026-11-16": {
-        "in": 0,
-        "ans": 0,
+        "in": 13,
+        "ans": 11,
+        "aband": 2
+      },
+      "2026-11-15": {
+        "in": 1,
+        "ans": 1,
         "aband": 0
       },
       "2026-11-13": {
-        "in": 4,
-        "ans": 4,
-        "aband": 0
+        "in": 11,
+        "ans": 8,
+        "aband": 3
       },
       "2026-11-12": {
-        "in": 3,
-        "ans": 3,
-        "aband": 0
+        "in": 15,
+        "ans": 11,
+        "aband": 4
       },
       "2026-11-11": {
-        "in": 4,
-        "ans": 3,
-        "aband": 1
+        "in": 10,
+        "ans": 7,
+        "aband": 3
       },
       "2026-11-10": {
-        "in": 3,
-        "ans": 3,
-        "aband": 0
+        "in": 9,
+        "ans": 8,
+        "aband": 1
       },
       "2026-11-09": {
-        "in": 2,
-        "ans": 2,
+        "in": 14,
+        "ans": 13,
+        "aband": 1
+      },
+      "2026-11-08": {
+        "in": 1,
+        "ans": 1,
+        "aband": 0
+      },
+      "2026-11-07": {
+        "in": 5,
+        "ans": 5,
         "aband": 0
       }
     },
-    "WA Marketing - Keep Driving": {
+    "Alex Harrison": {
       "2026-11-20": {
-        "in": 0,
-        "ans": 0,
-        "aband": 0
+        "in": 11,
+        "ans": 10,
+        "aband": 1
       },
       "2026-11-19": {
-        "in": 2,
-        "ans": 0,
-        "aband": 2
+        "in": 12,
+        "ans": 12,
+        "aband": 0
       },
       "2026-11-18": {
-        "in": 15,
-        "ans": 7,
-        "aband": 8
+        "in": 8,
+        "ans": 8,
+        "aband": 0
       },
       "2026-11-17": {
-        "in": 8,
-        "ans": 3,
-        "aband": 5
+        "in": 7,
+        "ans": 7,
+        "aband": 0
       },
       "2026-11-16": {
-        "in": 5,
-        "ans": 2,
-        "aband": 3
+        "in": 6,
+        "ans": 6,
+        "aband": 0
       },
       "2026-11-13": {
-        "in": 7,
-        "ans": 2,
-        "aband": 5
+        "in": 3,
+        "ans": 3,
+        "aband": 0
       },
       "2026-11-12": {
-        "in": 0,
-        "ans": 0,
+        "in": 5,
+        "ans": 5,
         "aband": 0
       },
       "2026-11-11": {
-        "in": 7,
+        "in": 2,
         "ans": 2,
-        "aband": 5
+        "aband": 0
       },
       "2026-11-10": {
-        "in": 11,
-        "ans": 5,
-        "aband": 6
+        "in": 2,
+        "ans": 2,
+        "aband": 0
       },
       "2026-11-09": {
-        "in": 5,
-        "ans": 3,
-        "aband": 2
+        "in": 9,
+        "ans": 9,
+        "aband": 0
+      }
+    }
+  },
+  "queues": {
+    "Accident Management": {
+      "2026-11-20": {
+        "(no queue)": {
+          "in": 15,
+          "ans": 14,
+          "aband": 1
+        }
+      },
+      "2026-11-19": {
+        "(no queue)": {
+          "in": 17,
+          "ans": 13,
+          "aband": 4
+        }
+      },
+      "2026-11-18": {
+        "(no queue)": {
+          "in": 13,
+          "ans": 12,
+          "aband": 1
+        }
+      },
+      "2026-11-17": {
+        "(no queue)": {
+          "in": 10,
+          "ans": 7,
+          "aband": 3
+        }
+      },
+      "2026-11-16": {
+        "(no queue)": {
+          "in": 13,
+          "ans": 11,
+          "aband": 2
+        }
+      },
+      "2026-11-15": {
+        "(no queue)": {
+          "in": 1,
+          "ans": 1,
+          "aband": 0
+        }
+      },
+      "2026-11-13": {
+        "(no queue)": {
+          "in": 11,
+          "ans": 8,
+          "aband": 3
+        }
+      },
+      "2026-11-12": {
+        "(no queue)": {
+          "in": 15,
+          "ans": 11,
+          "aband": 4
+        }
+      },
+      "2026-11-11": {
+        "(no queue)": {
+          "in": 10,
+          "ans": 7,
+          "aband": 3
+        }
+      },
+      "2026-11-10": {
+        "(no queue)": {
+          "in": 9,
+          "ans": 8,
+          "aband": 1
+        }
+      },
+      "2026-11-09": {
+        "(no queue)": {
+          "in": 14,
+          "ans": 13,
+          "aband": 1
+        }
+      },
+      "2026-11-08": {
+        "(no queue)": {
+          "in": 1,
+          "ans": 1,
+          "aband": 0
+        }
+      },
+      "2026-11-07": {
+        "(no queue)": {
+          "in": 5,
+          "ans": 5,
+          "aband": 0
+        }
+      }
+    },
+    "Alex Harrison": {
+      "2026-11-20": {
+        "(no queue)": {
+          "in": 11,
+          "ans": 10,
+          "aband": 1
+        }
+      },
+      "2026-11-19": {
+        "(no queue)": {
+          "in": 12,
+          "ans": 12,
+          "aband": 0
+        }
+      },
+      "2026-11-18": {
+        "(no queue)": {
+          "in": 8,
+          "ans": 8,
+          "aband": 0
+        }
+      },
+      "2026-11-17": {
+        "(no queue)": {
+          "in": 7,
+          "ans": 7,
+          "aband": 0
+        }
+      },
+      "2026-11-16": {
+        "(no queue)": {
+          "in": 6,
+          "ans": 6,
+          "aband": 0
+        }
+      },
+      "2026-11-13": {
+        "(no queue)": {
+          "in": 3,
+          "ans": 3,
+          "aband": 0
+        }
+      },
+      "2026-11-12": {
+        "(no queue)": {
+          "in": 5,
+          "ans": 5,
+          "aband": 0
+        }
+      },
+      "2026-11-11": {
+        "(no queue)": {
+          "in": 2,
+          "ans": 2,
+          "aband": 0
+        }
+      },
+      "2026-11-10": {
+        "(no queue)": {
+          "in": 2,
+          "ans": 2,
+          "aband": 0
+        }
+      },
+      "2026-11-09": {
+        "(no queue)": {
+          "in": 9,
+          "ans": 9,
+          "aband": 0
+        }
       }
     }
   }
