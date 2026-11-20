@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-20T08:32:30Z",
+  "generated": "2026-11-20T08:47:36Z",
   "from": "2026-11-07",
   "to": "2026-11-20",
   "agentNames": [
@@ -8,6 +8,7 @@
     "Alex Harrison"
   ],
   "campaignNames": [
+    "WA Law Group",
     "WA Marketing - Keep Driving"
   ],
   "matchedAgents": [
@@ -17,137 +18,119 @@
     "Simon Warren 2"
   ],
   "matchedCampaigns": [
+    "NSW_ResolveClaimsGroup",
     "WA Keep Driving No Inj",
+    "WA Law Group",
     "WA Marketing - Keep Driving"
   ],
   "agents": {
     "Alex Harrison": {
       "2026-11-20": {
-        "logon": "00:32",
-        "logoff": "06:00",
-        "loggedMin": 328,
+        "logon": "05:56",
+        "logoff": "14:00",
+        "loggedMin": 484,
         "breakMin": 5,
         "lunchMin": 0,
-        "wrapMin": 11,
-        "talkMin": 61,
-        "calls": 27
+        "wrapMin": 15,
+        "talkMin": 84,
+        "calls": 44
       },
       "2026-11-19": {
-        "logon": "00:25",
-        "logoff": "00:32",
-        "loggedMin": 491,
+        "logon": "05:53",
+        "logoff": "14:00",
+        "loggedMin": 488,
         "breakMin": 6,
         "lunchMin": 0,
-        "wrapMin": 21,
-        "talkMin": 84,
-        "calls": 47
+        "wrapMin": 27,
+        "talkMin": 80,
+        "calls": 50
       },
       "2026-11-18": {
-        "logon": "00:00",
-        "logoff": "00:25",
-        "loggedMin": 514,
+        "logon": "05:56",
+        "logoff": "14:00",
+        "loggedMin": 485,
         "breakMin": 8,
         "lunchMin": 0,
-        "wrapMin": 19,
-        "talkMin": 39,
-        "calls": 29
+        "wrapMin": 11,
+        "talkMin": 24,
+        "calls": 14
       },
       "2026-11-17": {
-        "logon": "00:02",
-        "logoff": "00:00",
-        "loggedMin": 482,
+        "logon": "05:57",
+        "logoff": "14:00",
+        "loggedMin": 483,
         "breakMin": 23,
         "lunchMin": 0,
         "wrapMin": 8,
-        "talkMin": 52,
-        "calls": 18
+        "talkMin": 51,
+        "calls": 17
       },
       "2026-11-16": {
-        "logon": "00:32",
-        "logoff": "00:02",
-        "loggedMin": 455,
+        "logon": "05:52",
+        "logoff": "14:01",
+        "loggedMin": 490,
         "breakMin": 13,
         "lunchMin": 0,
-        "wrapMin": 11,
-        "talkMin": 33,
-        "calls": 13
-      },
-      "2026-11-15": {
-        "logon": "21:52",
-        "logoff": "00:32",
-        "loggedMin": 160,
-        "breakMin": 0,
-        "lunchMin": 0,
-        "wrapMin": 7,
-        "talkMin": 19,
-        "calls": 8
+        "wrapMin": 17,
+        "talkMin": 49,
+        "calls": 17
       },
       "2026-11-13": {
-        "logon": "00:02",
-        "logoff": "06:01",
-        "loggedMin": 359,
+        "logon": "05:55",
+        "logoff": "14:01",
+        "loggedMin": 486,
         "breakMin": 21,
         "lunchMin": 0,
         "wrapMin": 9,
-        "talkMin": 52,
-        "calls": 13
+        "talkMin": 66,
+        "calls": 15
       },
       "2026-11-12": {
-        "logon": "00:13",
-        "logoff": "00:02",
-        "loggedMin": 474,
+        "logon": "05:57",
+        "logoff": "14:00",
+        "loggedMin": 483,
         "breakMin": 21,
         "lunchMin": 0,
         "wrapMin": 3,
-        "talkMin": 46,
-        "calls": 10
+        "talkMin": 34,
+        "calls": 11
       },
       "2026-11-11": {
-        "logon": "00:05",
-        "logoff": "00:13",
-        "loggedMin": 492,
+        "logon": "05:45",
+        "logoff": "14:01",
+        "loggedMin": 497,
         "breakMin": 8,
         "lunchMin": 0,
         "wrapMin": 6,
-        "talkMin": 34,
-        "calls": 14
+        "talkMin": 33,
+        "calls": 12
       },
       "2026-11-10": {
-        "logon": "01:07",
-        "logoff": "00:05",
-        "loggedMin": 439,
-        "breakMin": 14,
+        "logon": "05:50",
+        "logoff": "14:06",
+        "loggedMin": 496,
+        "breakMin": 21,
         "lunchMin": 0,
-        "wrapMin": 2,
-        "talkMin": 13,
-        "calls": 5
+        "wrapMin": 1,
+        "talkMin": 25,
+        "calls": 7
       },
       "2026-11-09": {
-        "logon": "00:06",
-        "logoff": "01:07",
-        "loggedMin": 557,
+        "logon": "05:44",
+        "logoff": "14:07",
+        "loggedMin": 502,
         "breakMin": 22,
         "lunchMin": 0,
-        "wrapMin": 26,
-        "talkMin": 30,
-        "calls": 18
-      },
-      "2026-11-08": {
-        "logon": "21:44",
-        "logoff": "00:06",
-        "loggedMin": 142,
-        "breakMin": 6,
-        "lunchMin": 0,
-        "wrapMin": 4,
-        "talkMin": 4,
-        "calls": 4
+        "wrapMin": 30,
+        "talkMin": 21,
+        "calls": 19
       }
     },
     "Andrew Aremu": {
       "2026-11-20": {
-        "logon": "00:41",
-        "logoff": "08:01",
-        "loggedMin": 439,
+        "logon": "07:32",
+        "logoff": "16:01",
+        "loggedMin": 509,
         "breakMin": 156,
         "lunchMin": 0,
         "wrapMin": 4,
@@ -155,9 +138,9 @@
         "calls": 6
       },
       "2026-11-19": {
-        "logon": "01:37",
-        "logoff": "00:41",
-        "loggedMin": 479,
+        "logon": "07:58",
+        "logoff": "16:26",
+        "loggedMin": 508,
         "breakMin": 0,
         "lunchMin": 0,
         "wrapMin": 4,
@@ -165,9 +148,9 @@
         "calls": 10
       },
       "2026-11-18": {
-        "logon": "01:08",
-        "logoff": "01:37",
-        "loggedMin": 512,
+        "logon": "09:08",
+        "logoff": "16:02",
+        "loggedMin": 413,
         "breakMin": 6,
         "lunchMin": 0,
         "wrapMin": 2,
@@ -175,9 +158,9 @@
         "calls": 7
       },
       "2026-11-17": {
-        "logon": "00:03",
-        "logoff": "08:02",
-        "loggedMin": 479,
+        "logon": "07:57",
+        "logoff": "16:02",
+        "loggedMin": 485,
         "breakMin": 146,
         "lunchMin": 0,
         "wrapMin": 6,
@@ -185,28 +168,18 @@
         "calls": 4
       },
       "2026-11-16": {
-        "logon": "00:07",
-        "logoff": "00:03",
-        "loggedMin": 480,
+        "logon": "07:55",
+        "logoff": "16:01",
+        "loggedMin": 486,
         "breakMin": 84,
         "lunchMin": 0,
         "wrapMin": 6,
         "talkMin": 13,
         "calls": 9
       },
-      "2026-11-15": {
-        "logon": "23:55",
-        "logoff": "00:07",
-        "loggedMin": 12,
-        "breakMin": 0,
-        "lunchMin": 0,
-        "wrapMin": 0,
-        "talkMin": 0,
-        "calls": 0
-      },
       "2026-11-13": {
-        "logon": "00:02",
-        "logoff": "08:13",
+        "logon": "08:02",
+        "logoff": "16:13",
         "loggedMin": 491,
         "breakMin": 74,
         "lunchMin": 0,
@@ -215,9 +188,9 @@
         "calls": 5
       },
       "2026-11-12": {
-        "logon": "00:11",
-        "logoff": "08:01",
-        "loggedMin": 471,
+        "logon": "07:55",
+        "logoff": "16:01",
+        "loggedMin": 486,
         "breakMin": 79,
         "lunchMin": 0,
         "wrapMin": 4,
@@ -225,9 +198,9 @@
         "calls": 9
       },
       "2026-11-11": {
-        "logon": "00:20",
-        "logoff": "00:11",
-        "loggedMin": 476,
+        "logon": "08:20",
+        "logoff": "16:00",
+        "loggedMin": 461,
         "breakMin": 1,
         "lunchMin": 0,
         "wrapMin": 1,
@@ -235,8 +208,8 @@
         "calls": 7
       },
       "2026-11-10": {
-        "logon": "00:01",
-        "logoff": "08:00",
+        "logon": "08:01",
+        "logoff": "16:00",
         "loggedMin": 479,
         "breakMin": 3,
         "lunchMin": 0,
@@ -245,30 +218,20 @@
         "calls": 4
       },
       "2026-11-09": {
-        "logon": "03:16",
-        "logoff": "08:00",
-        "loggedMin": 284,
+        "logon": "06:29",
+        "logoff": "16:00",
+        "loggedMin": 571,
         "breakMin": 8,
         "lunchMin": 0,
         "wrapMin": 6,
         "talkMin": 25,
         "calls": 6
-      },
-      "2026-11-08": {
-        "logon": "22:29",
-        "logoff": "03:16",
-        "loggedMin": 286,
-        "breakMin": 0,
-        "lunchMin": 0,
-        "wrapMin": 0,
-        "talkMin": 0,
-        "calls": 0
       }
     },
     "Simon Warren": {
       "2026-11-20": {
-        "logon": "03:13",
-        "logoff": "03:17",
+        "logon": "11:13",
+        "logoff": "11:17",
         "loggedMin": 4,
         "breakMin": 0,
         "lunchMin": 0,
@@ -277,8 +240,8 @@
         "calls": 2
       },
       "2026-11-19": {
-        "logon": "03:25",
-        "logoff": "03:13",
+        "logon": "11:25",
+        "logoff": "11:13",
         "loggedMin": 1428,
         "breakMin": 0,
         "lunchMin": 0,
@@ -287,8 +250,8 @@
         "calls": 8
       },
       "2026-11-18": {
-        "logon": "03:38",
-        "logoff": "03:25",
+        "logon": "11:38",
+        "logoff": "11:25",
         "loggedMin": 1427,
         "breakMin": 0,
         "lunchMin": 0,
@@ -297,8 +260,8 @@
         "calls": 1
       },
       "2026-11-13": {
-        "logon": "01:28",
-        "logoff": "03:38",
+        "logon": "09:28",
+        "logoff": "11:38",
         "loggedMin": 7330,
         "breakMin": 0,
         "lunchMin": 0,
@@ -309,6 +272,58 @@
     }
   },
   "campaigns": {
+    "WA Law Group": {
+      "2026-11-20": {
+        "in": 0,
+        "ans": 0,
+        "aband": 0
+      },
+      "2026-11-19": {
+        "in": 4,
+        "ans": 4,
+        "aband": 0
+      },
+      "2026-11-18": {
+        "in": 10,
+        "ans": 8,
+        "aband": 2
+      },
+      "2026-11-17": {
+        "in": 6,
+        "ans": 5,
+        "aband": 1
+      },
+      "2026-11-16": {
+        "in": 0,
+        "ans": 0,
+        "aband": 0
+      },
+      "2026-11-13": {
+        "in": 4,
+        "ans": 4,
+        "aband": 0
+      },
+      "2026-11-12": {
+        "in": 3,
+        "ans": 3,
+        "aband": 0
+      },
+      "2026-11-11": {
+        "in": 4,
+        "ans": 3,
+        "aband": 1
+      },
+      "2026-11-10": {
+        "in": 3,
+        "ans": 3,
+        "aband": 0
+      },
+      "2026-11-09": {
+        "in": 2,
+        "ans": 2,
+        "aband": 0
+      }
+    },
     "WA Marketing - Keep Driving": {
       "2026-11-20": {
         "in": 0,
