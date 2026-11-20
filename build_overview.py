@@ -40,7 +40,7 @@ SPEND_CSV_URL = ("https://docs.google.com/spreadsheets/d/e/2PACX-1vSEIOq_0n-xt5o
 SALE_HIRE            = "Hire & Repair - UK"
 SALE_TRANSFER        = "Transferred - UK"
 SALE_TRANSFER_NUMBERS = {"447438475625", "447436471637"}
-SALE_EXCLUDE_NUMBERS  = {"447423588163", "447340003433", "447827418179"}
+SALE_EXCLUDE_NUMBERS  = {"447423588163", "447340003433", "447827418179", "447415162223"}
 ABANDON_ID    = "100aeb42-7c9a-443c-8aa9-d850f14fd1d1"   # "Inbound Abandon" (not in /selectable)
 # in-shift windows for the dropped-call rate (UK weekday: Mon=0 .. Sun=6)
 SHIFT_HOURS = {0:(8,20), 1:(8,20), 2:(8,20), 3:(8,20), 4:(14,18), 5:(15,19), 6:(8,16)}
