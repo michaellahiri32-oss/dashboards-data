@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-20T21:03:38Z",
-  "from": "2026-11-07",
-  "to": "2026-11-20",
+  "generated": "2026-11-21T08:03:12Z",
+  "from": "2026-11-08",
+  "to": "2026-11-21",
   "agentNames": [
     "Andrew Aremu",
     "Simon Warren",
@@ -288,9 +288,9 @@
       "2026-11-20": {
         "logon": "10:32",
         "logonUk": "23:32",
-        "logoff": "19:01",
-        "logoffUk": "08:01",
-        "loggedMin": 509,
+        "logoff": "18:23",
+        "logoffUk": "07:23",
+        "loggedMin": 1632,
         "breakMin": 156,
         "lunchMin": 0,
         "wrapMin": 4,
@@ -602,6 +602,11 @@
   },
   "campaigns": {
     "Accident Management": {
+      "2026-11-21": {
+        "in": 4,
+        "ans": 3,
+        "aband": 1
+      },
       "2026-11-20": {
         "in": 15,
         "ans": 14,
@@ -661,11 +666,6 @@
         "in": 1,
         "ans": 1,
         "aband": 0
-      },
-      "2026-11-07": {
-        "in": 5,
-        "ans": 5,
-        "aband": 0
       }
     },
     "Alex Harrison": {
@@ -723,6 +723,18 @@
   },
   "queues": {
     "Accident Management": {
+      "2026-11-21": {
+        "ResolveClaimsGroup": {
+          "in": 1,
+          "ans": 0,
+          "aband": 1
+        },
+        "UK-Accident-Management": {
+          "in": 3,
+          "ans": 3,
+          "aband": 0
+        }
+      },
       "2026-11-20": {
         "Keep-Driving-INB": {
           "in": 5,
@@ -1004,13 +1016,6 @@
         "UK-Accident-Management": {
           "in": 1,
           "ans": 1,
-          "aband": 0
-        }
-      },
-      "2026-11-07": {
-        "UK-Accident-Management": {
-          "in": 5,
-          "ans": 5,
           "aband": 0
         }
       }
