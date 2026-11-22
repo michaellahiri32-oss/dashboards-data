@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-11-22T11:10:14+00:00",
+  "updated": "2026-11-22T11:20:03+00:00",
   "period": {
     "day": "2026-11-22",
     "month": "2026-11"
@@ -38,7 +38,7 @@
         },
         "2026-10": {
           "leads": 61,
-          "calls": 894,
+          "calls": 893,
           "wind": 3,
           "pi": 1,
           "weLeads": 1,
@@ -181,8 +181,8 @@
       "id": "james-bridgwood",
       "leadsToday": 3,
       "leadsMonth": 74,
-      "callsToday": 50,
-      "callsMonth": 1354,
+      "callsToday": 55,
+      "callsMonth": 1359,
       "windToday": 0,
       "windMonth": 2,
       "piToday": 0,
@@ -190,11 +190,11 @@
       "byMonth": {
         "2026-11": {
           "leads": 74,
-          "calls": 1354,
+          "calls": 1359,
           "wind": 2,
           "pi": 4,
           "weLeads": 20,
-          "weCalls": 283,
+          "weCalls": 288,
           "weWind": 0,
           "wePi": 0
         },
@@ -252,7 +252,7 @@
       "byDay": {
         "2026-11-22": {
           "leads": 3,
-          "calls": 50,
+          "calls": 55,
           "wind": 0,
           "pi": 0
         },
@@ -418,7 +418,7 @@
         },
         "2026-09": {
           "leads": 56,
-          "calls": 678,
+          "calls": 677,
           "wind": 1,
           "pi": 0,
           "weLeads": 0,
@@ -721,8 +721,8 @@
       "id": "mel-abbott",
       "leadsToday": 3,
       "leadsMonth": 25,
-      "callsToday": 38,
-      "callsMonth": 321,
+      "callsToday": 44,
+      "callsMonth": 327,
       "windToday": 0,
       "windMonth": 0,
       "piToday": 0,
@@ -730,11 +730,11 @@
       "byMonth": {
         "2026-11": {
           "leads": 25,
-          "calls": 321,
+          "calls": 327,
           "wind": 0,
           "pi": 0,
           "weLeads": 22,
-          "weCalls": 265,
+          "weCalls": 271,
           "weWind": 0,
           "wePi": 0
         },
@@ -792,7 +792,7 @@
       "byDay": {
         "2026-11-22": {
           "leads": 3,
-          "calls": 38,
+          "calls": 44,
           "wind": 0,
           "pi": 0
         },
