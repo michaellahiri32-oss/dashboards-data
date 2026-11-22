@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-11-22T15:20:03+00:00",
+  "updated": "2026-11-22T15:30:14+00:00",
   "period": {
     "day": "2026-11-22",
     "month": "2026-11"
@@ -20,7 +20,7 @@
       "leadsToday": 0,
       "leadsMonth": 77,
       "callsToday": 0,
-      "callsMonth": 1358,
+      "callsMonth": 1359,
       "windToday": 0,
       "windMonth": 12,
       "piToday": 0,
@@ -28,7 +28,7 @@
       "byMonth": {
         "2026-11": {
           "leads": 77,
-          "calls": 1358,
+          "calls": 1359,
           "wind": 12,
           "pi": 5,
           "weLeads": 5,
@@ -170,7 +170,7 @@
         },
         "2026-11-02": {
           "leads": 4,
-          "calls": 53,
+          "calls": 54,
           "wind": 1,
           "pi": 0
         }
@@ -179,22 +179,22 @@
     {
       "name": "James Bridgwood",
       "id": "james-bridgwood",
-      "leadsToday": 4,
-      "leadsMonth": 75,
-      "callsToday": 131,
-      "callsMonth": 1435,
+      "leadsToday": 5,
+      "leadsMonth": 76,
+      "callsToday": 134,
+      "callsMonth": 1439,
       "windToday": 0,
       "windMonth": 2,
       "piToday": 0,
       "piMonth": 4,
       "byMonth": {
         "2026-11": {
-          "leads": 75,
-          "calls": 1435,
+          "leads": 76,
+          "calls": 1439,
           "wind": 2,
           "pi": 4,
-          "weLeads": 21,
-          "weCalls": 364,
+          "weLeads": 22,
+          "weCalls": 368,
           "weWind": 0,
           "wePi": 0
         },
@@ -251,8 +251,8 @@
       },
       "byDay": {
         "2026-11-22": {
-          "leads": 4,
-          "calls": 131,
+          "leads": 5,
+          "calls": 134,
           "wind": 0,
           "pi": 0
         },
@@ -294,7 +294,7 @@
         },
         "2026-11-15": {
           "leads": 4,
-          "calls": 46,
+          "calls": 47,
           "wind": 0,
           "pi": 0
         },
@@ -721,8 +721,8 @@
       "id": "mel-abbott",
       "leadsToday": 5,
       "leadsMonth": 27,
-      "callsToday": 113,
-      "callsMonth": 396,
+      "callsToday": 118,
+      "callsMonth": 401,
       "windToday": 0,
       "windMonth": 0,
       "piToday": 0,
@@ -730,11 +730,11 @@
       "byMonth": {
         "2026-11": {
           "leads": 27,
-          "calls": 396,
+          "calls": 401,
           "wind": 0,
           "pi": 0,
           "weLeads": 24,
-          "weCalls": 340,
+          "weCalls": 345,
           "weWind": 0,
           "wePi": 0
         },
@@ -792,7 +792,7 @@
       "byDay": {
         "2026-11-22": {
           "leads": 5,
-          "calls": 113,
+          "calls": 118,
           "wind": 0,
           "pi": 0
         },
