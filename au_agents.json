@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-21T21:03:14Z",
-  "from": "2026-11-08",
-  "to": "2026-11-21",
+  "generated": "2026-11-22T08:03:07Z",
+  "from": "2026-11-09",
+  "to": "2026-11-22",
   "agentNames": [
     "Andrew Aremu",
     "Simon Warren",
@@ -602,6 +602,11 @@
   },
   "campaigns": {
     "Accident Management": {
+      "2026-11-22": {
+        "in": 2,
+        "ans": 1,
+        "aband": 1
+      },
       "2026-11-21": {
         "in": 4,
         "ans": 3,
@@ -661,11 +666,6 @@
         "in": 14,
         "ans": 13,
         "aband": 1
-      },
-      "2026-11-08": {
-        "in": 1,
-        "ans": 1,
-        "aband": 0
       }
     },
     "Alex Harrison": {
@@ -723,6 +723,18 @@
   },
   "queues": {
     "Accident Management": {
+      "2026-11-22": {
+        "ResolveClaimsGroup": {
+          "in": 1,
+          "ans": 0,
+          "aband": 1
+        },
+        "UK-Accident-Management": {
+          "in": 1,
+          "ans": 1,
+          "aband": 0
+        }
+      },
       "2026-11-21": {
         "ResolveClaimsGroup": {
           "in": 1,
@@ -1009,13 +1021,6 @@
         "WAClaimsGroupWALAW": {
           "in": 2,
           "ans": 2,
-          "aband": 0
-        }
-      },
-      "2026-11-08": {
-        "UK-Accident-Management": {
-          "in": 1,
-          "ans": 1,
           "aband": 0
         }
       }
