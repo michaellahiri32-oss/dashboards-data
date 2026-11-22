@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-11-22T10:50:03+00:00",
+  "updated": "2026-11-22T11:00:14+00:00",
   "period": {
     "day": "2026-11-22",
     "month": "2026-11"
@@ -179,22 +179,22 @@
     {
       "name": "James Bridgwood",
       "id": "james-bridgwood",
-      "leadsToday": 2,
-      "leadsMonth": 73,
-      "callsToday": 39,
-      "callsMonth": 1343,
+      "leadsToday": 3,
+      "leadsMonth": 74,
+      "callsToday": 43,
+      "callsMonth": 1347,
       "windToday": 0,
       "windMonth": 2,
       "piToday": 0,
       "piMonth": 4,
       "byMonth": {
         "2026-11": {
-          "leads": 73,
-          "calls": 1343,
+          "leads": 74,
+          "calls": 1347,
           "wind": 2,
           "pi": 4,
-          "weLeads": 19,
-          "weCalls": 272,
+          "weLeads": 20,
+          "weCalls": 276,
           "weWind": 0,
           "wePi": 0
         },
@@ -251,8 +251,8 @@
       },
       "byDay": {
         "2026-11-22": {
-          "leads": 2,
-          "calls": 39,
+          "leads": 3,
+          "calls": 43,
           "wind": 0,
           "pi": 0
         },
@@ -717,6 +717,172 @@
       }
     },
     {
+      "name": "Mel Abbott",
+      "id": "mel-abbott",
+      "leadsToday": 3,
+      "leadsMonth": 25,
+      "callsToday": 33,
+      "callsMonth": 316,
+      "windToday": 0,
+      "windMonth": 0,
+      "piToday": 0,
+      "piMonth": 0,
+      "byMonth": {
+        "2026-11": {
+          "leads": 25,
+          "calls": 316,
+          "wind": 0,
+          "pi": 0,
+          "weLeads": 22,
+          "weCalls": 260,
+          "weWind": 0,
+          "wePi": 0
+        },
+        "2026-10": {
+          "leads": 35,
+          "calls": 257,
+          "wind": 0,
+          "pi": 0,
+          "weLeads": 28,
+          "weCalls": 204,
+          "weWind": 0,
+          "wePi": 0
+        },
+        "2026-09": {
+          "leads": 73,
+          "calls": 723,
+          "wind": 3,
+          "pi": 0,
+          "weLeads": 31,
+          "weCalls": 275,
+          "weWind": 1,
+          "wePi": 0
+        },
+        "2026-08": {
+          "leads": 63,
+          "calls": 574,
+          "wind": 4,
+          "pi": 0,
+          "weLeads": 30,
+          "weCalls": 225,
+          "weWind": 2,
+          "wePi": 0
+        },
+        "2026-07": {
+          "leads": 90,
+          "calls": 934,
+          "wind": 0,
+          "pi": 0,
+          "weLeads": 26,
+          "weCalls": 208,
+          "weWind": 0,
+          "wePi": 0
+        },
+        "2026-06": {
+          "leads": 8,
+          "calls": 62,
+          "wind": 0,
+          "pi": 0,
+          "weLeads": 0,
+          "weCalls": 0,
+          "weWind": 0,
+          "wePi": 0
+        }
+      },
+      "byDay": {
+        "2026-11-22": {
+          "leads": 3,
+          "calls": 33,
+          "wind": 0,
+          "pi": 0
+        },
+        "2026-11-21": {
+          "leads": 1,
+          "calls": 12,
+          "wind": 0,
+          "pi": 0
+        },
+        "2026-11-20": {
+          "leads": 1,
+          "calls": 2,
+          "wind": 0,
+          "pi": 0
+        },
+        "2026-11-19": {
+          "leads": 0,
+          "calls": 11,
+          "wind": 0,
+          "pi": 0
+        },
+        "2026-11-15": {
+          "leads": 5,
+          "calls": 60,
+          "wind": 0,
+          "pi": 0
+        },
+        "2026-11-14": {
+          "leads": 2,
+          "calls": 20,
+          "wind": 0,
+          "pi": 0
+        },
+        "2026-11-12": {
+          "leads": 1,
+          "calls": 7,
+          "wind": 0,
+          "pi": 0
+        },
+        "2026-11-09": {
+          "leads": 1,
+          "calls": 13,
+          "wind": 0,
+          "pi": 0
+        },
+        "2026-11-08": {
+          "leads": 8,
+          "calls": 62,
+          "wind": 0,
+          "pi": 0
+        },
+        "2026-11-07": {
+          "leads": 2,
+          "calls": 41,
+          "wind": 0,
+          "pi": 0
+        },
+        "2026-11-06": {
+          "leads": 0,
+          "calls": 9,
+          "wind": 0,
+          "pi": 0
+        },
+        "2026-11-05": {
+          "leads": 0,
+          "calls": 7,
+          "wind": 0,
+          "pi": 0
+        },
+        "2026-11-03": {
+          "leads": 0,
+          "calls": 6,
+          "wind": 0,
+          "pi": 0
+        },
+        "2026-11-02": {
+          "leads": 0,
+          "calls": 1,
+          "wind": 0,
+          "pi": 0
+        },
+        "2026-11-01": {
+          "leads": 1,
+          "calls": 32,
+          "wind": 0,
+          "pi": 0
+        }
+      }
+    },
+    {
       "name": "Marlon Albohaithi",
       "id": "marlon-albohaithi",
       "leadsToday": 0,
@@ -847,172 +1013,6 @@
         "2026-11-05": {
           "leads": 1,
           "calls": 57,
-          "wind": 0,
-          "pi": 0
-        }
-      }
-    },
-    {
-      "name": "Mel Abbott",
-      "id": "mel-abbott",
-      "leadsToday": 2,
-      "leadsMonth": 24,
-      "callsToday": 30,
-      "callsMonth": 313,
-      "windToday": 0,
-      "windMonth": 0,
-      "piToday": 0,
-      "piMonth": 0,
-      "byMonth": {
-        "2026-11": {
-          "leads": 24,
-          "calls": 313,
-          "wind": 0,
-          "pi": 0,
-          "weLeads": 21,
-          "weCalls": 257,
-          "weWind": 0,
-          "wePi": 0
-        },
-        "2026-10": {
-          "leads": 35,
-          "calls": 257,
-          "wind": 0,
-          "pi": 0,
-          "weLeads": 28,
-          "weCalls": 204,
-          "weWind": 0,
-          "wePi": 0
-        },
-        "2026-09": {
-          "leads": 73,
-          "calls": 723,
-          "wind": 3,
-          "pi": 0,
-          "weLeads": 31,
-          "weCalls": 275,
-          "weWind": 1,
-          "wePi": 0
-        },
-        "2026-08": {
-          "leads": 63,
-          "calls": 574,
-          "wind": 4,
-          "pi": 0,
-          "weLeads": 30,
-          "weCalls": 225,
-          "weWind": 2,
-          "wePi": 0
-        },
-        "2026-07": {
-          "leads": 90,
-          "calls": 934,
-          "wind": 0,
-          "pi": 0,
-          "weLeads": 26,
-          "weCalls": 208,
-          "weWind": 0,
-          "wePi": 0
-        },
-        "2026-06": {
-          "leads": 8,
-          "calls": 62,
-          "wind": 0,
-          "pi": 0,
-          "weLeads": 0,
-          "weCalls": 0,
-          "weWind": 0,
-          "wePi": 0
-        }
-      },
-      "byDay": {
-        "2026-11-22": {
-          "leads": 2,
-          "calls": 30,
-          "wind": 0,
-          "pi": 0
-        },
-        "2026-11-21": {
-          "leads": 1,
-          "calls": 12,
-          "wind": 0,
-          "pi": 0
-        },
-        "2026-11-20": {
-          "leads": 1,
-          "calls": 2,
-          "wind": 0,
-          "pi": 0
-        },
-        "2026-11-19": {
-          "leads": 0,
-          "calls": 11,
-          "wind": 0,
-          "pi": 0
-        },
-        "2026-11-15": {
-          "leads": 5,
-          "calls": 60,
-          "wind": 0,
-          "pi": 0
-        },
-        "2026-11-14": {
-          "leads": 2,
-          "calls": 20,
-          "wind": 0,
-          "pi": 0
-        },
-        "2026-11-12": {
-          "leads": 1,
-          "calls": 7,
-          "wind": 0,
-          "pi": 0
-        },
-        "2026-11-09": {
-          "leads": 1,
-          "calls": 13,
-          "wind": 0,
-          "pi": 0
-        },
-        "2026-11-08": {
-          "leads": 8,
-          "calls": 62,
-          "wind": 0,
-          "pi": 0
-        },
-        "2026-11-07": {
-          "leads": 2,
-          "calls": 41,
-          "wind": 0,
-          "pi": 0
-        },
-        "2026-11-06": {
-          "leads": 0,
-          "calls": 9,
-          "wind": 0,
-          "pi": 0
-        },
-        "2026-11-05": {
-          "leads": 0,
-          "calls": 7,
-          "wind": 0,
-          "pi": 0
-        },
-        "2026-11-03": {
-          "leads": 0,
-          "calls": 6,
-          "wind": 0,
-          "pi": 0
-        },
-        "2026-11-02": {
-          "leads": 0,
-          "calls": 1,
-          "wind": 0,
-          "pi": 0
-        },
-        "2026-11-01": {
-          "leads": 1,
-          "calls": 32,
           "wind": 0,
           "pi": 0
         }
