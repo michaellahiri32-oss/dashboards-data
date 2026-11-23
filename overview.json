@@ -1,9 +1,9 @@
 {
   "day": "2026-11-23",
-  "calls": 114,
+  "calls": 147,
   "instructs": 1,
-  "dropped": 13,
-  "droppedPct": 11.4,
+  "dropped": 30,
+  "droppedPct": 20.41,
   "spend": 1181.81,
   "cpi": 1181.81,
   "history": {
@@ -200,20 +200,20 @@
       "droppedPct": 13.24
     },
     "2026-10-19": {
-      "calls": 180,
+      "calls": 179,
       "instructs": 9,
       "spend": 6669.91,
       "cpi": 741.1,
       "dropped": 5,
-      "droppedPct": 2.82
+      "droppedPct": 2.84
     },
     "2026-10-20": {
-      "calls": 149,
+      "calls": 150,
       "instructs": 11,
       "spend": 5000.22,
       "cpi": 454.57,
       "dropped": 10,
-      "droppedPct": 6.85
+      "droppedPct": 6.8
     },
     "2026-10-21": {
       "calls": 202,
@@ -320,12 +320,12 @@
       "droppedPct": 2.31
     },
     "2026-11-03": {
-      "calls": 342,
+      "calls": 341,
       "instructs": 19,
       "spend": 12325.52,
       "cpi": 648.71,
       "dropped": 34,
-      "droppedPct": 10.18
+      "droppedPct": 10.21
     },
     "2026-11-04": {
       "calls": 262,
@@ -448,12 +448,12 @@
       "droppedPct": 4.44
     },
     "2026-11-19": {
-      "calls": 1011,
+      "calls": 1012,
       "instructs": 25,
       "spend": 18524.86,
       "cpi": 740.99,
       "dropped": 58,
-      "droppedPct": 5.75
+      "droppedPct": 5.74
     },
     "2026-11-20": {
       "calls": 361,
@@ -480,19 +480,19 @@
       "droppedPct": 38.13
     },
     "2026-11-23": {
-      "calls": 114,
+      "calls": 147,
       "instructs": 1,
       "spend": 1181.81,
       "cpi": 1181.81,
-      "dropped": 13,
-      "droppedPct": 11.4
+      "dropped": 30,
+      "droppedPct": 20.41
     }
   },
   "updated": {
-    "connex": "2026-11-23T09:31:57+00:00",
-    "spend_asof": "2026-11-23T09:31:57+00:00",
+    "connex": "2026-11-23T09:46:56+00:00",
+    "spend_asof": "2026-11-23T09:46:56+00:00",
     "spend_updated": "2026-11-23T09:29:40Z",
     "spend_latest_day": "2026-11-23"
   },
-  "built": "2026-11-23T09:31:57+00:00"
+  "built": "2026-11-23T09:46:56+00:00"
 }
