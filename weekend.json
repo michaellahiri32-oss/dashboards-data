@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-23T10:02:46Z",
+  "generated": "2026-11-23T10:07:07Z",
   "from": "2026-09-01",
   "rows": [
     {
@@ -10,6 +10,9 @@
       "instructs": 7,
       "conv": 15.6,
       "cpi": null,
+      "offered": 39,
+      "drops": 2,
+      "dropPct": 5.1,
       "staff": 2
     },
     {
@@ -20,6 +23,9 @@
       "instructs": 11,
       "conv": 10.1,
       "cpi": null,
+      "offered": 103,
+      "drops": 13,
+      "dropPct": 12.6,
       "staff": 2
     },
     {
@@ -30,6 +36,9 @@
       "instructs": 4,
       "conv": 9.3,
       "cpi": null,
+      "offered": 39,
+      "drops": 2,
+      "dropPct": 5.1,
       "staff": 3
     },
     {
@@ -40,6 +49,9 @@
       "instructs": 11,
       "conv": 13.8,
       "cpi": null,
+      "offered": 79,
+      "drops": 10,
+      "dropPct": 12.7,
       "staff": 2
     },
     {
@@ -50,6 +62,9 @@
       "instructs": 4,
       "conv": 10.3,
       "cpi": 360.29,
+      "offered": 36,
+      "drops": 0,
+      "dropPct": 0.0,
       "staff": 3
     },
     {
@@ -60,6 +75,9 @@
       "instructs": 8,
       "conv": 10.3,
       "cpi": 372.39,
+      "offered": 77,
+      "drops": 2,
+      "dropPct": 2.6,
       "staff": 3
     },
     {
@@ -70,6 +88,9 @@
       "instructs": 16,
       "conv": 9.2,
       "cpi": 477.02,
+      "offered": 170,
+      "drops": 83,
+      "dropPct": 48.8,
       "staff": 2
     },
     {
@@ -80,6 +101,9 @@
       "instructs": 14,
       "conv": 5.8,
       "cpi": 798.44,
+      "offered": 233,
+      "drops": 78,
+      "dropPct": 33.5,
       "staff": 2
     },
     {
@@ -90,6 +114,9 @@
       "instructs": 5,
       "conv": 12.8,
       "cpi": 187.05,
+      "offered": 33,
+      "drops": 3,
+      "dropPct": 9.1,
       "staff": 3
     },
     {
@@ -100,6 +127,9 @@
       "instructs": 10,
       "conv": 21.3,
       "cpi": 161.07,
+      "offered": 44,
+      "drops": 11,
+      "dropPct": 25.0,
       "staff": 2
     },
     {
@@ -110,6 +140,9 @@
       "instructs": 6,
       "conv": 8.0,
       "cpi": 577.89,
+      "offered": 74,
+      "drops": 9,
+      "dropPct": 12.2,
       "staff": 2
     },
     {
@@ -120,6 +153,9 @@
       "instructs": 12,
       "conv": 11.1,
       "cpi": 406.5,
+      "offered": 108,
+      "drops": 30,
+      "dropPct": 27.8,
       "staff": 2
     },
     {
@@ -130,6 +166,9 @@
       "instructs": 7,
       "conv": 10.6,
       "cpi": 440.62,
+      "offered": 66,
+      "drops": 6,
+      "dropPct": 9.1,
       "staff": 3
     },
     {
@@ -140,6 +179,9 @@
       "instructs": 10,
       "conv": 7.3,
       "cpi": 651.4,
+      "offered": 136,
+      "drops": 18,
+      "dropPct": 13.2,
       "staff": 3
     },
     {
@@ -150,6 +192,9 @@
       "instructs": 9,
       "conv": 13.6,
       "cpi": 255.87,
+      "offered": 60,
+      "drops": 9,
+      "dropPct": 15.0,
       "staff": 2
     },
     {
@@ -160,6 +205,9 @@
       "instructs": 2,
       "conv": 1.8,
       "cpi": 2098.62,
+      "offered": 111,
+      "drops": 14,
+      "dropPct": 12.6,
       "staff": 2
     },
     {
@@ -170,6 +218,9 @@
       "instructs": 7,
       "conv": 7.9,
       "cpi": 646.14,
+      "offered": 75,
+      "drops": 9,
+      "dropPct": 12.0,
       "staff": 2
     },
     {
@@ -180,6 +231,9 @@
       "instructs": 3,
       "conv": 3.3,
       "cpi": 1488.1,
+      "offered": 90,
+      "drops": 6,
+      "dropPct": 6.7,
       "staff": 3
     },
     {
@@ -190,6 +244,9 @@
       "instructs": 5,
       "conv": 4.3,
       "cpi": 1281.73,
+      "offered": 109,
+      "drops": 33,
+      "dropPct": 30.3,
       "staff": 2
     },
     {
@@ -200,6 +257,9 @@
       "instructs": 12,
       "conv": 6.0,
       "cpi": 1061.61,
+      "offered": 193,
+      "drops": 66,
+      "dropPct": 34.2,
       "staff": 2
     },
     {
@@ -210,6 +270,9 @@
       "instructs": 6,
       "conv": 6.4,
       "cpi": 858.67,
+      "offered": 90,
+      "drops": 11,
+      "dropPct": 12.2,
       "staff": 3
     },
     {
@@ -220,6 +283,9 @@
       "instructs": 14,
       "conv": 6.1,
       "cpi": 601.68,
+      "offered": 223,
+      "drops": 17,
+      "dropPct": 7.6,
       "staff": 3
     },
     {
@@ -230,6 +296,9 @@
       "instructs": 9,
       "conv": 4.7,
       "cpi": 819.88,
+      "offered": 186,
+      "drops": 64,
+      "dropPct": 34.4,
       "staff": 3
     },
     {
@@ -240,6 +309,9 @@
       "instructs": 11,
       "conv": 2.5,
       "cpi": 1180.09,
+      "offered": 438,
+      "drops": 167,
+      "dropPct": 38.1,
       "staff": 2
     }
   ]
