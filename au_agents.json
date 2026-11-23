@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-23T10:32:57Z",
+  "generated": "2026-11-23T10:47:51Z",
   "from": "2026-11-10",
   "to": "2026-11-23",
   "agentNames": [
@@ -604,9 +604,9 @@
   "campaigns": {
     "Accident Management": {
       "2026-11-23": {
-        "in": 7,
+        "in": 8,
         "ans": 4,
-        "aband": 3
+        "aband": 4
       },
       "2026-11-22": {
         "in": 3,
@@ -726,9 +726,9 @@
     "Accident Management": {
       "2026-11-23": {
         "Keep-Driving-INB": {
-          "in": 4,
+          "in": 5,
           "ans": 3,
-          "aband": 1
+          "aband": 2
         },
         "ResolveClaimsGroup": {
           "in": 1,
