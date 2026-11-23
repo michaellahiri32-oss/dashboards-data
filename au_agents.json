@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-23T09:47:57Z",
+  "generated": "2026-11-23T10:03:00Z",
   "from": "2026-11-10",
   "to": "2026-11-23",
   "agentNames": [
@@ -604,9 +604,9 @@
   "campaigns": {
     "Accident Management": {
       "2026-11-23": {
-        "in": 6,
+        "in": 7,
         "ans": 4,
-        "aband": 2
+        "aband": 3
       },
       "2026-11-22": {
         "in": 3,
@@ -725,14 +725,14 @@
   "queues": {
     "Accident Management": {
       "2026-11-23": {
+        "Keep-Driving-INB": {
+          "in": 4,
+          "ans": 3,
+          "aband": 1
+        },
         "ResolveClaimsGroup": {
           "in": 1,
           "ans": 1,
-          "aband": 0
-        },
-        "Keep-Driving-INB": {
-          "in": 3,
-          "ans": 3,
           "aband": 0
         },
         "Acc-Man-WA-Motoraccidentassistcom": {
