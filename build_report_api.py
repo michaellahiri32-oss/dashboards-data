@@ -88,6 +88,7 @@ SHIFTS = [
     {"from": "2026-07-27", "hours": [ [14,20], None,   None,   [14,20], [14,20], [14,20], [14,20] ]}, # 27 Jul-4 Oct: Wed-Sun 2-8
     {"from": "2026-10-05", "hours": [ [8,16], [7,20], [7,20], [7,20], [7,20], [14,18], [15,19] ]}, # 5 Oct-18 Nov: Mon-Thu 7am-8pm (7am trial)
     {"from": "2026-11-19", "hours": [ [8,16], [8,20], [8,20], [8,20], [8,20], [14,18], [15,19] ]}, # from 19 Nov: back to Mon-Thu 8am-8pm (7am starts finished)
+    {"from": "2026-11-24", "hours": [ [8,16], [9,19], [9,19], [9,19], [9,19], None,    [15,19] ]}, # from 24 Nov: Mon-Thu 9am-7pm, Fri closed
 ]
 
 # One-off dates that override the pattern above. "YYYY-MM-DD": [open, close].
