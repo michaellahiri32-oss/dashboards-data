@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-22T21:03:07Z",
-  "from": "2026-11-09",
-  "to": "2026-11-22",
+  "generated": "2026-11-23T08:17:26Z",
+  "from": "2026-11-10",
+  "to": "2026-11-23",
   "agentNames": [
     "Andrew Aremu",
     "Simon Warren",
@@ -23,6 +23,26 @@
   ],
   "agents": {
     "Alex Harrison": {
+      "2026-11-23": {
+        "logon": "09:00",
+        "logonUk": "22:00",
+        "logoff": "17:00",
+        "logoffUk": "06:00",
+        "loggedMin": 480,
+        "breakMin": 9,
+        "lunchMin": 0,
+        "wrapMin": 22,
+        "talkMin": 143,
+        "calls": 55,
+        "pauses": [
+          {
+            "type": "Comfort break",
+            "start": "15:38",
+            "startUk": "04:38",
+            "durMin": 9
+          }
+        ]
+      },
       "2026-11-20": {
         "logon": "08:56",
         "logonUk": "21:56",
@@ -250,41 +270,29 @@
             "durMin": 6
           }
         ]
-      },
-      "2026-11-09": {
-        "logon": "08:44",
-        "logonUk": "21:44",
-        "logoff": "17:07",
-        "logoffUk": "06:07",
-        "loggedMin": 502,
-        "breakMin": 22,
-        "lunchMin": 0,
-        "wrapMin": 30,
-        "talkMin": 21,
-        "calls": 19,
-        "pauses": [
-          {
-            "type": "Comfort break",
-            "start": "10:30",
-            "startUk": "23:30",
-            "durMin": 6
-          },
-          {
-            "type": "Comfort break",
-            "start": "12:19",
-            "startUk": "01:19",
-            "durMin": 6
-          },
-          {
-            "type": "Comfort break",
-            "start": "15:26",
-            "startUk": "04:26",
-            "durMin": 10
-          }
-        ]
       }
     },
     "Andrew Aremu": {
+      "2026-11-23": {
+        "logon": "10:59",
+        "logonUk": "23:59",
+        "logoff": "19:06",
+        "logoffUk": "08:06",
+        "loggedMin": 486,
+        "breakMin": 60,
+        "lunchMin": 0,
+        "wrapMin": 1,
+        "talkMin": 4,
+        "calls": 4,
+        "pauses": [
+          {
+            "type": "Break",
+            "start": "15:57",
+            "startUk": "04:57",
+            "durMin": 60
+          }
+        ]
+      },
       "2026-11-20": {
         "logon": "10:32",
         "logonUk": "23:32",
@@ -523,35 +531,28 @@
             "durMin": 3
           }
         ]
-      },
-      "2026-11-09": {
-        "logon": "09:29",
-        "logonUk": "22:29",
-        "logoff": "19:00",
-        "logoffUk": "08:00",
-        "loggedMin": 571,
-        "breakMin": 8,
-        "lunchMin": 0,
-        "wrapMin": 6,
-        "talkMin": 25,
-        "calls": 6,
-        "pauses": [
-          {
-            "type": "Comfort break",
-            "start": "15:44",
-            "startUk": "04:44",
-            "durMin": 8
-          }
-        ]
       }
     },
     "Simon Warren": {
+      "2026-11-23": {
+        "logon": "14:26",
+        "logonUk": "03:26",
+        "logoff": "17:40",
+        "logoffUk": "06:40",
+        "loggedMin": 194,
+        "breakMin": 0,
+        "lunchMin": 0,
+        "wrapMin": 0,
+        "talkMin": 5,
+        "calls": 3,
+        "pauses": []
+      },
       "2026-11-20": {
         "logon": "14:13",
         "logonUk": "03:13",
-        "logoff": "14:17",
-        "logoffUk": "03:17",
-        "loggedMin": 4,
+        "logoff": "14:26",
+        "logoffUk": "03:26",
+        "loggedMin": 4333,
         "breakMin": 0,
         "lunchMin": 0,
         "wrapMin": 1,
@@ -602,6 +603,11 @@
   },
   "campaigns": {
     "Accident Management": {
+      "2026-11-23": {
+        "in": 6,
+        "ans": 4,
+        "aband": 2
+      },
       "2026-11-22": {
         "in": 3,
         "ans": 2,
@@ -661,14 +667,14 @@
         "in": 9,
         "ans": 8,
         "aband": 1
-      },
-      "2026-11-09": {
-        "in": 14,
-        "ans": 13,
-        "aband": 1
       }
     },
     "Alex Harrison": {
+      "2026-11-23": {
+        "in": 12,
+        "ans": 12,
+        "aband": 0
+      },
       "2026-11-20": {
         "in": 11,
         "ans": 10,
@@ -713,16 +719,33 @@
         "in": 2,
         "ans": 2,
         "aband": 0
-      },
-      "2026-11-09": {
-        "in": 9,
-        "ans": 9,
-        "aband": 0
       }
     }
   },
   "queues": {
     "Accident Management": {
+      "2026-11-23": {
+        "ResolveClaimsGroup": {
+          "in": 1,
+          "ans": 1,
+          "aband": 0
+        },
+        "Keep-Driving-INB": {
+          "in": 3,
+          "ans": 3,
+          "aband": 0
+        },
+        "Acc-Man-WA-Motoraccidentassistcom": {
+          "in": 1,
+          "ans": 0,
+          "aband": 1
+        },
+        "Acc-Man-NSW-Motoraccidenthelplineonline-IB": {
+          "in": 1,
+          "ans": 0,
+          "aband": 1
+        }
+      },
       "2026-11-22": {
         "UK-Accident-Management": {
           "in": 2,
@@ -996,36 +1019,36 @@
           "ans": 1,
           "aband": 0
         }
-      },
-      "2026-11-09": {
-        "UK-Accident-Management": {
-          "in": 4,
-          "ans": 4,
+      }
+    },
+    "Alex Harrison": {
+      "2026-11-23": {
+        "Resolve-Law-Physio": {
+          "in": 6,
+          "ans": 6,
           "aband": 0
         },
-        "Acc-Man-NSW-Motoraccidenthelplineonline-IB": {
+        "Keep-Driving-INB": {
+          "in": 2,
+          "ans": 2,
+          "aband": 0
+        },
+        "WAClaimsGroupWALAW": {
           "in": 1,
-          "ans": 0,
-          "aband": 1
+          "ans": 1,
+          "aband": 0
         },
         "ResolveClaimsGroup": {
           "in": 1,
           "ans": 1,
           "aband": 0
         },
-        "Keep-Driving-INB": {
-          "in": 6,
-          "ans": 6,
-          "aband": 0
-        },
-        "WAClaimsGroupWALAW": {
+        "Resolve-Law-IB": {
           "in": 2,
           "ans": 2,
           "aband": 0
         }
-      }
-    },
-    "Alex Harrison": {
+      },
       "2026-11-20": {
         "Resolve-Law-Physio": {
           "in": 4,
@@ -1174,38 +1197,6 @@
           "aband": 0
         },
         "Resolve-Law-Physio": {
-          "in": 1,
-          "ans": 1,
-          "aband": 0
-        }
-      },
-      "2026-11-09": {
-        "(no queue)": {
-          "in": 1,
-          "ans": 1,
-          "aband": 0
-        },
-        "Keep-Driving-INB": {
-          "in": 4,
-          "ans": 4,
-          "aband": 0
-        },
-        "WAClaimsGroupWALAW": {
-          "in": 1,
-          "ans": 1,
-          "aband": 0
-        },
-        "Acc-Man-NSW-Motoraccidenthelplineonline-IB": {
-          "in": 1,
-          "ans": 1,
-          "aband": 0
-        },
-        "Resolve-Law-Physio": {
-          "in": 1,
-          "ans": 1,
-          "aband": 0
-        },
-        "ResolveClaimsGroup": {
           "in": 1,
           "ans": 1,
           "aband": 0
