@@ -1,11 +1,11 @@
 {
   "day": "2026-11-23",
-  "calls": 85,
+  "calls": 114,
   "instructs": 1,
-  "dropped": 9,
-  "droppedPct": 10.59,
-  "spend": 703.18,
-  "cpi": 703.18,
+  "dropped": 13,
+  "droppedPct": 11.4,
+  "spend": 1181.81,
+  "cpi": 1181.81,
   "history": {
     "2026-09-25": {
       "calls": 176,
@@ -200,12 +200,12 @@
       "droppedPct": 13.24
     },
     "2026-10-19": {
-      "calls": 179,
+      "calls": 180,
       "instructs": 9,
       "spend": 6669.91,
       "cpi": 741.1,
       "dropped": 5,
-      "droppedPct": 2.84
+      "droppedPct": 2.82
     },
     "2026-10-20": {
       "calls": 149,
@@ -320,20 +320,20 @@
       "droppedPct": 2.31
     },
     "2026-11-03": {
-      "calls": 341,
+      "calls": 342,
       "instructs": 19,
       "spend": 12325.52,
       "cpi": 648.71,
       "dropped": 34,
-      "droppedPct": 10.21
+      "droppedPct": 10.18
     },
     "2026-11-04": {
-      "calls": 263,
+      "calls": 262,
       "instructs": 17,
       "spend": 10118.29,
       "cpi": 595.19,
       "dropped": 12,
-      "droppedPct": 4.58
+      "droppedPct": 4.6
     },
     "2026-11-05": {
       "calls": 385,
@@ -472,27 +472,27 @@
       "droppedPct": 34.41
     },
     "2026-11-22": {
-      "calls": 449,
+      "calls": 448,
       "instructs": 11,
       "spend": 12981.02,
       "cpi": 1180.09,
-      "dropped": 168,
-      "droppedPct": 38.27
+      "dropped": 167,
+      "droppedPct": 38.13
     },
     "2026-11-23": {
-      "calls": 85,
+      "calls": 114,
       "instructs": 1,
-      "spend": 703.18,
-      "cpi": 703.18,
-      "dropped": 9,
-      "droppedPct": 10.59
+      "spend": 1181.81,
+      "cpi": 1181.81,
+      "dropped": 13,
+      "droppedPct": 11.4
     }
   },
   "updated": {
-    "connex": "2026-11-23T09:16:44+00:00",
-    "spend_asof": "2026-11-23T09:16:44+00:00",
-    "spend_updated": "2026-11-23T08:55:58Z",
+    "connex": "2026-11-23T09:31:57+00:00",
+    "spend_asof": "2026-11-23T09:31:57+00:00",
+    "spend_updated": "2026-11-23T09:29:40Z",
     "spend_latest_day": "2026-11-23"
   },
-  "built": "2026-11-23T09:16:44+00:00"
+  "built": "2026-11-23T09:31:57+00:00"
 }
