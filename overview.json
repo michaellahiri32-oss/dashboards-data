@@ -1,11 +1,11 @@
 {
   "day": "2026-11-23",
-  "calls": 692,
+  "calls": 713,
   "instructs": 9,
-  "dropped": 103,
-  "droppedPct": 14.88,
-  "spend": 7280.1,
-  "cpi": 808.9,
+  "dropped": 105,
+  "droppedPct": 14.73,
+  "spend": 7795.93,
+  "cpi": 866.21,
   "history": {
     "2026-09-25": {
       "calls": 176,
@@ -480,19 +480,19 @@
       "droppedPct": 38.13
     },
     "2026-11-23": {
-      "calls": 692,
+      "calls": 713,
       "instructs": 9,
-      "spend": 7280.1,
-      "cpi": 808.9,
-      "dropped": 103,
-      "droppedPct": 14.88
+      "spend": 7795.93,
+      "cpi": 866.21,
+      "dropped": 105,
+      "droppedPct": 14.73
     }
   },
   "updated": {
-    "connex": "2026-11-23T15:16:34+00:00",
-    "spend_asof": "2026-11-23T15:16:34+00:00",
-    "spend_updated": "2026-11-23T14:55:58Z",
+    "connex": "2026-11-23T15:31:59+00:00",
+    "spend_asof": "2026-11-23T15:31:59+00:00",
+    "spend_updated": "2026-11-23T15:29:42Z",
     "spend_latest_day": "2026-11-23"
   },
-  "built": "2026-11-23T15:16:34+00:00"
+  "built": "2026-11-23T15:31:59+00:00"
 }
