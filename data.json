@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-11-23T13:10:04+00:00",
+  "updated": "2026-11-23T13:20:03+00:00",
   "period": {
     "day": "2026-11-23",
     "month": "2026-11"
@@ -236,7 +236,7 @@
         },
         "2026-07": {
           "leads": 81,
-          "calls": 946,
+          "calls": 945,
           "wind": 0,
           "pi": 0,
           "weLeads": 23,
@@ -450,7 +450,7 @@
         },
         "2026-07": {
           "leads": 50,
-          "calls": 604,
+          "calls": 605,
           "wind": 0,
           "pi": 0,
           "weLeads": 0,
@@ -592,7 +592,7 @@
         },
         "2026-10": {
           "leads": 68,
-          "calls": 922,
+          "calls": 921,
           "wind": 3,
           "pi": 2,
           "weLeads": 8,
@@ -956,11 +956,11 @@
         },
         "2026-08": {
           "leads": 76,
-          "calls": 779,
+          "calls": 780,
           "wind": 1,
           "pi": 0,
           "weLeads": 41,
-          "weCalls": 297,
+          "weCalls": 298,
           "weWind": 0,
           "wePi": 0
         },
@@ -1053,8 +1053,8 @@
       "id": "michael-lahiri",
       "leadsToday": 0,
       "leadsMonth": 7,
-      "callsToday": 71,
-      "callsMonth": 318,
+      "callsToday": 79,
+      "callsMonth": 326,
       "windToday": 0,
       "windMonth": 0,
       "piToday": 0,
@@ -1062,7 +1062,7 @@
       "byMonth": {
         "2026-11": {
           "leads": 7,
-          "calls": 318,
+          "calls": 326,
           "wind": 0,
           "pi": 0,
           "weLeads": 0,
@@ -1124,7 +1124,7 @@
       "byDay": {
         "2026-11-23": {
           "leads": 0,
-          "calls": 71,
+          "calls": 79,
           "wind": 0,
           "pi": 0
         },
