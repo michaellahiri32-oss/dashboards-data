@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-23T10:32:41Z",
+  "generated": "2026-11-23T10:47:35Z",
   "from": "2026-09-01",
   "rows": [
     {
@@ -214,13 +214,13 @@
       "date": "2026-10-31",
       "dow": "Sat",
       "spend": 4522.98,
-      "calls": 89,
+      "calls": 90,
       "instructs": 7,
-      "conv": 7.9,
+      "conv": 7.8,
       "cpi": 646.14,
-      "offered": 75,
-      "drops": 9,
-      "dropPct": 12.0,
+      "offered": 76,
+      "drops": 10,
+      "dropPct": 13.2,
       "staff": 2
     },
     {
@@ -292,13 +292,13 @@
       "date": "2026-11-21",
       "dow": "Sat",
       "spend": 7378.9,
-      "calls": 191,
+      "calls": 192,
       "instructs": 9,
       "conv": 4.7,
       "cpi": 819.88,
-      "offered": 186,
+      "offered": 187,
       "drops": 64,
-      "dropPct": 34.4,
+      "dropPct": 34.2,
       "staff": 3
     },
     {
