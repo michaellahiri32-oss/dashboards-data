@@ -42,10 +42,19 @@ SALE_TRANSFER        = "Transferred - UK"
 SALE_TRANSFER_NUMBERS = {"447438475625", "447436471637"}
 SALE_EXCLUDE_NUMBERS  = {"447423588163", "447340003433", "447827418179", "447415162223"}
 ABANDON_ID    = "100aeb42-7c9a-443c-8aa9-d850f14fd1d1"   # "Inbound Abandon" (not in /selectable)
-# in-shift windows for the dropped-call rate (UK weekday: Mon=0 .. Sun=6)
-SHIFT_HOURS = {0:(8,20), 1:(8,20), 2:(8,20), 3:(8,20), 4:(14,18), 5:(15,19), 6:(8,16)}
-def on_shift(wd, hour):
-    lo, hi = SHIFT_HOURS[wd]; return lo <= hour < hi
+# in-shift windows for the dropped-call rate. Date-versioned via build_report_api.SHIFTS
+# so each day uses the pattern in force then (history unaffected by later changes).
+import build_report_api as _bra
+def _dow(ds):
+    y,m,d = map(int, ds.split("-")); return (datetime(y,m,d).weekday()+1)%7
+def _open_window(ds):
+    if ds in _bra.OPEN_OVERRIDES: return _bra.OPEN_OVERRIDES[ds]
+    pick=None
+    for sh in _bra.SHIFTS:
+        if sh["from"] <= ds: pick=sh
+    return pick["hours"][_dow(ds)] if pick else None
+def on_shift(ds, hour):
+    w=_open_window(ds); return bool(w) and w[0] <= hour < w[1]
 FORCE_HR              = {"447432154233"}
 DEDUP_EXEMPT          = {"447508635441"}
 AGENT_REASSIGN        = {"447727606730": "James Bridgwood"}
@@ -257,8 +266,8 @@ def main():
         b = days.setdefault(x["date"], {"calls": 0, "instructs": 0, "inbShift": 0, "dropShift": 0})
         if x["inbound"]:
             b["calls"] += 1
-            if on_shift(x["wd"], x["hour"]): b["inbShift"] += 1
-        if x["aband"] and on_shift(x["wd"], x["hour"]):
+            if on_shift(x["date"], x["hour"]): b["inbShift"] += 1
+        if x["aband"] and on_shift(x["date"], x["hour"]):
             b["dropShift"] += 1
         if x["sale"] == 1 and not x["hrdup"]:
             b["instructs"] += 1
