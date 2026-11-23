@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-11-23T08:50:03+00:00",
+  "updated": "2026-11-23T09:00:03+00:00",
   "period": {
     "day": "2026-11-23",
     "month": "2026-11"
@@ -14,6 +14,174 @@
     "2026-11"
   ],
   "agents": [
+    {
+      "name": "Peter Brunker",
+      "id": "peter-brunker",
+      "leadsToday": 1,
+      "leadsMonth": 78,
+      "callsToday": 26,
+      "callsMonth": 1384,
+      "windToday": 0,
+      "windMonth": 12,
+      "piToday": 0,
+      "piMonth": 5,
+      "byMonth": {
+        "2026-11": {
+          "leads": 78,
+          "calls": 1384,
+          "wind": 12,
+          "pi": 5,
+          "weLeads": 5,
+          "weCalls": 99,
+          "weWind": 1,
+          "wePi": 0
+        },
+        "2026-10": {
+          "leads": 61,
+          "calls": 894,
+          "wind": 3,
+          "pi": 1,
+          "weLeads": 1,
+          "weCalls": 10,
+          "weWind": 0,
+          "wePi": 0
+        },
+        "2026-09": {
+          "leads": 77,
+          "calls": 928,
+          "wind": 9,
+          "pi": 0,
+          "weLeads": 0,
+          "weCalls": 0,
+          "weWind": 0,
+          "wePi": 0
+        },
+        "2026-08": {
+          "leads": 35,
+          "calls": 363,
+          "wind": 3,
+          "pi": 0,
+          "weLeads": 2,
+          "weCalls": 30,
+          "weWind": 1,
+          "wePi": 0
+        },
+        "2026-07": {
+          "leads": 51,
+          "calls": 501,
+          "wind": 0,
+          "pi": 0,
+          "weLeads": 0,
+          "weCalls": 0,
+          "weWind": 0,
+          "wePi": 0
+        }
+      },
+      "byDay": {
+        "2026-11-23": {
+          "leads": 1,
+          "calls": 26,
+          "wind": 0,
+          "pi": 0
+        },
+        "2026-11-20": {
+          "leads": 3,
+          "calls": 55,
+          "wind": 2,
+          "pi": 1
+        },
+        "2026-11-19": {
+          "leads": 7,
+          "calls": 170,
+          "wind": 1,
+          "pi": 0
+        },
+        "2026-11-18": {
+          "leads": 4,
+          "calls": 139,
+          "wind": 1,
+          "pi": 3
+        },
+        "2026-11-17": {
+          "leads": 6,
+          "calls": 140,
+          "wind": 1,
+          "pi": 1
+        },
+        "2026-11-16": {
+          "leads": 9,
+          "calls": 192,
+          "wind": 3,
+          "pi": 0
+        },
+        "2026-11-15": {
+          "leads": 5,
+          "calls": 99,
+          "wind": 1,
+          "pi": 0
+        },
+        "2026-11-13": {
+          "leads": 4,
+          "calls": 30,
+          "wind": 0,
+          "pi": 0
+        },
+        "2026-11-12": {
+          "leads": 2,
+          "calls": 52,
+          "wind": 0,
+          "pi": 0
+        },
+        "2026-11-11": {
+          "leads": 7,
+          "calls": 59,
+          "wind": 1,
+          "pi": 0
+        },
+        "2026-11-10": {
+          "leads": 4,
+          "calls": 50,
+          "wind": 1,
+          "pi": 0
+        },
+        "2026-11-09": {
+          "leads": 8,
+          "calls": 106,
+          "wind": 0,
+          "pi": 0
+        },
+        "2026-11-06": {
+          "leads": 1,
+          "calls": 19,
+          "wind": 0,
+          "pi": 0
+        },
+        "2026-11-05": {
+          "leads": 2,
+          "calls": 54,
+          "wind": 0,
+          "pi": 0
+        },
+        "2026-11-04": {
+          "leads": 5,
+          "calls": 68,
+          "wind": 0,
+          "pi": 0
+        },
+        "2026-11-03": {
+          "leads": 6,
+          "calls": 72,
+          "wind": 0,
+          "pi": 0
+        },
+        "2026-11-02": {
+          "leads": 4,
+          "calls": 53,
+          "wind": 1,
+          "pi": 0
+        }
+      }
+    },
     {
       "name": "James Bridgwood",
       "id": "james-bridgwood",
@@ -58,7 +226,7 @@
         },
         "2026-08": {
           "leads": 67,
-          "calls": 666,
+          "calls": 667,
           "wind": 0,
           "pi": 0,
           "weLeads": 31,
@@ -223,180 +391,12 @@
       }
     },
     {
-      "name": "Peter Brunker",
-      "id": "peter-brunker",
-      "leadsToday": 0,
-      "leadsMonth": 77,
-      "callsToday": 25,
-      "callsMonth": 1383,
-      "windToday": 0,
-      "windMonth": 12,
-      "piToday": 0,
-      "piMonth": 5,
-      "byMonth": {
-        "2026-11": {
-          "leads": 77,
-          "calls": 1383,
-          "wind": 12,
-          "pi": 5,
-          "weLeads": 5,
-          "weCalls": 99,
-          "weWind": 1,
-          "wePi": 0
-        },
-        "2026-10": {
-          "leads": 61,
-          "calls": 893,
-          "wind": 3,
-          "pi": 1,
-          "weLeads": 1,
-          "weCalls": 10,
-          "weWind": 0,
-          "wePi": 0
-        },
-        "2026-09": {
-          "leads": 77,
-          "calls": 928,
-          "wind": 9,
-          "pi": 0,
-          "weLeads": 0,
-          "weCalls": 0,
-          "weWind": 0,
-          "wePi": 0
-        },
-        "2026-08": {
-          "leads": 35,
-          "calls": 363,
-          "wind": 3,
-          "pi": 0,
-          "weLeads": 2,
-          "weCalls": 30,
-          "weWind": 1,
-          "wePi": 0
-        },
-        "2026-07": {
-          "leads": 51,
-          "calls": 501,
-          "wind": 0,
-          "pi": 0,
-          "weLeads": 0,
-          "weCalls": 0,
-          "weWind": 0,
-          "wePi": 0
-        }
-      },
-      "byDay": {
-        "2026-11-23": {
-          "leads": 0,
-          "calls": 25,
-          "wind": 0,
-          "pi": 0
-        },
-        "2026-11-20": {
-          "leads": 3,
-          "calls": 55,
-          "wind": 2,
-          "pi": 1
-        },
-        "2026-11-19": {
-          "leads": 7,
-          "calls": 170,
-          "wind": 1,
-          "pi": 0
-        },
-        "2026-11-18": {
-          "leads": 4,
-          "calls": 139,
-          "wind": 1,
-          "pi": 3
-        },
-        "2026-11-17": {
-          "leads": 6,
-          "calls": 140,
-          "wind": 1,
-          "pi": 1
-        },
-        "2026-11-16": {
-          "leads": 9,
-          "calls": 192,
-          "wind": 3,
-          "pi": 0
-        },
-        "2026-11-15": {
-          "leads": 5,
-          "calls": 99,
-          "wind": 1,
-          "pi": 0
-        },
-        "2026-11-13": {
-          "leads": 4,
-          "calls": 30,
-          "wind": 0,
-          "pi": 0
-        },
-        "2026-11-12": {
-          "leads": 2,
-          "calls": 52,
-          "wind": 0,
-          "pi": 0
-        },
-        "2026-11-11": {
-          "leads": 7,
-          "calls": 59,
-          "wind": 1,
-          "pi": 0
-        },
-        "2026-11-10": {
-          "leads": 4,
-          "calls": 50,
-          "wind": 1,
-          "pi": 0
-        },
-        "2026-11-09": {
-          "leads": 8,
-          "calls": 106,
-          "wind": 0,
-          "pi": 0
-        },
-        "2026-11-06": {
-          "leads": 1,
-          "calls": 19,
-          "wind": 0,
-          "pi": 0
-        },
-        "2026-11-05": {
-          "leads": 2,
-          "calls": 54,
-          "wind": 0,
-          "pi": 0
-        },
-        "2026-11-04": {
-          "leads": 5,
-          "calls": 68,
-          "wind": 0,
-          "pi": 0
-        },
-        "2026-11-03": {
-          "leads": 6,
-          "calls": 72,
-          "wind": 0,
-          "pi": 0
-        },
-        "2026-11-02": {
-          "leads": 4,
-          "calls": 53,
-          "wind": 1,
-          "pi": 0
-        }
-      }
-    },
-    {
       "name": "Gemma Stone",
       "id": "gemma-stone",
       "leadsToday": 0,
       "leadsMonth": 56,
-      "callsToday": 21,
-      "callsMonth": 1195,
+      "callsToday": 25,
+      "callsMonth": 1199,
       "windToday": 0,
       "windMonth": 0,
       "piToday": 0,
@@ -404,7 +404,7 @@
       "byMonth": {
         "2026-11": {
           "leads": 56,
-          "calls": 1195,
+          "calls": 1199,
           "wind": 0,
           "pi": 0,
           "weLeads": 0,
@@ -466,7 +466,7 @@
       "byDay": {
         "2026-11-23": {
           "leads": 0,
-          "calls": 21,
+          "calls": 25,
           "wind": 0,
           "pi": 0
         },
@@ -782,7 +782,7 @@
         },
         "2026-07": {
           "leads": 90,
-          "calls": 935,
+          "calls": 934,
           "wind": 0,
           "pi": 0,
           "weLeads": 26,
@@ -906,7 +906,7 @@
       "leadsToday": 0,
       "leadsMonth": 24,
       "callsToday": 0,
-      "callsMonth": 566,
+      "callsMonth": 567,
       "windToday": 0,
       "windMonth": 1,
       "piToday": 0,
@@ -914,7 +914,7 @@
       "byMonth": {
         "2026-11": {
           "leads": 24,
-          "calls": 566,
+          "calls": 567,
           "wind": 1,
           "pi": 0,
           "weLeads": 7,
@@ -988,7 +988,7 @@
         },
         "2026-11-18": {
           "leads": 4,
-          "calls": 96,
+          "calls": 97,
           "wind": 0,
           "pi": 0
         },
@@ -1041,8 +1041,8 @@
       "id": "michael-lahiri",
       "leadsToday": 0,
       "leadsMonth": 7,
-      "callsToday": 0,
-      "callsMonth": 247,
+      "callsToday": 2,
+      "callsMonth": 249,
       "windToday": 0,
       "windMonth": 0,
       "piToday": 0,
@@ -1050,7 +1050,7 @@
       "byMonth": {
         "2026-11": {
           "leads": 7,
-          "calls": 247,
+          "calls": 249,
           "wind": 0,
           "pi": 0,
           "weLeads": 0,
@@ -1110,6 +1110,12 @@
         }
       },
       "byDay": {
+        "2026-11-23": {
+          "leads": 0,
+          "calls": 2,
+          "wind": 0,
+          "pi": 0
+        },
         "2026-11-20": {
           "leads": 0,
           "calls": 7,
