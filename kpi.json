@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-23T17:47:21Z",
+  "generated": "2026-11-23T18:02:34Z",
   "range": {
     "from": "2026-06-09",
     "to": "2026-11-23"
@@ -163,8 +163,8 @@
           "start": "2026-08-10",
           "end": "2026-08-16",
           "instructs": 105,
-          "inbound": 1068,
-          "inbound_shift": 1121,
+          "inbound": 1069,
+          "inbound_shift": 1122,
           "abandons": 33,
           "spend": null
         },
@@ -185,8 +185,8 @@
           "start": "2026-08-24",
           "end": "2026-08-30",
           "instructs": 87,
-          "inbound": 1000,
-          "inbound_shift": 1057,
+          "inbound": 999,
+          "inbound_shift": 1056,
           "abandons": 28,
           "spend": null
         },
@@ -207,7 +207,7 @@
       "m": "2026-09",
       "label": "Sep 26",
       "instructs": 388,
-      "inbound": 1644,
+      "inbound": 1645,
       "inbound_shift": 5299,
       "abandons": 163,
       "spend": null,
@@ -251,7 +251,7 @@
           "start": "2026-09-21",
           "end": "2026-09-27",
           "instructs": 102,
-          "inbound": 596,
+          "inbound": 597,
           "inbound_shift": 1411,
           "abandons": 116,
           "spend": 57796.23
@@ -338,11 +338,11 @@
     {
       "m": "2026-11",
       "label": "Nov 26",
-      "instructs": 324,
-      "inbound": 8338,
-      "inbound_shift": 8385,
-      "abandons": 939,
-      "spend": 252147.07,
+      "instructs": 326,
+      "inbound": 8350,
+      "inbound_shift": 8397,
+      "abandons": 943,
+      "spend": 252905.09,
       "weeks": [
         {
           "m": "2026-11:2026-10-26",
@@ -393,11 +393,11 @@
           "label": "23 Nov",
           "start": "2026-11-23",
           "end": "2026-11-23",
-          "instructs": 10,
-          "inbound": 851,
-          "inbound_shift": 851,
-          "abandons": 125,
-          "spend": 10236.68
+          "instructs": 12,
+          "inbound": 863,
+          "inbound_shift": 863,
+          "abandons": 129,
+          "spend": 10994.7
         }
       ]
     }
