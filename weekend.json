@@ -1,0 +1,246 @@
+{
+  "generated": "2026-11-23T04:59:18Z",
+  "from": "2026-09-01",
+  "rows": [
+    {
+      "date": "2026-09-05",
+      "dow": "Sat",
+      "spend": null,
+      "calls": 45,
+      "instructs": 7,
+      "conv": 15.6,
+      "cpi": null,
+      "staff": 2
+    },
+    {
+      "date": "2026-09-06",
+      "dow": "Sun",
+      "spend": null,
+      "calls": 109,
+      "instructs": 11,
+      "conv": 10.1,
+      "cpi": null,
+      "staff": 2
+    },
+    {
+      "date": "2026-09-12",
+      "dow": "Sat",
+      "spend": null,
+      "calls": 43,
+      "instructs": 4,
+      "conv": 9.3,
+      "cpi": null,
+      "staff": 3
+    },
+    {
+      "date": "2026-09-13",
+      "dow": "Sun",
+      "spend": 2548.37,
+      "calls": 80,
+      "instructs": 11,
+      "conv": 13.8,
+      "cpi": 231.67,
+      "staff": 2
+    },
+    {
+      "date": "2026-09-19",
+      "dow": "Sat",
+      "spend": 1441.15,
+      "calls": 39,
+      "instructs": 4,
+      "conv": 10.3,
+      "cpi": 360.29,
+      "staff": 3
+    },
+    {
+      "date": "2026-09-20",
+      "dow": "Sun",
+      "spend": 2979.13,
+      "calls": 78,
+      "instructs": 8,
+      "conv": 10.3,
+      "cpi": 372.39,
+      "staff": 3
+    },
+    {
+      "date": "2026-09-26",
+      "dow": "Sat",
+      "spend": 7632.31,
+      "calls": 173,
+      "instructs": 16,
+      "conv": 9.2,
+      "cpi": 477.02,
+      "staff": 2
+    },
+    {
+      "date": "2026-09-27",
+      "dow": "Sun",
+      "spend": 11178.21,
+      "calls": 240,
+      "instructs": 14,
+      "conv": 5.8,
+      "cpi": 798.44,
+      "staff": 2
+    },
+    {
+      "date": "2026-10-03",
+      "dow": "Sat",
+      "spend": 935.27,
+      "calls": 39,
+      "instructs": 5,
+      "conv": 12.8,
+      "cpi": 187.05,
+      "staff": 3
+    },
+    {
+      "date": "2026-10-04",
+      "dow": "Sun",
+      "spend": 1610.72,
+      "calls": 47,
+      "instructs": 10,
+      "conv": 21.3,
+      "cpi": 161.07,
+      "staff": 2
+    },
+    {
+      "date": "2026-10-10",
+      "dow": "Sat",
+      "spend": 3467.35,
+      "calls": 75,
+      "instructs": 6,
+      "conv": 8.0,
+      "cpi": 577.89,
+      "staff": 2
+    },
+    {
+      "date": "2026-10-11",
+      "dow": "Sun",
+      "spend": 4878.03,
+      "calls": 108,
+      "instructs": 12,
+      "conv": 11.1,
+      "cpi": 406.5,
+      "staff": 2
+    },
+    {
+      "date": "2026-10-17",
+      "dow": "Sat",
+      "spend": 3084.31,
+      "calls": 66,
+      "instructs": 7,
+      "conv": 10.6,
+      "cpi": 440.62,
+      "staff": 3
+    },
+    {
+      "date": "2026-10-18",
+      "dow": "Sun",
+      "spend": 6513.96,
+      "calls": 137,
+      "instructs": 10,
+      "conv": 7.3,
+      "cpi": 651.4,
+      "staff": 3
+    },
+    {
+      "date": "2026-10-24",
+      "dow": "Sat",
+      "spend": 2302.8,
+      "calls": 66,
+      "instructs": 9,
+      "conv": 13.6,
+      "cpi": 255.87,
+      "staff": 2
+    },
+    {
+      "date": "2026-10-25",
+      "dow": "Sun",
+      "spend": 4197.25,
+      "calls": 113,
+      "instructs": 2,
+      "conv": 1.8,
+      "cpi": 2098.62,
+      "staff": 2
+    },
+    {
+      "date": "2026-10-31",
+      "dow": "Sat",
+      "spend": 4522.98,
+      "calls": 89,
+      "instructs": 7,
+      "conv": 7.9,
+      "cpi": 646.14,
+      "staff": 2
+    },
+    {
+      "date": "2026-11-01",
+      "dow": "Sun",
+      "spend": 4464.3,
+      "calls": 91,
+      "instructs": 3,
+      "conv": 3.3,
+      "cpi": 1488.1,
+      "staff": 3
+    },
+    {
+      "date": "2026-11-07",
+      "dow": "Sat",
+      "spend": 6408.64,
+      "calls": 115,
+      "instructs": 5,
+      "conv": 4.3,
+      "cpi": 1281.73,
+      "staff": 2
+    },
+    {
+      "date": "2026-11-08",
+      "dow": "Sun",
+      "spend": 12739.31,
+      "calls": 201,
+      "instructs": 12,
+      "conv": 6.0,
+      "cpi": 1061.61,
+      "staff": 2
+    },
+    {
+      "date": "2026-11-14",
+      "dow": "Sat",
+      "spend": 5152.04,
+      "calls": 94,
+      "instructs": 6,
+      "conv": 6.4,
+      "cpi": 858.67,
+      "staff": 3
+    },
+    {
+      "date": "2026-11-15",
+      "dow": "Sun",
+      "spend": 8423.46,
+      "calls": 228,
+      "instructs": 14,
+      "conv": 6.1,
+      "cpi": 601.68,
+      "staff": 3
+    },
+    {
+      "date": "2026-11-21",
+      "dow": "Sat",
+      "spend": 7378.9,
+      "calls": 191,
+      "instructs": 9,
+      "conv": 4.7,
+      "cpi": 819.88,
+      "staff": 3
+    },
+    {
+      "date": "2026-11-22",
+      "dow": "Sun",
+      "spend": 12981.02,
+      "calls": 448,
+      "instructs": 11,
+      "conv": 2.5,
+      "cpi": 1180.09,
+      "staff": 2
+    }
+  ]
+}
