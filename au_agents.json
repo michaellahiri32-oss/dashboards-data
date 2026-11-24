@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-24T08:17:30Z",
+  "generated": "2026-11-24T08:32:46Z",
   "from": "2026-11-11",
   "to": "2026-11-24",
   "agentNames": [
@@ -537,14 +537,14 @@
       "2026-11-24": {
         "logon": "14:17",
         "logonUk": "03:17",
-        "logoff": "17:05",
-        "logoffUk": "06:05",
-        "loggedMin": 168,
+        "logoff": "19:31",
+        "logoffUk": "08:31",
+        "loggedMin": 314,
         "breakMin": 0,
         "lunchMin": 0,
         "wrapMin": 0,
-        "talkMin": 16,
-        "calls": 5,
+        "talkMin": 18,
+        "calls": 6,
         "pauses": []
       },
       "2026-11-23": {
