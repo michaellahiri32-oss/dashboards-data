@@ -1,6 +1,6 @@
 {
   "title": "UK Accident Management — Leads Tracker",
-  "updated": "2026-11-24T11:40:02+00:00",
+  "updated": "2026-11-24T11:50:03+00:00",
   "period": {
     "day": "2026-11-24",
     "month": "2026-11"
@@ -19,8 +19,8 @@
       "id": "james-bridgwood",
       "leadsToday": 0,
       "leadsMonth": 84,
-      "callsToday": 27,
-      "callsMonth": 1595,
+      "callsToday": 28,
+      "callsMonth": 1596,
       "windToday": 0,
       "windMonth": 2,
       "piToday": 0,
@@ -28,7 +28,7 @@
       "byMonth": {
         "2026-11": {
           "leads": 84,
-          "calls": 1595,
+          "calls": 1596,
           "wind": 2,
           "pi": 4,
           "weLeads": 23,
@@ -68,7 +68,7 @@
         },
         "2026-07": {
           "leads": 81,
-          "calls": 945,
+          "calls": 946,
           "wind": 0,
           "pi": 0,
           "weLeads": 23,
@@ -90,7 +90,7 @@
       "byDay": {
         "2026-11-24": {
           "leads": 0,
-          "calls": 27,
+          "calls": 28,
           "wind": 0,
           "pi": 0
         },
@@ -239,8 +239,8 @@
       "id": "peter-brunker",
       "leadsToday": 0,
       "leadsMonth": 80,
-      "callsToday": 39,
-      "callsMonth": 1590,
+      "callsToday": 41,
+      "callsMonth": 1591,
       "windToday": 0,
       "windMonth": 14,
       "piToday": 0,
@@ -248,7 +248,7 @@
       "byMonth": {
         "2026-11": {
           "leads": 80,
-          "calls": 1590,
+          "calls": 1591,
           "wind": 14,
           "pi": 5,
           "weLeads": 5,
@@ -300,7 +300,7 @@
       "byDay": {
         "2026-11-24": {
           "leads": 0,
-          "calls": 39,
+          "calls": 41,
           "wind": 0,
           "pi": 0
         },
@@ -390,7 +390,7 @@
         },
         "2026-11-04": {
           "leads": 5,
-          "calls": 69,
+          "calls": 68,
           "wind": 0,
           "pi": 0
         },
@@ -413,8 +413,8 @@
       "id": "gemma-stone",
       "leadsToday": 0,
       "leadsMonth": 59,
-      "callsToday": 34,
-      "callsMonth": 1380,
+      "callsToday": 36,
+      "callsMonth": 1382,
       "windToday": 0,
       "windMonth": 0,
       "piToday": 0,
@@ -422,7 +422,7 @@
       "byMonth": {
         "2026-11": {
           "leads": 59,
-          "calls": 1380,
+          "calls": 1382,
           "wind": 0,
           "pi": 0,
           "weLeads": 0,
@@ -484,7 +484,7 @@
       "byDay": {
         "2026-11-24": {
           "leads": 0,
-          "calls": 34,
+          "calls": 36,
           "wind": 0,
           "pi": 0
         },
@@ -591,8 +591,8 @@
       "id": "daniel-gee",
       "leadsToday": 0,
       "leadsMonth": 49,
-      "callsToday": 29,
-      "callsMonth": 1264,
+      "callsToday": 32,
+      "callsMonth": 1267,
       "windToday": 0,
       "windMonth": 6,
       "piToday": 0,
@@ -600,7 +600,7 @@
       "byMonth": {
         "2026-11": {
           "leads": 49,
-          "calls": 1264,
+          "calls": 1267,
           "wind": 6,
           "pi": 6,
           "weLeads": 1,
@@ -662,7 +662,7 @@
       "byDay": {
         "2026-11-24": {
           "leads": 0,
-          "calls": 29,
+          "calls": 32,
           "wind": 0,
           "pi": 0
         },
@@ -798,7 +798,7 @@
         },
         "2026-09": {
           "leads": 73,
-          "calls": 723,
+          "calls": 724,
           "wind": 3,
           "pi": 0,
           "weLeads": 31,
@@ -941,8 +941,8 @@
       "id": "marlon-albohaithi",
       "leadsToday": 1,
       "leadsMonth": 25,
-      "callsToday": 33,
-      "callsMonth": 599,
+      "callsToday": 35,
+      "callsMonth": 601,
       "windToday": 0,
       "windMonth": 1,
       "piToday": 0,
@@ -950,7 +950,7 @@
       "byMonth": {
         "2026-11": {
           "leads": 25,
-          "calls": 599,
+          "calls": 601,
           "wind": 1,
           "pi": 0,
           "weLeads": 7,
@@ -1012,7 +1012,7 @@
       "byDay": {
         "2026-11-24": {
           "leads": 1,
-          "calls": 33,
+          "calls": 35,
           "wind": 0,
           "pi": 0
         },
