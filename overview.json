@@ -1,9 +1,9 @@
 {
   "day": "2026-11-24",
-  "calls": 437,
+  "calls": 452,
   "instructs": 14,
   "dropped": 13,
-  "droppedPct": 2.99,
+  "droppedPct": 2.89,
   "spend": 5827.89,
   "cpi": 416.28,
   "history": {
@@ -136,12 +136,12 @@
       "droppedPct": 27.78
     },
     "2026-10-12": {
-      "calls": 335,
+      "calls": 336,
       "instructs": 14,
       "spend": 11302.35,
       "cpi": 807.31,
       "dropped": 27,
-      "droppedPct": 8.06
+      "droppedPct": 8.04
     },
     "2026-10-13": {
       "calls": 286,
@@ -312,12 +312,12 @@
       "droppedPct": 2.31
     },
     "2026-11-03": {
-      "calls": 341,
+      "calls": 342,
       "instructs": 19,
       "spend": 12325.52,
       "cpi": 648.71,
       "dropped": 34,
-      "droppedPct": 10.0
+      "droppedPct": 9.97
     },
     "2026-11-04": {
       "calls": 262,
@@ -328,12 +328,12 @@
       "droppedPct": 4.58
     },
     "2026-11-05": {
-      "calls": 385,
+      "calls": 386,
       "instructs": 14,
       "spend": 13279.69,
       "cpi": 948.55,
       "dropped": 22,
-      "droppedPct": 5.73
+      "droppedPct": 5.71
     },
     "2026-11-06": {
       "calls": 172,
@@ -440,12 +440,12 @@
       "droppedPct": 4.44
     },
     "2026-11-19": {
-      "calls": 1012,
+      "calls": 1011,
       "instructs": 25,
       "spend": 18524.86,
       "cpi": 740.99,
       "dropped": 58,
-      "droppedPct": 5.74
+      "droppedPct": 5.75
     },
     "2026-11-20": {
       "calls": 361,
@@ -480,19 +480,19 @@
       "droppedPct": 15.52
     },
     "2026-11-24": {
-      "calls": 437,
+      "calls": 452,
       "instructs": 14,
       "spend": 5827.89,
       "cpi": 416.28,
       "dropped": 13,
-      "droppedPct": 2.99
+      "droppedPct": 2.89
     }
   },
   "updated": {
-    "connex": "2026-11-24T15:01:58+00:00",
-    "spend_asof": "2026-11-24T15:01:58+00:00",
+    "connex": "2026-11-24T15:16:48+00:00",
+    "spend_asof": "2026-11-24T15:16:48+00:00",
     "spend_updated": "2026-11-24T14:55:58Z",
     "spend_latest_day": "2026-11-24"
   },
-  "built": "2026-11-24T15:01:58+00:00"
+  "built": "2026-11-24T15:16:48+00:00"
 }
