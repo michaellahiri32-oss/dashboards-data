@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-24T11:47:42Z",
+  "generated": "2026-11-24T12:03:03Z",
   "from": "2026-11-11",
   "to": "2026-11-24",
   "agentNames": [
@@ -617,9 +617,9 @@
   "campaigns": {
     "Accident Management": {
       "2026-11-24": {
-        "in": 12,
+        "in": 14,
         "ans": 10,
-        "aband": 2
+        "aband": 4
       },
       "2026-11-23": {
         "in": 9,
@@ -738,6 +738,11 @@
   "queues": {
     "Accident Management": {
       "2026-11-24": {
+        "Keep-Driving-INB": {
+          "in": 6,
+          "ans": 4,
+          "aband": 2
+        },
         "UK-Accident-Management": {
           "in": 4,
           "ans": 4,
@@ -747,11 +752,6 @@
           "in": 2,
           "ans": 1,
           "aband": 1
-        },
-        "Keep-Driving-INB": {
-          "in": 4,
-          "ans": 4,
-          "aband": 0
         },
         "WAclaimsgrou-Firths": {
           "in": 1,
