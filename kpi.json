@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-24T09:17:27Z",
+  "generated": "2026-11-24T09:32:39Z",
   "range": {
     "from": "2026-06-09",
     "to": "2026-11-24"
@@ -9,8 +9,8 @@
       "m": "2026-06",
       "label": "Jun 26",
       "instructs": 106,
-      "inbound": 3566,
-      "inbound_shift": 3611,
+      "inbound": 3565,
+      "inbound_shift": 3610,
       "abandons": 43,
       "spend": 78172.0,
       "weeks": [
@@ -20,8 +20,8 @@
           "start": "2026-06-09",
           "end": "2026-06-14",
           "instructs": 11,
-          "inbound": 697,
-          "inbound_shift": 698,
+          "inbound": 696,
+          "inbound_shift": 697,
           "abandons": 14,
           "spend": null
         },
@@ -339,10 +339,10 @@
       "m": "2026-11",
       "label": "Nov 26",
       "instructs": 331,
-      "inbound": 8434,
-      "inbound_shift": 8481,
-      "abandons": 959,
-      "spend": 254652.12,
+      "inbound": 8445,
+      "inbound_shift": 8492,
+      "abandons": 960,
+      "spend": 254732.66,
       "weeks": [
         {
           "m": "2026-11:2026-10-26",
@@ -394,10 +394,10 @@
           "start": "2026-11-23",
           "end": "2026-11-24",
           "instructs": 17,
-          "inbound": 947,
-          "inbound_shift": 947,
-          "abandons": 145,
-          "spend": 12741.73
+          "inbound": 958,
+          "inbound_shift": 958,
+          "abandons": 146,
+          "spend": 12822.27
         }
       ]
     }
