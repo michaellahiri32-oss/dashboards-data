@@ -273,6 +273,15 @@ def main():
             b["instructs"] += 1
     days.setdefault(day_str, {"calls": 0, "instructs": 0, "inbShift": 0, "dropShift": 0})   # today always present
 
+    # ---- per-hour counts (calls + leads) for the "vs yesterday" tracker; last 8 days ----
+    hcut = (day - timedelta(days=7)).isoformat()
+    hourly = {}
+    for x in recs:
+        if x["date"] < hcut: continue
+        hr = hourly.setdefault(x["date"], {"calls":[0]*24, "leads":[0]*24})
+        if x["inbound"]: hr["calls"][x["hour"]] += 1
+        if x["sale"] == 1 and not x["hrdup"]: hr["leads"][x["hour"]] += 1
+
     history = {}
     for d_s in sorted(days):
         c = days[d_s]["calls"]; ins = days[d_s]["instructs"]
@@ -306,6 +315,8 @@ def main():
         "cpi": cpi,
         # history for the date picker: {date: {calls, instructs, spend, cpi}}
         "history": history,
+        # per-hour calls+leads for the "vs yesterday" hourly tracker (last 8 days)
+        "hourly": hourly,
         # per-section freshness. Connex reflects THIS build; spend reflects the CSV's latest date.
         "updated": {
             "connex": now_iso,               # calls + instructs are as fresh as this run
