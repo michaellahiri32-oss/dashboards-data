@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T12:17:44Z",
+  "generated": "2026-11-25T12:33:14Z",
   "from": "2026-11-12",
   "to": "2026-11-25",
   "agentNames": [
@@ -642,8 +642,8 @@
   "campaigns": {
     "Accident Management": {
       "2026-11-25": {
-        "in": 19,
-        "ans": 11,
+        "in": 20,
+        "ans": 12,
         "aband": 8
       },
       "2026-11-24": {
@@ -764,8 +764,8 @@
     "Accident Management": {
       "2026-11-25": {
         "UK-Accident-Management": {
-          "in": 4,
-          "ans": 4,
+          "in": 5,
+          "ans": 5,
           "aband": 0
         },
         "Keep-Driving-INB": {
