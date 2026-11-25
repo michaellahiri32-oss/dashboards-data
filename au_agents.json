@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T08:47:40Z",
+  "generated": "2026-11-25T09:02:44Z",
   "from": "2026-11-12",
   "to": "2026-11-25",
   "agentNames": [
@@ -643,8 +643,8 @@
     "Accident Management": {
       "2026-11-25": {
         "in": 13,
-        "ans": 9,
-        "aband": 4
+        "ans": 8,
+        "aband": 5
       },
       "2026-11-24": {
         "in": 14,
@@ -765,8 +765,8 @@
       "2026-11-25": {
         "Keep-Driving-INB": {
           "in": 3,
-          "ans": 3,
-          "aband": 0
+          "ans": 2,
+          "aband": 1
         },
         "WAClaimsGroupWALAW": {
           "in": 3,
