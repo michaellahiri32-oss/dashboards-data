@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T10:03:06Z",
+  "generated": "2026-11-25T10:17:41Z",
   "from": "2026-11-12",
   "to": "2026-11-25",
   "agentNames": [
@@ -642,9 +642,9 @@
   "campaigns": {
     "Accident Management": {
       "2026-11-25": {
-        "in": 15,
+        "in": 16,
         "ans": 10,
-        "aband": 5
+        "aband": 6
       },
       "2026-11-24": {
         "in": 14,
@@ -763,15 +763,15 @@
   "queues": {
     "Accident Management": {
       "2026-11-25": {
+        "Keep-Driving-INB": {
+          "in": 4,
+          "ans": 2,
+          "aband": 2
+        },
         "UK-Accident-Management": {
           "in": 3,
           "ans": 3,
           "aband": 0
-        },
-        "Keep-Driving-INB": {
-          "in": 3,
-          "ans": 2,
-          "aband": 1
         },
         "WAClaimsGroupWALAW": {
           "in": 3,
