@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T08:17:36Z",
+  "generated": "2026-11-25T08:32:42Z",
   "from": "2026-11-12",
   "to": "2026-11-25",
   "agentNames": [
@@ -642,8 +642,8 @@
   "campaigns": {
     "Accident Management": {
       "2026-11-25": {
-        "in": 12,
-        "ans": 8,
+        "in": 13,
+        "ans": 9,
         "aband": 4
       },
       "2026-11-24": {
@@ -763,14 +763,14 @@
   "queues": {
     "Accident Management": {
       "2026-11-25": {
-        "WAClaimsGroupWALAW": {
+        "Keep-Driving-INB": {
           "in": 3,
           "ans": 3,
           "aband": 0
         },
-        "Keep-Driving-INB": {
-          "in": 2,
-          "ans": 2,
+        "WAClaimsGroupWALAW": {
+          "in": 3,
+          "ans": 3,
           "aband": 0
         },
         "WAclaimsgrou-Firths": {
