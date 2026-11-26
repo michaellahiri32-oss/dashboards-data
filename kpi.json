@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T14:49:03Z",
+  "generated": "2026-11-26T15:02:48Z",
   "range": {
     "from": "2026-06-09",
     "to": "2026-11-26"
@@ -64,8 +64,8 @@
       "m": "2026-07",
       "label": "Jul 26",
       "instructs": 451,
-      "inbound": 5620,
-      "inbound_shift": 5779,
+      "inbound": 5621,
+      "inbound_shift": 5780,
       "abandons": 401,
       "spend": 247597.0,
       "weeks": [
@@ -75,8 +75,8 @@
           "start": "2026-07-01",
           "end": "2026-07-05",
           "instructs": 89,
-          "inbound": 1329,
-          "inbound_shift": 1345,
+          "inbound": 1330,
+          "inbound_shift": 1346,
           "abandons": 145,
           "spend": null
         },
@@ -130,8 +130,8 @@
       "m": "2026-08",
       "label": "Aug 26",
       "instructs": 384,
-      "inbound": 3774,
-      "inbound_shift": 4234,
+      "inbound": 3773,
+      "inbound_shift": 4233,
       "abandons": 97,
       "spend": 230840.0,
       "weeks": [
@@ -174,8 +174,8 @@
           "start": "2026-08-17",
           "end": "2026-08-23",
           "instructs": 81,
-          "inbound": 823,
-          "inbound_shift": 927,
+          "inbound": 822,
+          "inbound_shift": 926,
           "abandons": 20,
           "spend": null
         },
@@ -208,7 +208,7 @@
       "label": "Sep 26",
       "instructs": 388,
       "inbound": 1644,
-      "inbound_shift": 5298,
+      "inbound_shift": 5299,
       "abandons": 163,
       "spend": null,
       "weeks": [
@@ -263,7 +263,7 @@
           "end": "2026-09-30",
           "instructs": 40,
           "inbound": 95,
-          "inbound_shift": 905,
+          "inbound_shift": 906,
           "abandons": 2,
           "spend": 30360.12
         }
@@ -339,10 +339,10 @@
       "m": "2026-11",
       "label": "Nov 26",
       "instructs": 373,
-      "inbound": 9842,
-      "inbound_shift": 9898,
+      "inbound": 9853,
+      "inbound_shift": 9909,
       "abandons": 988,
-      "spend": 277747.21,
+      "spend": 278007.97,
       "weeks": [
         {
           "m": "2026-11:2026-10-26",
@@ -394,10 +394,10 @@
           "start": "2026-11-23",
           "end": "2026-11-26",
           "instructs": 59,
-          "inbound": 2355,
-          "inbound_shift": 2364,
+          "inbound": 2366,
+          "inbound_shift": 2375,
           "abandons": 174,
-          "spend": 35836.82
+          "spend": 36097.58
         }
       ]
     }
