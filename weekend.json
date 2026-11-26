@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T13:47:35Z",
+  "generated": "2026-11-26T14:02:28Z",
   "from": "2026-09-01",
   "rows": [
     {
@@ -97,13 +97,13 @@
       "date": "2026-09-27",
       "dow": "Sun",
       "spend": 11178.21,
-      "calls": 241,
+      "calls": 240,
       "instructs": 14,
       "conv": 5.8,
       "cpi": 798.44,
-      "offered": 234,
+      "offered": 233,
       "drops": 78,
-      "dropPct": 33.3,
+      "dropPct": 33.5,
       "staff": 2
     },
     {
