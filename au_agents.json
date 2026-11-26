@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T10:47:49Z",
+  "generated": "2026-11-26T11:03:06Z",
   "from": "2026-11-13",
   "to": "2026-11-26",
   "agentNames": [
@@ -655,8 +655,8 @@
   "campaigns": {
     "Accident Management": {
       "2026-11-26": {
-        "in": 20,
-        "ans": 15,
+        "in": 21,
+        "ans": 16,
         "aband": 5
       },
       "2026-11-25": {
@@ -777,8 +777,8 @@
     "Accident Management": {
       "2026-11-26": {
         "UK-Accident-Management": {
-          "in": 4,
-          "ans": 4,
+          "in": 5,
+          "ans": 5,
           "aband": 0
         },
         "WAClaimsGroupWALAW": {
