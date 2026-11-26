@@ -1,11 +1,11 @@
 {
   "day": "2026-11-26",
-  "calls": 314,
-  "instructs": 9,
+  "calls": 323,
+  "instructs": 10,
   "dropped": 6,
-  "droppedPct": 1.93,
-  "spend": 3733.47,
-  "cpi": 414.83,
+  "droppedPct": 1.88,
+  "spend": 4267.61,
+  "cpi": 426.76,
   "history": {
     "2026-09-28": {
       "calls": 530,
@@ -264,12 +264,12 @@
       "droppedPct": 3.9
     },
     "2026-10-30": {
-      "calls": 118,
+      "calls": 119,
       "instructs": 7,
       "spend": 4330.8,
       "cpi": 618.69,
       "dropped": 4,
-      "droppedPct": 3.54
+      "droppedPct": 3.51
     },
     "2026-10-31": {
       "calls": 88,
@@ -328,12 +328,12 @@
       "droppedPct": 7.14
     },
     "2026-11-07": {
-      "calls": 115,
+      "calls": 116,
       "instructs": 5,
       "spend": 6408.64,
       "cpi": 1281.73,
       "dropped": 33,
-      "droppedPct": 30.28
+      "droppedPct": 30.0
     },
     "2026-11-08": {
       "calls": 201,
@@ -408,12 +408,12 @@
       "droppedPct": 13.2
     },
     "2026-11-17": {
-      "calls": 672,
+      "calls": 671,
       "instructs": 23,
       "spend": 16042.25,
       "cpi": 697.49,
       "dropped": 67,
-      "droppedPct": 10.01
+      "droppedPct": 10.03
     },
     "2026-11-18": {
       "calls": 676,
@@ -480,12 +480,12 @@
       "droppedPct": 1.47
     },
     "2026-11-26": {
-      "calls": 314,
-      "instructs": 9,
-      "spend": 3733.47,
-      "cpi": 414.83,
+      "calls": 323,
+      "instructs": 10,
+      "spend": 4267.61,
+      "cpi": 426.76,
       "dropped": 6,
-      "droppedPct": 1.93
+      "droppedPct": 1.88
     }
   },
   "hourly": {
@@ -507,7 +507,7 @@
         44,
         44,
         46,
-        38,
+        47,
         0,
         0,
         0,
@@ -533,7 +533,7 @@
         1,
         0,
         1,
-        1,
+        2,
         0,
         0,
         0,
@@ -923,10 +923,10 @@
     }
   },
   "updated": {
-    "connex": "2026-11-26T16:46:47+00:00",
-    "spend_asof": "2026-11-26T16:46:47+00:00",
-    "spend_updated": "2026-11-26T16:29:42Z",
+    "connex": "2026-11-26T17:01:57+00:00",
+    "spend_asof": "2026-11-26T17:01:57+00:00",
+    "spend_updated": "2026-11-26T16:55:57Z",
     "spend_latest_day": "2026-11-26"
   },
-  "built": "2026-11-26T16:46:47+00:00"
+  "built": "2026-11-26T17:01:57+00:00"
 }
