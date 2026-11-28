@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-27T21:02:33Z",
-  "from": "2026-11-14",
-  "to": "2026-11-27",
+  "generated": "2026-11-28T08:02:27Z",
+  "from": "2026-11-15",
+  "to": "2026-11-28",
   "agentNames": [
     "Andrew Aremu",
     "Simon Warren",
@@ -636,6 +636,11 @@
   },
   "campaigns": {
     "Accident Management": {
+      "2026-11-28": {
+        "in": 1,
+        "ans": 0,
+        "aband": 1
+      },
       "2026-11-27": {
         "in": 10,
         "ans": 9,
@@ -757,6 +762,13 @@
   },
   "queues": {
     "Accident Management": {
+      "2026-11-28": {
+        "ResolveClaimsGroup": {
+          "in": 1,
+          "ans": 0,
+          "aband": 1
+        }
+      },
       "2026-11-27": {
         "Keep-Driving-INB": {
           "in": 1,
